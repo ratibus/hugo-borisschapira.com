@@ -1,0 +1,46 @@
+---
+baseurl: "https://borisschapira.com/"
+defaultContentLanguage: fr
+enableMissingTranslationPlaceholders: true
+
+Languages:
+  fr:
+    weight: 1
+    title: "Boris Schapira"
+  en:
+    weight: 2
+    title: "Hi, I'm Boris"
+    
+theme: "bs-theme"
+copyright: "&copy; Boris Schapira"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
+SectionPagesMenu: "main"
+
+footnotereturnlinkcontents: "↩"
+permalinks:
+  default: "/:year-:month-:title/"
+  papa: ":section/:year-:month-:title/"
+  citoyen: ":section/:year-:month-:title/"
+paginatePath: ""
+
+paginate: 2
+
+googleAnalytics: ""
+
+params:
+    highlight:
+        style: "github"
+        languages: ["go", "dockerfile"]
+    social:
+        - url: "https://github.com/borisschapira"
+          fa_icon: "fa-github"
+        - url: "https://twitter.com/borisschapira"
+          fa_icon: "fa-twitter"
+        - url: "/index.xml"
+          fa_icon: "fa-rss"
+---
