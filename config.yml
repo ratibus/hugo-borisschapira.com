@@ -23,12 +23,12 @@ SectionPagesMenu: "main"
 
 footnotereturnlinkcontents: "↩"
 permalinks:
-  default: "/:year-:month-:title/"
-  papa: ":section/:year-:month-:title/"
-  citoyen: ":section/:year-:month-:title/"
+  default: "/:year/:month/:title/"
+  papa: ":section/:year/:month/:title/"
+  citoyen: ":section/:year/:month/:title/"
 paginatePath: ""
 
-paginate: 2
+paginate: 20
 
 googleAnalytics: ""
 
