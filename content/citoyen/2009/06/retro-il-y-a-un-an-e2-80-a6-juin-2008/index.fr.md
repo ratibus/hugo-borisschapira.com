@@ -4,9 +4,12 @@ tags:
     - Société
     - Rétro
 date: '2009-06-01'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: retro-il-y-a-un-an-e2-80-a6-juin-2008
+section: citoyen
 2009:
     - '06'
 ---

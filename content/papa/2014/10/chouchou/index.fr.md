@@ -1,9 +1,12 @@
 ---
 title: Chouchou
 date: '2014-10-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: chouchou
+section: papa
 2014:
     - '10'
 ---
@@ -16,7 +19,7 @@ Aucune réponse. Je le prends sur mes épaules et accélère le pas pour que nou
 
 Sa mère s'interpose. Elle se présente, puis demande pourquoi il l'appelle Chouchou, sachant que son prénom est Solange. Je ne sais pas quoi dire, mais lui a la réponse :
 
-> A pas Solange, non, Solange a trop moche, trop trop moche.
+> A pas Solange, non, Solange a trop moche, trop trop moche.  
 > A pas dire Solange à kékole, tout le monde a dire 'Chouchou' ! Joli nom a 'Chouchou'.
 
 Autant dire que la mère n'a pas vraiment apprécié.

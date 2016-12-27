@@ -1,9 +1,12 @@
 ---
 title: '5 minutes'
 date: '2015-02-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: 5-minutes
+section: papa
 2015:
     - '02'
 ---

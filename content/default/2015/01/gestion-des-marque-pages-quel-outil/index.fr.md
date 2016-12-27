@@ -4,9 +4,12 @@ tags:
     - Outils
     - Veille
 date: '2015-01-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: gestion-des-marque-pages-quel-outil
+section: default
 2015:
     - '01'
 ---

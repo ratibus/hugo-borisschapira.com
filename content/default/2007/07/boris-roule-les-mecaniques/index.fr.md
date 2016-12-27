@@ -5,9 +5,12 @@ tags:
     - 'Forza Motorsport 2'
     - XBox360
 date: '2007-07-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: boris-roule-les-mecaniques
+section: default
 2007:
     - '07'
 ---

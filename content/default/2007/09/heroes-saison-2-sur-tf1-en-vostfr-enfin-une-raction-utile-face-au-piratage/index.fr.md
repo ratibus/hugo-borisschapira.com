@@ -6,9 +6,12 @@ tags:
     - Télévision
     - TF1
 date: '2007-09-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: heroes-saison-2-sur-tf1-en-vostfr-enfin-une-raction-utile-face-au-piratage
+section: default
 2007:
     - '09'
 ---

@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-05-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: merci-pierre-christophe-baguet
+section: citoyen
 2009:
     - '05'
 ---

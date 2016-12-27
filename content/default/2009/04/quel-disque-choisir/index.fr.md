@@ -6,9 +6,12 @@ tags:
     - 'Ready Nas Duo'
     - Stockage
 date: '2009-04-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: quel-disque-choisir
+section: default
 2009:
     - '04'
 ---

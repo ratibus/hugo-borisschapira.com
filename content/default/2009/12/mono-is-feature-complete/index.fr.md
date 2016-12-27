@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/12/14/mono-c-compiler-is-now-c-4-0-fea
 tags:
     - Nexdotnet
 date: '2009-12-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mono-is-feature-complete
+section: default
 2009:
     - '12'
 ---

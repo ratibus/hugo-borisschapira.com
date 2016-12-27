@@ -5,9 +5,12 @@ tags:
     - Boulogne
     - Microsoft
 date: '2008-10-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rencontre-des-communautes-a-boulogne
+section: default
 2008:
     - '10'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'Wagner''s World'
 date: '2014-11-08'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: wagners-world
+section: papa
 2014:
     - '11'
 ---

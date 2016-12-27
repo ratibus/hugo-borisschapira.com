@@ -4,9 +4,12 @@ tags:
     - 'Vie Privée'
     - 'Scripts Tiers'
 date: '2013-10-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: donnees-personnelles-enjeu-davenir
+section: default
 2013:
     - '10'
 ---

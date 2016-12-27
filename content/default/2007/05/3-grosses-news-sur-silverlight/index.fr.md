@@ -10,9 +10,12 @@ tags:
     - 'Thomas Lebrun'
     - 'Windows Live'
 date: '2007-05-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: 3-grosses-news-sur-silverlight
+section: default
 2007:
     - '05'
 ---

@@ -6,9 +6,12 @@ tags:
     - Emploi
     - Nexeo
 date: '2008-10-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: lit-au-service-du-trading
+section: default
 2008:
     - '10'
 ---

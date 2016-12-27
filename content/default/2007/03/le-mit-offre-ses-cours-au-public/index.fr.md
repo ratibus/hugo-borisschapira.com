@@ -3,9 +3,12 @@ title: 'MIT Open Course Ware'
 tags:
     - Education
 date: '2007-03-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-mit-offre-ses-cours-au-public
+section: default
 2007:
     - '03'
 ---

@@ -1,9 +1,12 @@
 ---
 title: Complicité
 date: '2015-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: complicite
+section: papa
 2015:
     - '12'
 ---

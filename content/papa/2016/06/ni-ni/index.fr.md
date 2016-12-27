@@ -1,9 +1,12 @@
 ---
 title: 'Ni ni'
 date: '2016-06-06'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ni-ni
+section: papa
 2016:
     - '06'
 ---
@@ -12,15 +15,15 @@ En racontant l'histoire du soir, mon grand remarque que le livre est déchiré.
 
 <!-- more -->
 
-> — Papa, pourquoi il manque un bout, là ?
-> — Parce que vous l'avez déchiré.
-> — Non !
-> — Si.
-> — Non !
-> — Si.
-> — Non !
-> — Tu connais le jeu du ni oui, ni non ?
-> — Non !
+> — Papa, pourquoi il manque un bout, là ?  
+> — Parce que vous l'avez déchiré.  
+> — Non !  
+> — Si.  
+> — Non !  
+> — Si.  
+> — Non !  
+> — Tu connais le jeu du ni oui, ni non ?  
+> — Non !  
 > — Ben t'as perdu.
 
 <figure>

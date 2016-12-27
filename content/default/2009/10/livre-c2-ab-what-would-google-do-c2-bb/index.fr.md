@@ -6,9 +6,12 @@ tags:
     - Medias
     - Web
 date: '2009-10-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: livre-c2-ab-what-would-google-do-c2-bb
+section: default
 2009:
     - '10'
 ---

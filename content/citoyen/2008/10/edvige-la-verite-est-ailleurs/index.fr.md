@@ -3,9 +3,12 @@ title: 'Edvige, la vérité est ailleurs'
 tags:
     - Sécurité
 date: '2008-10-10'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: edvige-la-verite-est-ailleurs
+section: citoyen
 2008:
     - '10'
 ---

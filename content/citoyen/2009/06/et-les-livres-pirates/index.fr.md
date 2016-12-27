@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-06-04'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: et-les-livres-pirates
+section: citoyen
 2009:
     - '06'
 ---

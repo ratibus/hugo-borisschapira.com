@@ -1,9 +1,12 @@
 ---
 title: 'Les activités des grands'
 date: '2015-11-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: les-activites-des-grands
+section: papa
 2015:
     - '11'
 ---

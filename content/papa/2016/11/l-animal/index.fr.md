@@ -1,9 +1,12 @@
 ---
 title: 'L''animal'
 date: '2016-11-04'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: l-animal
+section: papa
 2016:
     - '11'
 ---
@@ -24,7 +27,7 @@ Avec le grand, nous commençons à jouer aux devinettes. Aujourd'hui, il fallait
 > — Oui !  
 > — Euh mais un tyrannosaure, c'est pas blanc et orange.  
 > — Si, celui-là il est blanc et orange.  
-> — Mais c'est pas de la taille d'un lapin !
+> — Mais c'est pas de la taille d'un lapin !  
 > — Si, c'est un petit-rannosaure.     
 > — Mais, mais, ça n'a pas de poils !  
 > — Si, parce que c'est un papa ! Les papas, ça a des poils !  

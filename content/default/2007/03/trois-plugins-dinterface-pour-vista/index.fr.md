@@ -3,9 +3,12 @@ title: 'Marre du classique Alt+Tab ?'
 tags:
     - Outils
 date: '2007-03-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: trois-plugins-dinterface-pour-vista
+section: default
 2007:
     - '03'
 ---

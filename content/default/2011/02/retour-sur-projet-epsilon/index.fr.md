@@ -3,9 +3,12 @@ title: 'Retour sur : Projet Epsilon'
 tags:
     - 'Me, myself and I'
 date: '2011-02-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retour-sur-projet-epsilon
+section: default
 2011:
     - '02'
 ---

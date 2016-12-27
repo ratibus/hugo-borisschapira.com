@@ -4,9 +4,12 @@ tags:
     - 'Scripts Tiers'
     - Front-End
 date: '2012-06-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: 13h37-tous-dans-le-train
+section: default
 2012:
     - '06'
 ---

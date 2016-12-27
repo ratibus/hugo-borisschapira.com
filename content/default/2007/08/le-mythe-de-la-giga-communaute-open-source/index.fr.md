@@ -4,9 +4,12 @@ tags:
     - Développement
     - 'Logiciel Libre'
 date: '2007-08-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-mythe-de-la-giga-communaute-open-source
+section: default
 2007:
     - '08'
 ---

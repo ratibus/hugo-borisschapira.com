@@ -3,9 +3,12 @@ title: 'Student Days : compte-rendu'
 tags:
     - Conférences
 date: '2007-02-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: student-days-compte-rendu
+section: default
 2007:
     - '02'
 ---

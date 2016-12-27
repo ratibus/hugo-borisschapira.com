@@ -4,9 +4,12 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dangers-du-net-le-cheval-de-troie
+section: default
 2007:
     - '04'
 ---

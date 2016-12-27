@@ -1,17 +1,20 @@
 ---
 title: 'Partout chez lui'
 date: '2015-02-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: partout-chez-lui
+section: papa
 2015:
     - '02'
 ---
 
-> — A voir la maison de Papa-Maman !
-> — C'est aussi ta maison mon amour.
-> — Non pas maison à moi, à Papa-Maman.
-> — Ah bon, mais alors c'est où chez toi ?
+> — A voir la maison de Papa-Maman !  
+> — C'est aussi ta maison mon amour.  
+> — Non pas maison à moi, à Papa-Maman.  
+> — Ah bon, mais alors c'est où chez toi ?  
 > — Chez moi, là !
 
 Il me montre sa tête et rajoute :

@@ -5,9 +5,12 @@ tags:
     - 'Content Query Web Part'
     - 'MOSS 2007'
 date: '2007-06-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: moss-2007-5-etapes-pour-maitriser-le-content-query-web-part
+section: default
 2007:
     - '06'
 ---

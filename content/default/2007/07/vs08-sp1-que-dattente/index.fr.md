@@ -4,9 +4,12 @@ tags:
     - .NET
     - Windows
 date: '2007-07-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: vs08-sp1-que-dattente
+section: default
 2007:
     - '07'
 ---

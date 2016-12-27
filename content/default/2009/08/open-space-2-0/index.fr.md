@@ -5,9 +5,12 @@ tags:
     - Emploi
     - Web
 date: '2009-08-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: open-space-2-0
+section: default
 2009:
     - '08'
 ---

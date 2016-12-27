@@ -3,9 +3,12 @@ title: 'Un collègue rejoint les MSP !'
 tags:
     - MSP
 date: '2007-05-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-collegue-rejoint-les-msp
+section: default
 2007:
     - '05'
 ---

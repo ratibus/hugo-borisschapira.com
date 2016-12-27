@@ -3,9 +3,12 @@ title: '8 façons de me faire fuir'
 tags:
     - Emploi
 date: '2007-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: 8-facons-de-me-faire-fuir
+section: default
 2007:
     - '05'
 ---

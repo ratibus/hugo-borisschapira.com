@@ -5,9 +5,12 @@ tags:
     - PhotoSynth
     - 'Windows Live'
 date: '2007-08-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: photosynth-et-grand-public
+section: default
 2007:
     - '08'
 ---

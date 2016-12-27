@@ -6,9 +6,12 @@ tags:
     - StrangleHold
     - XBox360
 date: '2007-11-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: concours-stranglehold-rsultats
+section: default
 2007:
     - '11'
 ---

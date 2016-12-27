@@ -1,9 +1,12 @@
 ---
 title: Expériences
 date: '2013-03-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: experiences
+section: papa
 2013:
     - '03'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'Comme un mec bourré'
 date: '2016-07-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: comme-un-mec-bourre
+section: papa
 2016:
     - '07'
 ---

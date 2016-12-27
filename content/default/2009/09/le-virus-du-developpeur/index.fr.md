@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/09/30/vecu-le-virus-du-developpeur/'
 tags:
     - Nexdotnet
 date: '2009-09-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-virus-du-developpeur
+section: default
 2009:
     - '09'
 ---

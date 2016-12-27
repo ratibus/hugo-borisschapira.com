@@ -4,9 +4,12 @@ tags:
     - Humour
     - Insolite
 date: '2008-07-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: phrases-insolites-10
+section: default
 2008:
     - '07'
 ---

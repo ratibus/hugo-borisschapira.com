@@ -9,9 +9,12 @@ tags:
     - 'Windows Live'
     - XBox360
 date: '2007-06-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: jeu-concours-jamais-203
+section: default
 2007:
     - '06'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'Dans la peau'
 date: '2016-11-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: dans-la-peau
+section: papa
 2016:
     - '11'
 ---
@@ -20,6 +23,6 @@ Soudain, je perçois un mouvement. Doucement, il s’assoit dans le lit puis ten
 
 
 <figure>
-  <img src="/papa/2016/11/dans-la-peau/billy.gif" alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"/>
+  <img src="{{<fileFolder>}}billy.gif" alt="Billy Elliot est habité par la musique et danse sur les toits en compagnie d'un ami"/>
   <figcaption>Mon petit artiste <3</figcaption>
 </figure>

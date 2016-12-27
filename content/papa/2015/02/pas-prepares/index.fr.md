@@ -1,9 +1,12 @@
 ---
 title: 'Pas préparés'
 date: '2015-02-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: pas-prepares
+section: papa
 2015:
     - '02'
 ---

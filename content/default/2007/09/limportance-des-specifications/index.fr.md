@@ -2,10 +2,12 @@
 title: 'L''importance des spécifications'
 categories:
     - Développement
+    - default
 date: '2007-09-11'
-section: default
 lang: fr
 type: post
+slug: limportance-des-specifications
+section: default
 2007:
     - '09'
 ---

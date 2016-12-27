@@ -1,9 +1,12 @@
 ---
 title: 'Objet connecté'
 date: '2015-09-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: objet-connecte
+section: papa
 2015:
     - '09'
 ---

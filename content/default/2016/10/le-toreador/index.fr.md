@@ -1,9 +1,12 @@
 ---
 title: 'Le toréador'
 date: '2016-10-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-toreador
+section: default
 2016:
     - '10'
 ---

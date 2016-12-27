@@ -2,10 +2,12 @@
 title: 'Microsoft pour les étudiants'
 categories:
     - Technologie
+    - default
 date: '2007-05-31'
-section: default
 lang: fr
 type: post
+slug: microsoft-pour-les-tudiants
+section: default
 2007:
     - '05'
 ---

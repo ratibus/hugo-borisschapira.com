@@ -1,9 +1,12 @@
 ---
 title: 'Cupidon du cracra'
 date: '2011-08-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: cupidon-du-cracra
+section: papa
 2011:
     - '08'
 ---

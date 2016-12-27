@@ -2,10 +2,12 @@
 title: 'Blair à l''UMP… (sic)'
 categories:
     - Politique
+    - default
 date: '2008-01-15'
-section: default
 lang: fr
 type: post
+slug: blair-a-lump-sic
+section: default
 2008:
     - '01'
 ---

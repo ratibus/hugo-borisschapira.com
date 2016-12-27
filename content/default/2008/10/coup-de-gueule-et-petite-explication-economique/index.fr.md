@@ -5,9 +5,12 @@ tags:
     - 'Billet d''humeur'
     - Economie
 date: '2008-10-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: coup-de-gueule-et-petite-explication-economique
+section: default
 2008:
     - '10'
 ---

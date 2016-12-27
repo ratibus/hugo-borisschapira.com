@@ -3,9 +3,12 @@ title: 'Phrases… (spéciales grévistes)'
 tags:
     - Grève
 date: '2007-11-07'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: phrases-spciales-grvistes
+section: citoyen
 2007:
     - '11'
 ---

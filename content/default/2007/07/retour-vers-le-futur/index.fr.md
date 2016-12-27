@@ -3,9 +3,12 @@ title: 'Retour vers le futur'
 tags:
     - .NET
 date: '2007-07-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retour-vers-le-futur
+section: default
 2007:
     - '07'
 ---

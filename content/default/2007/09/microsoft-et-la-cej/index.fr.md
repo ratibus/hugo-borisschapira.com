@@ -5,9 +5,12 @@ tags:
     - Loi
     - Microsoft
 date: '2007-09-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-et-la-cej
+section: default
 2007:
     - '09'
 ---

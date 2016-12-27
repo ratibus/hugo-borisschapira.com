@@ -1,9 +1,12 @@
 ---
 title: 'Culture musicale'
 date: '2012-10-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: culture-musicale
+section: papa
 2012:
     - '10'
 ---

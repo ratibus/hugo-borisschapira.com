@@ -3,9 +3,12 @@ title: 'BootScout : poisson ou véritable révolution ?'
 tags:
     - Outils
 date: '2007-04-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: bootscout-poisson-ou-veritable-revolution
+section: default
 2007:
     - '04'
 ---

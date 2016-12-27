@@ -3,9 +3,12 @@ title: 'Tout est relatif, qu''il disait !'
 tags:
     - 'Sécurité routière'
 date: '2007-08-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: tout-est-relatif-quil-disait
+section: default
 2007:
     - '08'
 ---

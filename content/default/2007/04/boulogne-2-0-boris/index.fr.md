@@ -3,9 +3,12 @@ title: 'Boulogne 2 - 0 Boris'
 tags:
     - Boulogne
 date: '2007-04-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: boulogne-2-0-boris
+section: default
 2007:
     - '04'
 ---

@@ -4,9 +4,12 @@ tags:
     - Culture
     - Geek
 date: '2009-11-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-10-lois-geeks-en-france
+section: default
 2009:
     - '11'
 ---

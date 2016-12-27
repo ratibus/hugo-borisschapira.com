@@ -6,9 +6,12 @@ tags:
     - Interview
     - Microsoft
 date: '2007-06-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: la-pomme-et-le-papillon
+section: default
 2007:
     - '06'
 ---

@@ -5,14 +5,17 @@ tags:
     - Flash
     - 'Internet Explorer'
 date: '2009-02-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: ie6-arrive-a-un-certain-etat
+section: default
 2009:
     - '02'
 ---
 
-> Arrivé à un certain état, il est indécent de vivre plus longtemps.
+> Arrivé à un certain état, il est indécent de vivre plus longtemps.  
 >   <cite>Nietzsche</cite>
 
 Si y a bien un navigateur qui refuse de quitter proprement le monde numérique, c'est bien Internet Explorer 6.

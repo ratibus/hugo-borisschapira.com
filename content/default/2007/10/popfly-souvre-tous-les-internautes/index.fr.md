@@ -5,9 +5,12 @@ tags:
     - Popfly
     - Silverlight
 date: '2007-10-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: popfly-souvre-tous-les-internautes
+section: default
 2007:
     - '10'
 ---

@@ -1,9 +1,12 @@
 ---
 title: Productivité
 date: '2013-07-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: productivite
+section: papa
 2013:
     - '07'
 ---

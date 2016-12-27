@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-01-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: atelier-faire-part
+section: default
 2009:
     - '01'
 ---

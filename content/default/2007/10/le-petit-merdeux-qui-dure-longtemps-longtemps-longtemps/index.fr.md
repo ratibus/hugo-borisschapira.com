@@ -1,10 +1,12 @@
 ---
 title: 'Le petit merdeux qui dure longtemps, longtemps, longtemps…'
-categories: null
+categories:
+    - default
 date: '2007-10-29'
-section: default
 lang: fr
 type: post
+slug: le-petit-merdeux-qui-dure-longtemps-longtemps-longtemps
+section: default
 2007:
     - '10'
 ---

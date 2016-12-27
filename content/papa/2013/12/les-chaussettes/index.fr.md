@@ -1,9 +1,12 @@
 ---
 title: 'Les chaussettes'
 date: '2013-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: les-chaussettes
+section: papa
 2013:
     - '12'
 ---

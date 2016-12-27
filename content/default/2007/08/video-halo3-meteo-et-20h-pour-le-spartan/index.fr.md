@@ -4,9 +4,12 @@ tags:
     - Buzz
     - Halo3
 date: '2007-08-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: video-halo3-meteo-et-20h-pour-le-spartan
+section: default
 2007:
     - '08'
 ---

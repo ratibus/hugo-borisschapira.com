@@ -1,9 +1,12 @@
 ---
 title: 'Inscription du grand à l''école'
 date: '2014-03-04'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: inscription-du-grand-a-lecole
+section: papa
 2014:
     - '03'
 ---

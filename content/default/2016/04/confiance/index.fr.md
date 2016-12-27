@@ -1,9 +1,12 @@
 ---
 title: Confiance
 date: '2016-04-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: confiance
+section: default
 2016:
     - '04'
 ---

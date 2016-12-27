@@ -3,9 +3,12 @@ title: 'A la recherche du nouveau décompilateur'
 tags:
     - Outils
 date: '2011-06-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: a-la-recherche-du-nouveau-decompilateur
+section: default
 2011:
     - '06'
 ---

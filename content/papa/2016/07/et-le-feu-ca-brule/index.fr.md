@@ -1,9 +1,12 @@
 ---
 title: 'Et le feu ça brule'
 date: '2016-07-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: et-le-feu-ca-brule
+section: papa
 2016:
     - '07'
 ---
@@ -12,9 +15,9 @@ Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le 
 
 <!-- more -->
 
-> — Tu ne veux pas y aller, chéri ?
-> — Non, elle est méchante la piyine.
-> — Ah bon ?
+> — Tu ne veux pas y aller, chéri ?  
+> — Non, elle est méchante la piyine.  
+> — Ah bon ?  
 > — Yi, la piyine elle m'a mouillé le pied, Papa !
 
 <figure>

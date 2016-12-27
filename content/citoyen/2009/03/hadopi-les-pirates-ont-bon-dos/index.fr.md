@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-03-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: hadopi-les-pirates-ont-bon-dos
+section: citoyen
 2009:
     - '03'
 ---

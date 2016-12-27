@@ -3,9 +3,12 @@ title: 'Silverlight 5 : dernière version ?'
 tags:
     - Outils
 date: '2011-12-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: silverlight-5-derniere-version
+section: default
 2011:
     - '12'
 ---

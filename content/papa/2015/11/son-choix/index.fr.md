@@ -1,9 +1,12 @@
 ---
 title: 'Son choix'
 date: '2015-11-21'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: son-choix
+section: papa
 2015:
     - '11'
 ---
@@ -14,10 +17,10 @@ Notre grand, par exemple, a demandé de jolies bottes pour aller à l'école, en
 
 Le petit, de son côté, a eu un coup de foudre pour une paire de chaussure aux lacets verts fluo et à la semelle rose. Bonus : un petit coussin qui "pouet" quand on appuie dessus en les mettant. Mais à la caisse, blocage de la vendeuse :
 
-> — Monsieur, vous savez que ce sont des paires pour filles ?
-> — Peut-être, mais pas aujourd'hui, pas pour mon fils. Il les aime alors...
-> — Non mais... Elles sont ROSES !
-> — Oui, j'ai vu. Mais son papa aussi aime le rose, donc ce n'est pas un problème.
+> — Monsieur, vous savez que ce sont des paires pour filles ?  
+> — Peut-être, mais pas aujourd'hui, pas pour mon fils. Il les aime alors...  
+> — Non mais... Elles sont ROSES !  
+> — Oui, j'ai vu. Mais son papa aussi aime le rose, donc ce n'est pas un problème.  
 > — Ah bon. Bon alors si son Papa aime le rose [l'air méprisant]...
 
 <figure>

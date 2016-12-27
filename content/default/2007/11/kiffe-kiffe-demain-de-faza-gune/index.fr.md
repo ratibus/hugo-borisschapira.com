@@ -2,10 +2,12 @@
 title: '«&#160;Kiffe kiffe demain&#160;», Faïza Guène'
 categories:
     - Littérature
+    - default
 date: '2007-11-01'
-section: default
 lang: fr
 type: post
+slug: kiffe-kiffe-demain-de-faza-gune
+section: default
 2007:
     - '11'
 ---

@@ -3,9 +3,12 @@ title: 'Groupes, causes et amis dans Facebook'
 tags:
     - Facebook
 date: '2007-10-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: groupes-causes-et-amis-dans-facebook
+section: default
 2007:
     - '10'
 ---

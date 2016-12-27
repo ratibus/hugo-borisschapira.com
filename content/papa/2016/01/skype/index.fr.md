@@ -1,9 +1,12 @@
 ---
 title: 'L''appel Skype'
 date: '2016-01-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: skype
+section: papa
 2016:
     - '01'
 ---

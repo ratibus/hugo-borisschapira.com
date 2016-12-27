@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Liens
 date: '2008-12-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux
+section: default
 2008:
     - '12'
 ---

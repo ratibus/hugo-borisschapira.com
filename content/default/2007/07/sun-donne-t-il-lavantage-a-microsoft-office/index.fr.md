@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Microsoft Office'
 date: '2007-07-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sun-donne-t-il-lavantage-a-microsoft-office
+section: default
 2007:
     - '07'
 ---

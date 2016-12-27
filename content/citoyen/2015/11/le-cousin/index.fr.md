@@ -3,9 +3,12 @@ title: 'La connaissance du cousin'
 tags:
     - Égalité
 date: '2015-11-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: le-cousin
+section: citoyen
 2015:
     - '11'
 ---

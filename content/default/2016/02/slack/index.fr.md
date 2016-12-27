@@ -1,9 +1,12 @@
 ---
 title: 'Slack pour discuter ?'
 date: '2016-02-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: slack
+section: default
 2016:
     - '02'
 ---

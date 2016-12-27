@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-09-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
+section: default
 2009:
     - '09'
 ---

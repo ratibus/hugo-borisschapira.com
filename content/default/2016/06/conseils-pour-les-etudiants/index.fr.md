@@ -3,9 +3,12 @@ title: 'Conseils pour mes étudiants'
 tags:
     - Enseignement
 date: '2016-06-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: conseils-pour-les-etudiants
+section: default
 2016:
     - '06'
 ---

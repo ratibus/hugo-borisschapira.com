@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-05-11'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: hadopi-vote-demain-a-lassemblee
+section: citoyen
 2009:
     - '05'
 ---

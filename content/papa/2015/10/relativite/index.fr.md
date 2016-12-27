@@ -1,9 +1,12 @@
 ---
 title: Relativité
 date: '2015-10-23'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: relativite
+section: papa
 2015:
     - '10'
 ---

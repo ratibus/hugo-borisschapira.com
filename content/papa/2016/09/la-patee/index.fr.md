@@ -1,9 +1,12 @@
 ---
 title: 'La pâtée'
 date: '2016-09-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-patee
+section: papa
 2016:
     - '09'
 ---
@@ -14,9 +17,9 @@ Cet après-midi, on lance Wipeout, un jeu de course futuriste sur la PS3.
 
 Ma femme encourage le grand qui joue contre moi :
 
-> — Vas-y mon grand, mets-lui sa pâtée !
-> — Euh, il est où son pâté ?
-> — Non, **sa** pâtée. Ça veut dire que tu gagnes !
+> — Vas-y mon grand, mets-lui sa pâtée !  
+> — Euh, il est où son pâté ?  
+> — Non, **sa** pâtée. Ça veut dire que tu gagnes !  
 > — Ah d'accord !
 
 Dix minutes plus tard, il avait compris l'expression :

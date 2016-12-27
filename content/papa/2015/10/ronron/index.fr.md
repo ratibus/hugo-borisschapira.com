@@ -1,9 +1,12 @@
 ---
 title: Ronron
 date: '2015-10-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ronron
+section: papa
 2015:
     - '10'
 ---

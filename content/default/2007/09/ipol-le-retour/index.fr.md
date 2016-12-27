@@ -2,10 +2,12 @@
 title: 'Ipol : le retour'
 categories:
     - Politique
+    - default
 date: '2007-09-30'
-section: default
 lang: fr
 type: post
+slug: ipol-le-retour
+section: default
 2007:
     - '09'
 ---

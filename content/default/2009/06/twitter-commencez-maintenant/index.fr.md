@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Microblogging
 date: '2009-06-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: twitter-commencez-maintenant
+section: default
 2009:
     - '06'
 ---

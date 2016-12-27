@@ -1,9 +1,12 @@
 ---
 title: 'Tout ça pour ça'
 date: '2013-05-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: tout-ca-pour-ca
+section: papa
 2013:
     - '05'
 ---

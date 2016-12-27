@@ -6,9 +6,12 @@ hidden: true
 tags:
     - Typograph
 date: '2005-01-01'
-section: default
 lang: en
 type: post
+categories:
+    - default
+slug: typo-test
+section: default
 2005:
     - '01'
 ---

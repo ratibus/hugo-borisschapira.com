@@ -1,9 +1,12 @@
 ---
 title: Révélation
 date: '2014-03-30'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: revelation
+section: papa
 2014:
     - '03'
 ---

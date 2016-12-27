@@ -1,9 +1,12 @@
 ---
 title: 'Vive la technologie'
 date: '2014-05-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: vive-la-technologie
+section: papa
 2014:
     - '05'
 ---

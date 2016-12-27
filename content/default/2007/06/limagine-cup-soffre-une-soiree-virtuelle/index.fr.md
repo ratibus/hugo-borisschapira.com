@@ -3,9 +3,12 @@ title: 'L''Imagine Cup s''offre une soirée virtuelle'
 tags:
     - 'Imagine Cup'
 date: '2007-06-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: limagine-cup-soffre-une-soiree-virtuelle
+section: default
 2007:
     - '06'
 ---

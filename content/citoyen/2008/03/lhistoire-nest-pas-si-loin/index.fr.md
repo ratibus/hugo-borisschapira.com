@@ -3,9 +3,12 @@ title: 'L''Histoire n''est pas si loin…'
 tags:
     - Insolite
 date: '2008-03-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: lhistoire-nest-pas-si-loin
+section: citoyen
 2008:
     - '03'
 ---

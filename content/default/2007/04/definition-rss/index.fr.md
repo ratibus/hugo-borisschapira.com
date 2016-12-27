@@ -5,9 +5,12 @@ tags:
     - RSS
     - Web
 date: '2007-04-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: definition-rss
+section: default
 2007:
     - '04'
 ---

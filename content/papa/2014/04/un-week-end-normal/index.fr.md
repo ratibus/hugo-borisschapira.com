@@ -1,9 +1,12 @@
 ---
 title: 'Un week-end normal'
 date: '2014-04-13'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: un-week-end-normal
+section: papa
 2014:
     - '04'
 ---

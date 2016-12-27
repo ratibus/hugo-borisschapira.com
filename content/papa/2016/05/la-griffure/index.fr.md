@@ -1,9 +1,12 @@
 ---
 title: 'La griffure'
 date: '2016-05-24'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-griffure
+section: papa
 2016:
     - '05'
 ---

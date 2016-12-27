@@ -4,9 +4,12 @@ tags:
     - Front-End
     - Conférences
 date: '2014-11-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: moments-frustrants
+section: default
 2014:
     - '11'
 ---

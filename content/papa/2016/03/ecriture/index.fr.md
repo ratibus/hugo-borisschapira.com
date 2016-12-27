@@ -1,9 +1,12 @@
 ---
 title: Écriture
 date: '2016-03-06'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ecriture
+section: papa
 2016:
     - '03'
 ---

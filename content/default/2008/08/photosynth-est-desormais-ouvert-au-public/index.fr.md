@@ -4,9 +4,12 @@ tags:
     - Technologie
     - PhotoSynth
 date: '2008-08-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: photosynth-est-desormais-ouvert-au-public
+section: default
 2008:
     - '08'
 ---

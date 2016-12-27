@@ -5,9 +5,12 @@ tags:
     - Buzz
     - Web
 date: '2007-12-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: nous-les-racoleurs-de-luxe
+section: default
 2007:
     - '12'
 ---

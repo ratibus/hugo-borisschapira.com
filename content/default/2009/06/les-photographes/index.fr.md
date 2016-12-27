@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-06-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-photographes
+section: default
 2009:
     - '06'
 ---

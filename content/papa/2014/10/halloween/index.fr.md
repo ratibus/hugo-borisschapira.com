@@ -1,9 +1,12 @@
 ---
 title: Halloween
 date: '2014-10-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: halloween
+section: papa
 2014:
     - '10'
 ---

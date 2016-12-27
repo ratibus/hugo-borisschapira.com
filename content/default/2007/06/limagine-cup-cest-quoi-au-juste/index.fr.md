@@ -6,9 +6,12 @@ tags:
     - 'Project Hoshimi'
     - 'Tour Eiffel'
 date: '2007-06-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: limagine-cup-cest-quoi-au-juste
+section: default
 2007:
     - '06'
 ---

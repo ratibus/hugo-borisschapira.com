@@ -6,9 +6,12 @@ tags:
     - Emploi
     - Monster
 date: '2007-07-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: monster-ca-continue-pour-les-autres
+section: default
 2007:
     - '07'
 ---

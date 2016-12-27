@@ -1,9 +1,12 @@
 ---
 title: 'Logique administrative'
 date: '2014-01-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: logique-administrative
+section: papa
 2014:
     - '01'
 ---

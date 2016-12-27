@@ -3,9 +3,12 @@ title: 'G20 et régulation'
 tags:
     - Finance
 date: '2009-04-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: g20-et-regulation
+section: default
 2009:
     - '04'
 ---

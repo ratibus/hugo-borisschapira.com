@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Imagine Cup'
 date: '2007-08-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: imagine-cup-2008-site-en-ligne
+section: default
 2007:
     - '08'
 ---

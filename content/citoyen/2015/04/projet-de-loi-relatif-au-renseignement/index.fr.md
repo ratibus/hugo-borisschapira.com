@@ -5,9 +5,12 @@ tags:
 series:
     - 'Loi Renseignement'
 date: '2015-04-05'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: projet-de-loi-relatif-au-renseignement
+section: citoyen
 2015:
     - '04'
 ---

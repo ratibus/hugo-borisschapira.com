@@ -4,9 +4,12 @@ tags:
     - Société
     - 'Transformation numérique'
 date: '2011-04-04'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: soutenez-la-quadrature-du-net
+section: citoyen
 2011:
     - '04'
 ---

@@ -5,9 +5,12 @@ tags:
     - Technologie
     - Facebook
 date: '2008-01-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: facebook-et-moi
+section: default
 2008:
     - '01'
 ---

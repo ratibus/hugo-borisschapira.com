@@ -3,9 +3,12 @@ title: 'En province'
 tags:
     - 'Me, myself and I'
 date: '2010-04-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: note-de-service
+section: default
 2010:
     - '04'
 ---

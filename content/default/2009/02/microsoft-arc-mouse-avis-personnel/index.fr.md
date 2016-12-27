@@ -5,9 +5,12 @@ tags:
     - Souris
     - Test
 date: '2009-02-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-arc-mouse-avis-personnel
+section: default
 2009:
     - '02'
 ---

@@ -4,9 +4,12 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dangers-du-net-le-phishing
+section: default
 2007:
     - '04'
 ---

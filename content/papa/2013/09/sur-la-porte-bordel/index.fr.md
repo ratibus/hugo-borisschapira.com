@@ -1,9 +1,12 @@
 ---
 title: 'Sur la porte, bordel'
 date: '2013-09-29'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: sur-la-porte-bordel
+section: papa
 2013:
     - '09'
 ---

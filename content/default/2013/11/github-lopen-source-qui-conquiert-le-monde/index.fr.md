@@ -5,9 +5,12 @@ tags:
     - 'Open Source'
 canonical: 'http://blog.clever-age.com/fr/2013/11/14/github-l-open-source-qui-conquiert-le-monde/'
 date: '2013-11-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: github-lopen-source-qui-conquiert-le-monde
+section: default
 2013:
     - '11'
 ---

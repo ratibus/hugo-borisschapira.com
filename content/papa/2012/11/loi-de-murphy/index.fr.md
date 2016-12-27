@@ -1,9 +1,12 @@
 ---
 title: 'Loi de Murphy'
 date: '2012-11-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: loi-de-murphy
+section: papa
 2012:
     - '11'
 ---

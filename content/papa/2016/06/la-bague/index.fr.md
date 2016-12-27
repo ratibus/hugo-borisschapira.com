@@ -1,9 +1,12 @@
 ---
 title: 'La bague'
 date: '2016-06-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-bague
+section: papa
 2016:
     - '06'
 ---
@@ -12,6 +15,6 @@ L'aîné prend la douche avec sa mère et prend conscience qu'elle a gardé son 
 
 <!-- more -->
 
-> – Maman, pourquoi tu gardes ta bague dans la douche ? Tu peux pas l'enlever ?
-> – Si mais tu sais, c'est la bague que Papa a offert quand on s'est marié, je ne l'enlève jamais.
+> – Maman, pourquoi tu gardes ta bague dans la douche ? Tu peux pas l'enlever ?  
+> – Si mais tu sais, c'est la bague que Papa a offert quand on s'est marié, je ne l'enlève jamais.  
 > – Si tu l'enlèves, Papa il va partir ?

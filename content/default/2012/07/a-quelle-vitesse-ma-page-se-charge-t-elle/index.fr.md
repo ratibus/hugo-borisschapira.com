@@ -4,9 +4,12 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/'
 date: '2012-07-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: a-quelle-vitesse-ma-page-se-charge-t-elle
+section: default
 2012:
     - '07'
 ---

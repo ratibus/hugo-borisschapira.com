@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Microsoft Surface'
 date: '2007-06-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-surface-vs-mitsubishi-diamontouch
+section: default
 2007:
     - '06'
 ---

@@ -5,9 +5,12 @@ tags:
     - 'Billet d''humeur'
     - 'Me, myself and I'
 date: '2009-01-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: appartement-c-e2-80-99est-plus-possible-2
+section: default
 2009:
     - '01'
 ---

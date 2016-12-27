@@ -4,9 +4,12 @@ tags:
     - Société
     - Rétro
 date: '2009-09-01'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: retro-il-y-a-un-an-septembre-2008
+section: citoyen
 2009:
     - '09'
 ---

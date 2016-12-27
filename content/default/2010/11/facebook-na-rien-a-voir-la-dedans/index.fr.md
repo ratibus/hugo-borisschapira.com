@@ -3,9 +3,12 @@ title: 'Facebook n''a rien à voir là-dedans'
 tags:
     - Emploi
 date: '2010-11-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: facebook-na-rien-a-voir-la-dedans
+section: default
 2010:
     - '11'
 ---

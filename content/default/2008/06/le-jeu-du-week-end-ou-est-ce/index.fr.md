@@ -2,10 +2,12 @@
 title: 'Où est-ce (leave Charlie alone !) ?'
 categories:
     - Humour
+    - default
 date: '2008-06-11'
-section: default
 lang: fr
 type: post
+slug: le-jeu-du-week-end-ou-est-ce
+section: default
 2008:
     - '06'
 ---

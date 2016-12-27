@@ -3,9 +3,12 @@ title: 'Web Standard Update pour Visual Studio 2010 : support de HTML5 & CSS3'
 tags:
     - Front-End
 date: '2011-06-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: web-standard-update-visual-studio-html5-css
+section: default
 2011:
     - '06'
 ---

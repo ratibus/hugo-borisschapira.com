@@ -3,9 +3,12 @@ title: 'Une Faker API ?'
 tags:
     - Side-Project
 date: '2016-02-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: faker-api
+section: default
 2016:
     - '02'
 ---

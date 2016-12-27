@@ -3,9 +3,12 @@ title: 'Node.js, nativement sous Windows et IIS'
 tags:
     - Outils
 date: '2011-11-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: node-js-nativement-sous-windows-et-iis
+section: default
 2011:
     - '11'
 ---

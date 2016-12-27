@@ -5,14 +5,17 @@ i18n-key: test-of-layout
 tags:
     - Typographie
 date: '2005-01-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: test-typo
+section: default
 2005:
     - '01'
 ---
 
-> Ceci est un article destiné à tester le respect de certaines règles microtypographiques par mon site.
+> Ceci est un article destiné à tester le respect de certaines règles microtypographiques par mon site.  
 > Ne tenez pas compte du contenu ci-dessous.
 
 <!-- more -->

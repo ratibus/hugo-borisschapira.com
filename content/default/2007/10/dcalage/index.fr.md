@@ -3,9 +3,12 @@ title: Décalage
 tags:
     - Etudiants
 date: '2007-10-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dcalage
+section: default
 2007:
     - '10'
 ---

@@ -5,9 +5,12 @@ tags:
 series:
     - 'Charlie Hebdo'
 date: '2015-01-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: je-ne-suis-pas-charlie-je-suis-francais
+section: citoyen
 2015:
     - '01'
 ---

@@ -5,9 +5,12 @@ tags:
     - Éducation
     - Note2Be
 date: '2008-03-07'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: reflexions-autour-de-note2be
+section: citoyen
 2008:
     - '03'
 ---

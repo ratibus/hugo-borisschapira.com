@@ -6,9 +6,12 @@ tags:
     - 'Billet d''humeur'
     - SmartPhone
 date: '2009-09-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: workholics
+section: default
 2009:
     - '09'
 ---

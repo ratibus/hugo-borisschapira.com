@@ -1,9 +1,12 @@
 ---
 title: 'Dormir !'
 date: '2012-12-24'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: dormir
+section: papa
 2012:
     - '12'
 ---

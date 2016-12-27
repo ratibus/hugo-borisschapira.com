@@ -3,9 +3,12 @@ title: '«&#160;Métronome&#160;», Lorànt Deutsch'
 tags:
     - Histoire
 date: '2010-03-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: livre-metronome
+section: default
 2010:
     - '03'
 ---

@@ -5,9 +5,12 @@ tags:
     - Front-End
 canonical: 'http://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/'
 date: '2014-03-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: a-la-conquete-des-tests-a-b
+section: default
 2014:
     - '03'
 ---

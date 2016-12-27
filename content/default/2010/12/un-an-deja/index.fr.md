@@ -3,9 +3,12 @@ title: 'Un an déjà'
 tags:
     - 'Me, myself and I'
 date: '2010-12-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-an-deja
+section: default
 2010:
     - '12'
 ---

@@ -6,9 +6,12 @@ tags:
     - 'Billet d''humeur'
     - France
 date: '2009-11-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: collectivite-qui-controle-les-investissements
+section: default
 2009:
     - '11'
 ---

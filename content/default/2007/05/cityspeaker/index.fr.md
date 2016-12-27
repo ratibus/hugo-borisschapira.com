@@ -4,9 +4,12 @@ tags:
     - Culture
     - Publicité
 date: '2007-05-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: cityspeaker
+section: default
 2007:
     - '05'
 ---

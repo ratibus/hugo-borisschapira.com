@@ -3,9 +3,12 @@ title: 'Productivité, périmètre et écoute'
 tags:
     - Management
 date: '2010-12-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: productivite-perimetre-et-ecoute
+section: default
 2010:
     - '12'
 ---

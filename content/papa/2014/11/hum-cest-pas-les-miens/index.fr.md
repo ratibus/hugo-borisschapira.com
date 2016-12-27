@@ -1,9 +1,12 @@
 ---
 title: '"Hum... c''est pas les miens ?"'
 date: '2014-11-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: hum-cest-pas-les-miens
+section: papa
 2014:
     - '11'
 ---

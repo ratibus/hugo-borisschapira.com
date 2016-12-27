@@ -5,9 +5,12 @@ tags:
     - 'Performance Web'
 canonical: http//blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/
 date: '2014-06-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-seul-site-vous-manque-et-tout-le-web-est-casse
+section: default
 2014:
     - '06'
 ---

@@ -5,9 +5,12 @@ tags:
     - Emploi
     - Nexeo
 date: '2008-05-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: une-grosse-journee-de-commando
+section: default
 2008:
     - '05'
 ---

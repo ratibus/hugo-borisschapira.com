@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Conférences
 date: '2014-02-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: brown-bag-lunch-faisons-connaissance
+section: default
 2014:
     - '02'
 ---

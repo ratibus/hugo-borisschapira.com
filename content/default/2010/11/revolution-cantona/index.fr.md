@@ -3,9 +3,12 @@ title: 'Révolution Cantona'
 tags:
     - Finance
 date: '2010-11-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: revolution-cantona
+section: default
 2010:
     - '11'
 ---

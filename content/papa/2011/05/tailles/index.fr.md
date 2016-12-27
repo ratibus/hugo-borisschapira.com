@@ -1,9 +1,12 @@
 ---
 title: Tailles
 date: '2011-05-28'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: tailles
+section: papa
 2011:
     - '05'
 ---

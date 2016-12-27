@@ -5,9 +5,12 @@ tags:
     - NAS
     - Stockage
 date: '2009-02-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: quel-serveur-nas-pour-la-maison
+section: default
 2009:
     - '02'
 ---

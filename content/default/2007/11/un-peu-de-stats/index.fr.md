@@ -4,9 +4,12 @@ tags:
     - Statistiques
     - Wikio
 date: '2007-11-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-peu-de-stats
+section: default
 2007:
     - '11'
 ---

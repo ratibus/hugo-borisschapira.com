@@ -8,9 +8,12 @@ tags:
     - Presse
 canonical: 'http://blog.clever-age.com/en/2015/12/14/online-advertising-the-current-status/'
 date: '2015-10-22'
-section: default
 lang: en
 type: post
+categories:
+    - default
+slug: online-advertising-current-status
+section: default
 2015:
     - '10'
 ---
@@ -31,7 +34,7 @@ To make things clear, this solution has become so unacceptable that even the onl
 
 [^2]: The Internet Advertising Bureau is the leading association for online advertising professionals, bringing together many players in the advertising ecosystem: creative agencies, media sales agencies, partners, hosting service providers. Generally the IAB massively promotes online advertising by funding studies on its effectiveness. This acknowledgement of failure is a real earthquake in the industry.
 
-> We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.
+> We messed up. As technologists, tasked with delivering content and services to users, we lost track of the user experience.  
 > <cite>Scott Cunningham in <a href="http://www.iab.com/news/lean/" >Getting LEAN with Digital Ad UX</a></cite>
 
 ## Challenging Alternatives

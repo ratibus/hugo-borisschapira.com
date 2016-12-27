@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-03-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: bang-plus-rien
+section: citoyen
 2009:
     - '03'
 ---

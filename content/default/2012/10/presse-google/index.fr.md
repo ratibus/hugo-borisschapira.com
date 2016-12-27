@@ -4,9 +4,12 @@ tags:
     - 'Transformation numérique'
     - Presse
 date: '2012-10-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: presse-google
+section: default
 2012:
     - '10'
 ---

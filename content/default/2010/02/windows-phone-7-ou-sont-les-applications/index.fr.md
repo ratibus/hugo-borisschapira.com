@@ -5,9 +5,12 @@ tags:
 series:
     - 'Windows Phone'
 date: '2010-02-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: windows-phone-7-ou-sont-les-applications
+section: default
 2010:
     - '02'
 ---

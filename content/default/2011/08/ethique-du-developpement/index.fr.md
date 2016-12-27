@@ -3,9 +3,12 @@ title: 'Ethique du développement'
 tags:
     - Management
 date: '2011-08-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: ethique-du-developpement
+section: default
 2011:
     - '08'
 ---

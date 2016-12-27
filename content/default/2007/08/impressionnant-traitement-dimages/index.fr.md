@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Web
 date: '2007-08-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: impressionnant-traitement-dimages
+section: default
 2007:
     - '08'
 ---

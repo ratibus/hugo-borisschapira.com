@@ -1,9 +1,12 @@
 ---
 title: Tétu
 date: '2014-12-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: tetu
+section: papa
 2014:
     - '12'
 ---

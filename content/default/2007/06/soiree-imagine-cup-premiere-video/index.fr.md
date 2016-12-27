@@ -3,9 +3,12 @@ title: 'Soirée Imagine Cup : première vidéo'
 tags:
     - 'Imagine Cup'
 date: '2007-06-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: soiree-imagine-cup-premiere-video
+section: default
 2007:
     - '06'
 ---

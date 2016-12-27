@@ -7,9 +7,12 @@ tags:
     - Nexeo
     - SGCIB
 date: '2009-03-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: depart-de-sgcib
+section: default
 2009:
     - '03'
 ---

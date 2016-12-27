@@ -3,9 +3,12 @@ title: 'TechDays : les nouveautés de la plénière #2'
 tags:
     - Conférences
 date: '2009-02-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: techdays-les-nouveautes-de-la-pleniere-2
+section: default
 2009:
     - '02'
 ---

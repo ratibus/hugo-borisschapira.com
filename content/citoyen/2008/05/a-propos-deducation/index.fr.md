@@ -6,9 +6,12 @@ tags:
     - Éducation
     - Grève
 date: '2008-05-19'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: a-propos-deducation
+section: citoyen
 2008:
     - '05'
 ---

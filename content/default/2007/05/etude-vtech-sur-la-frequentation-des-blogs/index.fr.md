@@ -3,9 +3,12 @@ title: 'Etude VTech sur la fréquentation des blogs'
 tags:
     - RSS
 date: '2007-05-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: etude-vtech-sur-la-frequentation-des-blogs
+section: default
 2007:
     - '05'
 ---

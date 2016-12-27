@@ -5,9 +5,12 @@ tags:
     - Microsoft
     - Stage
 date: '2007-06-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: une-journee-de-boulot-ordinaire-chez-microsoft-france-ou-alors-pas-du-tout
+section: default
 2007:
     - '06'
 ---

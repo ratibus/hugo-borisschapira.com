@@ -3,9 +3,12 @@ title: 'En3mots fait peau neuve'
 tags:
     - En3Mots
 date: '2007-06-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: en3mots-fait-peau-neuve
+section: default
 2007:
     - '06'
 ---

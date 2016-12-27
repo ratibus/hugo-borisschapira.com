@@ -3,9 +3,12 @@ title: 'Search++ pour Windows Vista'
 tags:
     - Outils
 date: '2007-03-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: search-pour-windows-vista
+section: default
 2007:
     - '03'
 ---

@@ -6,9 +6,12 @@ tags:
 series:
     - 'Windows Phone'
 date: '2013-09-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rester-sous-windows-phone
+section: default
 2013:
     - '09'
 ---

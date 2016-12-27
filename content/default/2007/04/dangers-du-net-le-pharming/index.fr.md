@@ -4,9 +4,12 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dangers-du-net-le-pharming
+section: default
 2007:
     - '04'
 ---

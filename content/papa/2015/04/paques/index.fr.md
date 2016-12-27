@@ -1,9 +1,12 @@
 ---
 title: Pâques
 date: '2015-04-05'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: paques
+section: papa
 2015:
     - '04'
 ---

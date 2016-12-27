@@ -4,9 +4,12 @@ tags:
     - 'Assemblée Nationale'
     - 'Billet d''humeur'
 date: '2009-07-02'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: derive-anti-democratique
+section: citoyen
 2009:
     - '07'
 ---

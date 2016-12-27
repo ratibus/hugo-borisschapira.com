@@ -5,9 +5,12 @@ tags:
     - 'Vie privée'
     - Sécurité
 date: '2010-11-30'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: recherche-dun-coupable
+section: citoyen
 2010:
     - '11'
 ---

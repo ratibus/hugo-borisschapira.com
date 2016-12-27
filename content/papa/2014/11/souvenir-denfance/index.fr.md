@@ -1,9 +1,12 @@
 ---
 title: 'Souvenir d''enfance'
 date: '2014-11-23'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: souvenir-denfance
+section: papa
 2014:
     - '11'
 ---

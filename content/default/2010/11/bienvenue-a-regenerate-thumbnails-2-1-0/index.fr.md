@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Projets
 date: '2010-11-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: bienvenue-a-regenerate-thumbnails-2-1-0
+section: default
 2010:
     - '11'
 ---

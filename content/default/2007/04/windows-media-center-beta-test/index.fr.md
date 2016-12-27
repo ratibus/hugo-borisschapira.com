@@ -4,9 +4,12 @@ tags:
     - Technologie
     - GUWIV
 date: '2007-04-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: windows-media-center-beta-test
+section: default
 2007:
     - '04'
 ---

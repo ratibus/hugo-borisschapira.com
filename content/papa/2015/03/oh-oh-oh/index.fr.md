@@ -1,9 +1,12 @@
 ---
 title: 'Oh oh oh'
 date: '2015-03-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: oh-oh-oh
+section: papa
 2015:
     - '03'
 ---

@@ -5,9 +5,12 @@ tags:
     - Société
     - 'Billet d''humeur'
 date: '2008-03-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: grand-mchant-capital
+section: citoyen
 2008:
     - '03'
 ---

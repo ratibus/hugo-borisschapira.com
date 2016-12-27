@@ -5,9 +5,12 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2013/08/06/l-e-commerce-toujours-plus-lent/'
 date: '2013-08-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-commerce-toujours-plus-lent
+section: default
 2013:
     - '08'
 ---

@@ -6,9 +6,12 @@ tags:
 canonical: 'http://blog.clever-age.com/fr/2016/05/16/un-retour-sur-opquast-certified/'
 main_image: assets/images/2016-05-16/logo_opquast_certified.png
 date: '2016-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-retour-sur-opquast-certified
+section: default
 2016:
     - '05'
 ---

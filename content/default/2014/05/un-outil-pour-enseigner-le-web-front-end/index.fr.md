@@ -8,9 +8,12 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-outil-pour-enseigner-le-web-front-end
+section: default
 2014:
     - '05'
 ---

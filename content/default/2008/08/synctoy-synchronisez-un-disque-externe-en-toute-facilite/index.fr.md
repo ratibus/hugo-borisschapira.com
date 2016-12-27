@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Microsoft
 date: '2008-08-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: synctoy-synchronisez-un-disque-externe-en-toute-facilite
+section: default
 2008:
     - '08'
 ---

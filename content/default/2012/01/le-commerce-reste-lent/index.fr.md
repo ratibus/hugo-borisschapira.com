@@ -5,9 +5,12 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/'
 date: '2012-01-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-commerce-reste-lent
+section: default
 2012:
     - '01'
 ---

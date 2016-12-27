@@ -1,9 +1,12 @@
 ---
 title: 'Maxime du (dernier) jour'
 date: '2015-03-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: maxime-du-jour
+section: papa
 2015:
     - '03'
 ---

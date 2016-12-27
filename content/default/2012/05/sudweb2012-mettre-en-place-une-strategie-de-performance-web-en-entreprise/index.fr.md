@@ -5,9 +5,12 @@ tags:
 series:
     - 'Sud Web 2012'
 date: '2012-05-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sudweb2012-mettre-en-place-une-strategie-de-performance-web-en-entreprise
+section: default
 2012:
     - '05'
 ---

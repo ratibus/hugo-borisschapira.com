@@ -2,10 +2,12 @@
 title: 'Hairspray, j''ai adoré !'
 categories:
     - Cinema
+    - default
 date: '2007-09-01'
-section: default
 lang: fr
 type: post
+slug: hairspray-jai-adore
+section: default
 2007:
     - '09'
 ---

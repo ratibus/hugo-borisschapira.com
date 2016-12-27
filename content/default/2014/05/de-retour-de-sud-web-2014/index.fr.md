@@ -5,9 +5,12 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: de-retour-de-sud-web-2014
+section: default
 2014:
     - '05'
 ---

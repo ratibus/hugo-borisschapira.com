@@ -3,9 +3,12 @@ title: 'Découvrez et formez-vous avec le Coach C#'
 tags:
     - .NET
 date: '2007-05-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: decouvrez-et-formez-vous-avec-le-coach-c
+section: default
 2007:
     - '05'
 ---

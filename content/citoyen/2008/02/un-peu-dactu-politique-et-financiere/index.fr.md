@@ -3,9 +3,12 @@ title: 'Un peu d''actu politique et financière'
 tags:
     - France
 date: '2008-02-07'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: un-peu-dactu-politique-et-financiere
+section: citoyen
 2008:
     - '02'
 ---

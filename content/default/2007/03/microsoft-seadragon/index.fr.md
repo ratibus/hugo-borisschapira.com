@@ -3,9 +3,12 @@ title: 'Microsoft Seadragon : un Hippocampe au cœur de la Toile'
 tags:
     - Outils
 date: '2007-03-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-seadragon
+section: default
 2007:
     - '03'
 ---

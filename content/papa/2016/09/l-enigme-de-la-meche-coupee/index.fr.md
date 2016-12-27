@@ -1,10 +1,12 @@
 ---
 title: 'L''énigme de la mèche coupée'
-published: false
 date: '2016-09-23'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: l-enigme-de-la-meche-coupee
+section: papa
 2016:
     - '09'
 ---

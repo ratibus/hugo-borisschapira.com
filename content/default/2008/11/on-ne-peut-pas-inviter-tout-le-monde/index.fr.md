@@ -1,10 +1,12 @@
 ---
 title: 'On ne peut pas inviter tout le monde…'
-categories: null
+categories:
+    - default
 date: '2008-11-23'
-section: default
 lang: fr
 type: post
+slug: on-ne-peut-pas-inviter-tout-le-monde
+section: default
 2008:
     - '11'
 ---

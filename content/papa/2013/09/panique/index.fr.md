@@ -1,9 +1,12 @@
 ---
 title: Panique
 date: '2013-09-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: panique
+section: papa
 2013:
     - '09'
 ---

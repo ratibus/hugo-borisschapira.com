@@ -5,9 +5,12 @@ tags:
     - Buzz
     - Insolite
 date: '2008-09-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: etude-de-propagation-du-buzz-par-le-cnrs-happy-flu
+section: default
 2008:
     - '09'
 ---

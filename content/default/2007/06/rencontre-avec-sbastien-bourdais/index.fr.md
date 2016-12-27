@@ -6,9 +6,12 @@ tags:
     - 'Sébastien Bourdais'
     - XBox360
 date: '2007-06-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rencontre-avec-sbastien-bourdais
+section: default
 2007:
     - '06'
 ---

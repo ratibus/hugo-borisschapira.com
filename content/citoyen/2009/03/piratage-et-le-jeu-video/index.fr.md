@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-03-06'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: piratage-et-le-jeu-video
+section: citoyen
 2009:
     - '03'
 ---

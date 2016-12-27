@@ -4,9 +4,12 @@ tags:
     - 'Vie privée'
     - Numérique
 date: '2007-04-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: drm-lautorite-independante-est-mise-en-place
+section: default
 2007:
     - '04'
 ---

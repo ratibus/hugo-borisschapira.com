@@ -3,9 +3,12 @@ title: 'Expert ou pas ?'
 tags:
     - Management
 date: '2015-09-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: expert-ou-pas
+section: default
 2015:
     - '09'
 ---

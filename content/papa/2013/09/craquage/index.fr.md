@@ -1,9 +1,12 @@
 ---
 title: Craquage
 date: '2013-09-08'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: craquage
+section: papa
 2013:
     - '09'
 ---

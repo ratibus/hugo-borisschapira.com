@@ -4,9 +4,12 @@ tags:
     - Hardware
     - Test
 date: '2009-07-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-wireless-mobile-mouse-6000
+section: default
 2009:
     - '07'
 ---

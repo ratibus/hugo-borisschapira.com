@@ -1,9 +1,12 @@
 ---
 title: Mesures
 date: '2016-09-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: mesures
+section: papa
 2016:
     - '09'
 ---
@@ -14,7 +17,7 @@ Le grand apprend les mesures… enfin presque.
 
 Il attrape le mètre de chantier : 
 
-> – Maman, mets toi contre le mur, je vais te peser !
+> – Maman, mets toi contre le mur, je vais te peser !  
 > – Euh non, ça c'est "mesurer", chéri.
 
 Un peu plus tard, avec le pédimètre en main : 

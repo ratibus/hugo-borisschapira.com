@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Windows Vista'
 date: '2007-04-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: astuce-vista-mise-en-veille-prolongee
+section: default
 2007:
     - '04'
 ---

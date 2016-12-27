@@ -1,9 +1,12 @@
 ---
 title: 'Amp Bookmarklet'
 date: '2016-02-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: amp-bookmarklet
+section: default
 2016:
     - '02'
 ---

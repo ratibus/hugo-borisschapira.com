@@ -5,9 +5,12 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2013/07/15/chrome-devtools-ne-se-repose-pas-sur-ses-lauriers/'
 date: '2013-07-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: chrome-devtools-ne-se-repose-pas-sur-ses-lauriers
+section: default
 2013:
     - '07'
 ---

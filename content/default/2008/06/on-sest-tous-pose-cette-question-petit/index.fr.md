@@ -2,10 +2,12 @@
 title: 'On s''est tous posé cette question, petit…'
 categories:
     - Culture
+    - default
 date: '2008-06-12'
-section: default
 lang: fr
 type: post
+slug: on-sest-tous-pose-cette-question-petit
+section: default
 2008:
     - '06'
 ---

@@ -2,10 +2,12 @@
 title: 'La nomination de NKM n''est pas *forcément* une bonne nouvelle'
 categories:
     - Politique
+    - default
 date: '2009-01-16'
-section: default
 lang: fr
 type: post
+slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle
+section: default
 2009:
     - '01'
 ---

@@ -5,9 +5,12 @@ tags:
     - Technologie
     - Facebook
 date: '2007-11-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: france-2-et-facebook
+section: citoyen
 2007:
     - '11'
 ---

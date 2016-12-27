@@ -5,9 +5,12 @@ tags:
     - Economie
     - Subprime
 date: '2007-08-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: histoire-dun-minikrach
+section: default
 2007:
     - '08'
 ---

@@ -4,9 +4,12 @@ tags:
     - Société
     - Histoire
 date: '2014-02-06'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: lavenir-long-passe
+section: citoyen
 2014:
     - '02'
 ---

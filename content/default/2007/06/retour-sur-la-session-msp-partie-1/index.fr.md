@@ -4,9 +4,12 @@ tags:
     - 'Imagine Cup'
     - MSP
 date: '2007-06-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retour-sur-la-session-msp-partie-1
+section: default
 2007:
     - '06'
 ---

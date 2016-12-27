@@ -5,9 +5,12 @@ tags:
     - 'Windows Server 2008'
     - 'Windows Vista'
 date: '2007-08-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: windows-server-2008-et-windows-vista-verifieront-ils-les-criteres-communs
+section: default
 2007:
     - '08'
 ---

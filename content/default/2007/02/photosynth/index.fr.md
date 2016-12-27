@@ -3,9 +3,12 @@ title: 'PhotoSynth : déjà fait à l''ESIEE'
 tags:
     - 'Me, myselft and I'
 date: '2007-02-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: photosynth
+section: default
 2007:
     - '02'
 ---

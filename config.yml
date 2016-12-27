@@ -2,6 +2,7 @@
 baseurl: "https://borisschapira.com/"
 defaultContentLanguage: fr
 enableMissingTranslationPlaceholders: true
+enableRobotsTXT: true
 
 Languages:
   fr:
@@ -23,14 +24,14 @@ SectionPagesMenu: "main"
 
 footnotereturnlinkcontents: "↩"
 permalinks:
-  default: "/:year/:month/:title/"
-  papa: "/:year/:month/:title/"
-  citoyen: "/:year/:month/:title/"
+  default: "/:year/:month/:slug/"
+  papa: "/:year/:month/:slug/"
+  citoyen: "/:year/:month/:slug/"
 paginatePath: ""
 
 paginate: 5
 
-googleAnalytics: ""
+googleAnalytics: "UA-4257717-9"
 
 taxonomies:
   2005: "2005"

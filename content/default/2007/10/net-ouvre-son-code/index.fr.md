@@ -4,9 +4,12 @@ tags:
     - Développement
     - .NET
 date: '2007-10-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: net-ouvre-son-code
+section: default
 2007:
     - '10'
 ---

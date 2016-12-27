@@ -1,9 +1,12 @@
 ---
 title: 'Le pyjama de tonton'
 date: '2015-09-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-pyjama-de-tonton
+section: papa
 2015:
     - '09'
 ---

@@ -4,9 +4,12 @@ tags:
     - Société
     - 'Billet d''humeur'
 date: '2008-05-15'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: supermarches-une-grande-supercherie
+section: citoyen
 2008:
     - '05'
 ---

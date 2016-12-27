@@ -3,9 +3,12 @@ title: 'Politique USA : 9/11, Trade Mark'
 tags:
     - USA
 date: '2008-09-29'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: politique-usa-911-trade-mark
+section: citoyen
 2008:
     - '09'
 ---

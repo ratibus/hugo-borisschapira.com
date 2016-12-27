@@ -1,9 +1,12 @@
 ---
 title: 'En boucle'
 date: '2013-03-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: en-boucle
+section: papa
 2013:
     - '03'
 ---

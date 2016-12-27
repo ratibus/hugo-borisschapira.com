@@ -3,9 +3,12 @@ title: '[SharePoint] Récupérer des informations de colonnes personnalisées da
 tags:
     - Sharepoint
 date: '2007-05-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sharepoint-recuperer-des-informations-de-colonnes-personnalisees-dans-des-librairies-sharepoint-a-travers-xslt
+section: default
 2007:
     - '05'
 ---

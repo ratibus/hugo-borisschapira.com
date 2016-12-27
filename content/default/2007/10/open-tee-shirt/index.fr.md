@@ -4,9 +4,12 @@ tags:
     - Développement
     - 'Imagine Cup'
 date: '2007-10-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: open-tee-shirt
+section: default
 2007:
     - '10'
 ---

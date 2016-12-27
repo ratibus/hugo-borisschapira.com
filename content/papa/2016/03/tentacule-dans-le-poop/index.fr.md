@@ -1,9 +1,12 @@
 ---
 title: 'Tencule dans le poop'
 date: '2016-03-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: tentacule-dans-le-poop
+section: papa
 2016:
     - '03'
 ---

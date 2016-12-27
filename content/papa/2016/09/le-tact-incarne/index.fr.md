@@ -1,9 +1,12 @@
 ---
 title: 'Le tact incarné'
 date: '2016-09-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-tact-incarne
+section: papa
 2016:
     - '09'
 ---

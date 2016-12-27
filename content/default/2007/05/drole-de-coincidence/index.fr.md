@@ -3,9 +3,12 @@ title: 'Drôle de coincidence'
 tags:
     - 'Me, myself and I'
 date: '2007-05-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: drole-de-coincidence
+section: default
 2007:
     - '05'
 ---

@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/07/31/powershell-2-0-rtm/'
 tags:
     - Nexdotnet
 date: '2009-07-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: powershell-2-0-rtm
+section: default
 2009:
     - '07'
 ---

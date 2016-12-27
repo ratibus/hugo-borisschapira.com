@@ -5,9 +5,12 @@ tags:
     - Microsoft
     - 'Microsoft Office'
 date: '2007-04-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-aide-les-pays-emergeants
+section: default
 2007:
     - '04'
 ---

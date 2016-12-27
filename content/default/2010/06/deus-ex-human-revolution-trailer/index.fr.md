@@ -3,9 +3,12 @@ title: '«&#160;Deus Ex : Human Revolution&#160;» Trailer'
 tags:
     - 'Jeu Video'
 date: '2010-06-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: deus-ex-human-revolution-trailer
+section: default
 2010:
     - '06'
 ---

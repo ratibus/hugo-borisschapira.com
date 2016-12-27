@@ -6,9 +6,12 @@ tags:
     - Mobilité
     - Web
 date: '2007-12-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: cet-articles-est-0
+section: default
 2007:
     - '12'
 ---

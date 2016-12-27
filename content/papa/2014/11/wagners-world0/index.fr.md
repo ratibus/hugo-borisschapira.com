@@ -1,9 +1,12 @@
 ---
 title: 'Adopte un sol'
 date: '2014-11-08'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: wagners-world0
+section: papa
 2014:
     - '11'
 ---

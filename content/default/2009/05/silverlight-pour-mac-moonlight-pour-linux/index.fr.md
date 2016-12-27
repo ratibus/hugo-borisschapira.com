@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/05/06/silverlight-pour-mac-moonlight-p
 tags:
     - Nexdotnet
 date: '2009-05-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: silverlight-pour-mac-moonlight-pour-linux
+section: default
 2009:
     - '05'
 ---

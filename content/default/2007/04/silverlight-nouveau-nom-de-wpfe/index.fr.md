@@ -4,9 +4,12 @@ tags:
     - Développement
     - Silverlight
 date: '2007-04-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: silverlight-nouveau-nom-de-wpfe
+section: default
 2007:
     - '04'
 ---

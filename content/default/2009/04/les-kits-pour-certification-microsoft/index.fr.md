@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/04/28/les-kits-pour-certification-micr
 tags:
     - Nexdotnet
 date: '2009-04-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-kits-pour-certification-microsoft
+section: default
 2009:
     - '04'
 ---

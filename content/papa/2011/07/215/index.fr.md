@@ -1,9 +1,12 @@
 ---
 title: 'Premières dents'
 date: '2011-07-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: '215'
+section: papa
 2011:
     - '07'
 ---

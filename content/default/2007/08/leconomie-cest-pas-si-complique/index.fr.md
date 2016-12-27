@@ -4,9 +4,12 @@ tags:
     - Economie
     - Subprime
 date: '2007-08-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: leconomie-cest-pas-si-complique
+section: default
 2007:
     - '08'
 ---

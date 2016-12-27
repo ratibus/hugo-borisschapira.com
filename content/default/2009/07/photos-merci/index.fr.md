@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-07-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: photos-merci
+section: default
 2009:
     - '07'
 ---

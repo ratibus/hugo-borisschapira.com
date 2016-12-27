@@ -3,9 +3,12 @@ title: 'Quels écouteurs choisir ? A votre avis ?'
 tags:
     - 'Me, myself and I'
 date: '2008-05-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: quels-couteurs-choisir-a-votre-avis
+section: default
 2008:
     - '05'
 ---

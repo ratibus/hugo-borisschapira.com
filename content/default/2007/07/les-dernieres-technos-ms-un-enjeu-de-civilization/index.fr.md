@@ -11,9 +11,12 @@ tags:
     - 'Windows Phone'
     - 'Windows Vista'
 date: '2007-07-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-dernieres-technos-ms-un-enjeu-de-civilization
+section: default
 2007:
     - '07'
 ---

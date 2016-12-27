@@ -4,9 +4,12 @@ tags:
     - Musique
     - Nameless
 date: '2007-09-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: coup-de-coeur-musical-nameless
+section: default
 2007:
     - '09'
 ---

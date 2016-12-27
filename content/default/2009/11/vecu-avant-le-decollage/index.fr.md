@@ -3,9 +3,12 @@ title: '[Vécu] Avant le décollage…'
 tags:
     - 'Billet d''humeur'
 date: '2009-11-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: vecu-avant-le-decollage
+section: default
 2009:
     - '11'
 ---

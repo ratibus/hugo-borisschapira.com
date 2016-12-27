@@ -1,16 +1,19 @@
 ---
 title: 'Paie ton éducation'
 date: '2015-12-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: paie-ton-education
+section: papa
 2015:
     - '12'
 ---
 
-> — Allez, on rentre vite, on enlève les chaussures, les manteaux et…
-> — Et on prend l'apéro !
-> — Euh… j'allais dire "on met les chaussons" mais…
+> — Allez, on rentre vite, on enlève les chaussures, les manteaux et…  
+> — Et on prend l'apéro !  
+> — Euh… j'allais dire "on met les chaussons" mais…  
 > — Ah d'accord.
 
 2 minutes plus tard, ils n'ont toujours pas leurs chaussons, mais le grand a sorti deux verres, une bouteille de jus de fruits, a servi son frère et lui explique la tradition :

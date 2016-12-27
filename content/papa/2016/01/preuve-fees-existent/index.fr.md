@@ -2,9 +2,12 @@
 title: 'La preuve'
 main_image: assets/images/papa/2016-01-25/1.gif
 date: '2016-01-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: preuve-fees-existent
+section: papa
 2016:
     - '01'
 ---

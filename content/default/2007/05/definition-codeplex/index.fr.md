@@ -7,9 +7,12 @@ tags:
     - Microsoft
     - 'Open Source'
 date: '2007-05-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: definition-codeplex
+section: default
 2007:
     - '05'
 ---

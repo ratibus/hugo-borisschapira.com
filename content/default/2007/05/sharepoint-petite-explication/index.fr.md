@@ -5,9 +5,12 @@ tags:
     - 'Microsoft Office'
     - Sharepoint
 date: '2007-05-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sharepoint-petite-explication
+section: default
 2007:
     - '05'
 ---

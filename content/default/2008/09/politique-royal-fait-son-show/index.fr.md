@@ -2,10 +2,12 @@
 title: 'Politique : Royal fait son show'
 categories:
     - Politique
+    - default
 date: '2008-09-28'
-section: default
 lang: fr
 type: post
+slug: politique-royal-fait-son-show
+section: default
 2008:
     - '09'
 ---

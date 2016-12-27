@@ -3,9 +3,12 @@ title: 'Crash de la BDD'
 tags:
     - Crash
 date: '2007-07-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: oh-le-vilain
+section: default
 2007:
     - '07'
 ---

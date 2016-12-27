@@ -6,9 +6,12 @@ tags:
     - Free
     - 'Me, myself and I'
 date: '2008-10-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-demenagement-de-la-freebox-bye-bye-free-13
+section: default
 2008:
     - '10'
 ---

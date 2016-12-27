@@ -4,9 +4,12 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-04-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dangers-du-net-les-logiciels-espions
+section: default
 2007:
     - '04'
 ---

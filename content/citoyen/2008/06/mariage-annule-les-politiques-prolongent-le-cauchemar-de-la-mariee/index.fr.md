@@ -4,9 +4,12 @@ tags:
     - Justice
     - Religion
 date: '2008-06-03'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
+section: citoyen
 2008:
     - '06'
 ---

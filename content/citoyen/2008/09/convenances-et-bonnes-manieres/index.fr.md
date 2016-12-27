@@ -7,9 +7,12 @@ tags:
     - Insolite
     - Société
 date: '2008-09-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: convenances-et-bonnes-manieres
+section: citoyen
 2008:
     - '09'
 ---

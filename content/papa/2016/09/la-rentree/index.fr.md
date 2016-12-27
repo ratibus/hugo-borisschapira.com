@@ -1,9 +1,12 @@
 ---
 title: 'La rentrée'
 date: '2016-09-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-rentree
+section: papa
 2016:
     - '09'
 ---
@@ -21,6 +24,6 @@ Au dîner du soir, ma femme demande donc :
 > Non.
 
 <figure>
-  <img src="/papa/2016/09/la-rentree/knowing-glance.gif" alt="Le capitaine Kirk et Spock s'échangent un regard complice."/>
+  <img src="{{<fileFolder>}}knowing-glance.gif" alt="Le capitaine Kirk et Spock s'échangent un regard complice."/>
   <figcaption><i lang="en">What happens in Vegas stays in Vegas.</i></figcaption>
 </figure>

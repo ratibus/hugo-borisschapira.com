@@ -1,9 +1,12 @@
 ---
 title: Forcément...
 date: '2014-12-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: '39'
+section: papa
 2014:
     - '12'
 ---

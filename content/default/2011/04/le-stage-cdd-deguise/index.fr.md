@@ -3,9 +3,12 @@ title: 'Le stage, CDD déguisé'
 tags:
     - Emploi
 date: '2011-04-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-stage-cdd-deguise
+section: default
 2011:
     - '04'
 ---

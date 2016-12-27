@@ -6,9 +6,12 @@ tags:
     - Société
     - Égalité
 date: '2015-03-08'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: journee-internationale-des-droits-de-la-femme
+section: citoyen
 2015:
     - '03'
 ---

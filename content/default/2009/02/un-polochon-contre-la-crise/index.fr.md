@@ -4,9 +4,12 @@ tags:
     - Finance
     - Crise
 date: '2009-02-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-polochon-contre-la-crise
+section: default
 2009:
     - '02'
 ---

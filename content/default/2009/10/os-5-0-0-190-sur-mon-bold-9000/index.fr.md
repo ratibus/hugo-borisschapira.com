@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mobile
 date: '2009-10-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: os-5-0-0-190-sur-mon-bold-9000
+section: default
 2009:
     - '10'
 ---

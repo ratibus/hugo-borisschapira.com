@@ -2,10 +2,12 @@
 title: '«&#160;L''affaire Gidéon&#160;», Russel Andrews'
 categories:
     - Littérature
+    - default
 date: '2007-10-10'
-section: default
 lang: fr
 type: post
+slug: laffaire-gidon-de-russel-andrews
+section: default
 2007:
     - '10'
 ---

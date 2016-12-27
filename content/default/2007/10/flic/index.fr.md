@@ -2,10 +2,12 @@
 title: '«&#160;Flic&#160;», Bénédict Desforges'
 categories:
     - Littérature
+    - default
 date: '2007-10-20'
-section: default
 lang: fr
 type: post
+slug: flic
+section: default
 2007:
     - '10'
 ---

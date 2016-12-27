@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2008-02-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: stage-dveloppeur-3-rappels-pour-prparer-votre-entretien
+section: default
 2008:
     - '02'
 ---

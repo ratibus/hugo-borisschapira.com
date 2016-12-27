@@ -3,9 +3,12 @@ title: 'Boursiers et Grandes Ecoles'
 tags:
     - Éducation
 date: '2010-05-08'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: boursiers-et-grandes-ecoles
+section: citoyen
 2010:
     - '05'
 ---

@@ -1,9 +1,12 @@
 ---
 title: Impatience
 date: '2015-09-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: impatience
+section: papa
 2015:
     - '09'
 ---

@@ -3,9 +3,12 @@ title: 'Emploi, précarité, stages et auto-rêve'
 tags:
     - Emploi
 date: '2010-03-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: emploi-precarite-stages-et-auto-reve
+section: default
 2010:
     - '03'
 ---

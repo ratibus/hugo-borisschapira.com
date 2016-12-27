@@ -5,9 +5,12 @@ tags:
     - 'Final Fantasy'
     - Playstation
 date: '2009-05-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: preview-final-fantasy-xiii
+section: default
 2009:
     - '05'
 ---

@@ -5,9 +5,12 @@ tags:
     - HeForShe
     - Égalité
 date: '2016-04-20'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: femmes-dans-l-histoire
+section: citoyen
 2016:
     - '04'
 ---

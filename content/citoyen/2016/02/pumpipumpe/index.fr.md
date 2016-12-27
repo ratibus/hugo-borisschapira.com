@@ -3,9 +3,12 @@ title: Pumpipumpe
 tags:
     - Collaboration
 date: '2016-02-11'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: pumpipumpe
+section: citoyen
 2016:
     - '02'
 ---

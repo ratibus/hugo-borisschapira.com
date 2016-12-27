@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - 'Amis et famille'
 date: '2007-07-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retour-de-week-end-a-begadan
+section: default
 2007:
     - '07'
 ---

@@ -4,9 +4,12 @@ tags:
     - 'Amis et famille'
     - Facebook
 date: '2007-09-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mentalits-informatique-et-runion-de-famille
+section: default
 2007:
     - '09'
 ---

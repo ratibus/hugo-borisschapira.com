@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2008-11-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: premiere-tache-fixer-la-date
+section: default
 2008:
     - '11'
 ---

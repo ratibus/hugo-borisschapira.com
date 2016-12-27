@@ -3,9 +3,12 @@ title: 'L''histoire d''Hadopi se répète'
 tags:
     - Hadopi
 date: '2009-06-30'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: lhistoire-dhadopi-se-repete
+section: citoyen
 2009:
     - '06'
 ---

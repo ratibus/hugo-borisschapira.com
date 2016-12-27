@@ -5,9 +5,12 @@ tags:
     - 'Performance Web'
 canonical: 'http://blog.clever-age.com/fr/2013/11/28/scripts-tiers-on-ne-lache-rien/'
 date: '2013-11-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: scripts-tiers-ne-lache-rien
+section: default
 2013:
     - '11'
 ---

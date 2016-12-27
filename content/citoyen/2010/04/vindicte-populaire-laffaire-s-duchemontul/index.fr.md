@@ -3,9 +3,12 @@ title: 'Vindicte populaire : l''affaire S. Duchemontul'
 tags:
     - Égalité
 date: '2010-04-28'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: vindicte-populaire-laffaire-s-duchemontul
+section: citoyen
 2010:
     - '04'
 ---

@@ -6,9 +6,12 @@ tags:
     - Free
     - 'Me, myself and I'
 date: '2008-11-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: bonjour-neuf-bye-bye-free-33
+section: default
 2008:
     - '11'
 ---

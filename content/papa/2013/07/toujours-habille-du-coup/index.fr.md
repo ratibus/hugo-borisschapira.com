@@ -1,9 +1,12 @@
 ---
 title: 'Toujours habillé, du coup'
 date: '2013-07-06'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: toujours-habille-du-coup
+section: papa
 2013:
     - '07'
 ---

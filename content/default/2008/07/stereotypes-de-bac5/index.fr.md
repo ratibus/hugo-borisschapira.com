@@ -4,9 +4,12 @@ tags:
     - 'Billet d''humeur'
     - Publicité
 date: '2008-07-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: stereotypes-de-bac5
+section: default
 2008:
     - '07'
 ---

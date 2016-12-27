@@ -4,9 +4,12 @@ tags:
     - Égalité
     - Citations
 date: '2016-02-06'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: citations
+section: citoyen
 2016:
     - '02'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'PS3 Fail'
 date: '2014-03-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ps3-fail
+section: papa
 2014:
     - '03'
 ---

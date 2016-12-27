@@ -1,9 +1,12 @@
 ---
 title: 'BetterBack : pour une meilleure posture'
 date: '2016-02-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: betterback-meilleure-posture
+section: default
 2016:
     - '02'
 ---

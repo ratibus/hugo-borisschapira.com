@@ -3,9 +3,12 @@ title: 'Une leçon d''Histoire'
 tags:
     - 'Me, myself and I'
 date: '2010-02-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: une-lecon-dhistoire
+section: default
 2010:
     - '02'
 ---

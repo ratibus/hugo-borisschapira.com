@@ -1,10 +1,12 @@
 ---
 title: 'Ligne 1 : l''art de détendre ses usagers'
-categories: null
+categories:
+    - default
 date: '2008-02-22'
-section: default
 lang: fr
 type: post
+slug: ligne-1-lart-de-detendre-ses-usagers
+section: default
 2008:
     - '02'
 ---

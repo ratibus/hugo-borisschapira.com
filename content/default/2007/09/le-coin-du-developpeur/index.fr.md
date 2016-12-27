@@ -4,9 +4,12 @@ tags:
     - Développement
     - .NET
 date: '2007-09-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-coin-du-developpeur
+section: default
 2007:
     - '09'
 ---

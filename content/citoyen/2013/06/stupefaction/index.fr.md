@@ -4,9 +4,12 @@ tags:
     - Société
     - Égalité
 date: '2013-06-27'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: stupefaction
+section: citoyen
 2013:
     - '06'
 ---

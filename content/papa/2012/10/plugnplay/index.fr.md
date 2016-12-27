@@ -1,9 +1,12 @@
 ---
 title: 'Plug''n''Play'
 date: '2012-10-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: plugnplay
+section: papa
 2012:
     - '10'
 ---

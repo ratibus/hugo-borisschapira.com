@@ -3,9 +3,12 @@ title: 'Publié dans L''Express'
 tags:
     - 'Me, myself and I'
 date: '2010-09-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: publie-dans-lexpress
+section: default
 2010:
     - '09'
 ---

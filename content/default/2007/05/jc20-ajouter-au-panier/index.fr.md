@@ -4,9 +4,12 @@ tags:
     - Humour
     - ESIEE
 date: '2007-05-12'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: jc20-ajouter-au-panier
+section: default
 2007:
     - '05'
 ---

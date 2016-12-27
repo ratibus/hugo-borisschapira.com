@@ -5,9 +5,12 @@ tags:
     - Hardware
     - Microsoft
 date: '2007-09-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rentre-du-hardware-chez-microsoft
+section: default
 2007:
     - '09'
 ---

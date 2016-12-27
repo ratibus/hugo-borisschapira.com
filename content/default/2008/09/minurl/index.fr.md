@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Web
 date: '2008-09-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: minurl
+section: default
 2008:
     - '09'
 ---

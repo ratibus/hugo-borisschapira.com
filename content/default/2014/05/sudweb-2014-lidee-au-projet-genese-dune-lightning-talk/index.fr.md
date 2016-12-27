@@ -5,9 +5,12 @@ tags:
 series:
     - 'Sud Web 2014'
 date: '2014-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
+section: default
 2014:
     - '05'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'James Bond'
 date: '2016-05-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: james-bond
+section: papa
 2016:
     - '05'
 ---

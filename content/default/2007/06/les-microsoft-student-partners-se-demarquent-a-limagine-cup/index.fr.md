@@ -6,9 +6,12 @@ tags:
     - 'Project Hoshimi'
     - Web
 date: '2007-06-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-microsoft-student-partners-se-demarquent-a-limagine-cup
+section: default
 2007:
     - '06'
 ---

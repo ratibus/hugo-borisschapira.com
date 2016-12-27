@@ -1,10 +1,12 @@
 ---
 title: '5 choses que vous ne savez (peut-être) pas sur Vincent-San'
-categories: null
+categories:
+    - default
 date: '2007-09-02'
-section: default
 lang: fr
 type: post
+slug: 5-choses-que-vous-ne-savez-peut-etre-pas-sur-vincent-san
+section: default
 2007:
     - '09'
 ---

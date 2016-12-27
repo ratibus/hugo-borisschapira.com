@@ -2,9 +2,12 @@
 title: 'Madame Irma'
 main_image: assets/images/papa/2016-02-19/irma.jpg
 date: '2016-02-19'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: madame-irma-time
+section: papa
 2016:
     - '02'
 ---

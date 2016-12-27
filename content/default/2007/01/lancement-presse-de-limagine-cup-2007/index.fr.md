@@ -3,9 +3,12 @@ title: 'Lancement presse de l''Imagine Cup 2007'
 tags:
     - MSP
 date: '2007-01-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: lancement-presse-de-limagine-cup-2007
+section: default
 2007:
     - '01'
 ---

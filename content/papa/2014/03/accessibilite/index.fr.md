@@ -1,9 +1,12 @@
 ---
 title: Accessibilité
 date: '2014-03-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: accessibilite
+section: papa
 2014:
     - '03'
 ---

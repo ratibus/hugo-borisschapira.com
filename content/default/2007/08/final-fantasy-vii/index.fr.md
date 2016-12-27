@@ -5,9 +5,12 @@ tags:
     - 'Final Fantasy'
     - Playstation
 date: '2007-08-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: final-fantasy-vii
+section: default
 2007:
     - '08'
 ---

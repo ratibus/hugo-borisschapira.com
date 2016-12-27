@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - 'Amis et famille'
 date: '2007-08-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: week-end-prolonge-sur-bordeaux
+section: default
 2007:
     - '08'
 ---

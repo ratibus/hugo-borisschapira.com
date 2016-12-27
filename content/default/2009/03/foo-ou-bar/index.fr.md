@@ -5,9 +5,12 @@ tags:
     - Développement
     - Insolite
 date: '2009-03-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: foo-ou-bar
+section: default
 2009:
     - '03'
 ---

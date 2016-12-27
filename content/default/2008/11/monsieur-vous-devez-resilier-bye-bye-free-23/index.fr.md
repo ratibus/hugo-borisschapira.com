@@ -6,9 +6,12 @@ tags:
     - Free
     - 'Me, myself and I'
 date: '2008-11-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: monsieur-vous-devez-resilier-bye-bye-free-23
+section: default
 2008:
     - '11'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'C''est pas très coordonné tout ça'
 date: '2011-01-28'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: cest-pas-tres-coordonne-tout-ca
+section: papa
 2011:
     - '01'
 ---

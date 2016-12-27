@@ -4,9 +4,12 @@ tags:
     - MSP
     - Conférences
 date: '2006-11-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: teched-2006
+section: default
 2006:
     - '11'
 ---

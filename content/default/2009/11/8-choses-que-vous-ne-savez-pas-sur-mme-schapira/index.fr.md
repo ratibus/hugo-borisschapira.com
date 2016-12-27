@@ -4,9 +4,12 @@ tags:
     - 'Billet d''humeur'
     - 'Me, myself and I'
 date: '2009-11-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: 8-choses-que-vous-ne-savez-pas-sur-mme-schapira
+section: default
 2009:
     - '11'
 ---

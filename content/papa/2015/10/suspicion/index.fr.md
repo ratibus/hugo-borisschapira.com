@@ -1,9 +1,12 @@
 ---
 title: Suspicion
 date: '2015-10-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: suspicion
+section: papa
 2015:
     - '10'
 ---

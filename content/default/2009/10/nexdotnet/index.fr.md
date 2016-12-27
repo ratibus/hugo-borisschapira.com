@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Nexeo
 date: '2009-10-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: nexdotnet
+section: default
 2009:
     - '10'
 ---

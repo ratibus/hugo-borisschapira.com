@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2008-02-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: stage-dveloppeur-5-faons-de-mieux-russir-votre-entretien
+section: default
 2008:
     - '02'
 ---

@@ -5,9 +5,12 @@ tags:
     - Interopérabilité
     - Sharepoint
 date: '2007-06-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sharepoint-et-interoperabilite
+section: default
 2007:
     - '06'
 ---

@@ -3,9 +3,12 @@ title: '[Rétro] Il y a un an… janvier 2008.'
 tags:
     - Rétro
 date: '2009-01-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retro-il-y-a-un-an-janvier-2008
+section: default
 2009:
     - '01'
 ---

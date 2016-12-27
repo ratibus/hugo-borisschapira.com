@@ -4,9 +4,12 @@ tags:
     - Blogosphère
     - GeekMag
 date: '2008-05-16'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: eric-le-forcat-robotique
+section: default
 2008:
     - '05'
 ---

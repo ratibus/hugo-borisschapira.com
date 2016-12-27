@@ -3,9 +3,12 @@ title: 'Maîtrise et expertise'
 tags:
     - Management
 date: '2015-03-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: maitrise-et-expertise
+section: default
 2015:
     - '03'
 ---

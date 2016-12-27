@@ -1,9 +1,12 @@
 ---
 title: 'Introuvable !'
 date: '2016-01-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: sos-doudou-bleu
+section: papa
 2016:
     - '01'
 ---
@@ -20,11 +23,11 @@ En réalité, dans la précipitation du rangement par les deux loustics, _Doudou
 
 Devant la complexité du dispositif, un schéma s'impose :
 
-> Chambre
-> ——> Placard
-> ————> Carton
-> ——————> Taie
-> ————————> Pyjama
+> Chambre  
+> ——> Placard  
+> ————> Carton  
+> ——————> Taie  
+> ————————> Pyjama  
 > ——————————> _Doudou bleu_
 
 Voilà, je ne sais pas quoi ajouter devant tant de machiavélisme infantile. Je vous laisse, j'ai un _Doudou bleu_ et une pile de vêtements sales qui viennent de passer deux jours dans un carton à aller laver.

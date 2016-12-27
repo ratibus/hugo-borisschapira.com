@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Me, myself and I'
 date: '2007-03-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: monster-chasseurs-en-folie
+section: default
 2007:
     - '03'
 ---

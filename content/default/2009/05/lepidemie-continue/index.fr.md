@@ -4,9 +4,12 @@ tags:
     - Finance
     - Economie
 date: '2009-05-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: lepidemie-continue
+section: default
 2009:
     - '05'
 ---

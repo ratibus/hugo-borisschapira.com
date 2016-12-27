@@ -2,10 +2,12 @@
 title: 'Les Entretiens de l''AMF 2008 (2/3) : régulation des produits traités de gré à gré'
 categories:
     - Finance
+    - default
 date: '2008-12-22'
-section: default
 lang: fr
 type: post
+slug: les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre
+section: default
 2008:
     - '12'
 ---
@@ -20,7 +22,7 @@ Le premier point ayant déjà été présenté ici, je vais essayer d'expliquer 
 
 Pour bien comprendre ce point, je vous invite à relire la **définition d'un marché de gré-à-gré**&nbsp;:
 
-> Un marché de gré à gré - ou Over The Counter (OTC) en anglais (hors Bourse) - est un marché sur lequel la transaction est conclue directement entre le vendeur et l'acheteur. Il s'oppose à un marché organisé (ou en Bourse), où la transaction se fait avec la Bourse. Les opérations y sont souvent moins standardisées et moins normalisées ou dans un cadre réglementaire plus souple.
+> Un marché de gré à gré - ou Over The Counter (OTC) en anglais (hors Bourse) - est un marché sur lequel la transaction est conclue directement entre le vendeur et l'acheteur. Il s'oppose à un marché organisé (ou en Bourse), où la transaction se fait avec la Bourse. Les opérations y sont souvent moins standardisées et moins normalisées ou dans un cadre réglementaire plus souple.  
 > 
 > [Wikipedia](http://fr.wikipedia.org/wiki/Over_The_Counter)
 

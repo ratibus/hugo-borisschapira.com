@@ -1,9 +1,12 @@
 ---
 title: 'Ça, "partage".'
 date: '2014-11-20'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ca-partage
+section: papa
 2014:
     - '11'
 ---

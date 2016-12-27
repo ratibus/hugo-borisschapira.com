@@ -5,9 +5,12 @@ tags:
     - Société
     - Chaine
 date: '2008-08-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: a-la-rentree
+section: default
 2008:
     - '08'
 ---

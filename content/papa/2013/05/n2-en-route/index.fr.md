@@ -1,9 +1,12 @@
 ---
 title: 'N°2 en route'
 date: '2013-05-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: n2-en-route
+section: papa
 2013:
     - '05'
 ---

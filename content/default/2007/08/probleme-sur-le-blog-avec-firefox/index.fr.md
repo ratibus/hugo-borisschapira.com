@@ -2,10 +2,12 @@
 title: 'Problème sur le blog avec Firefox'
 categories:
     - Blogosphère
+    - default
 date: '2007-08-15'
-section: default
 lang: fr
 type: post
+slug: probleme-sur-le-blog-avec-firefox
+section: default
 2007:
     - '08'
 ---

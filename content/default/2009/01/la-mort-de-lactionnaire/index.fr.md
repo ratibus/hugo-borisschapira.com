@@ -5,9 +5,12 @@ tags:
     - Politique
     - Crise
 date: '2009-01-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: la-mort-de-lactionnaire
+section: default
 2009:
     - '01'
 ---

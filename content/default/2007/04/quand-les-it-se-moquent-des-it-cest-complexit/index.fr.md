@@ -4,9 +4,12 @@ tags:
     - Développement
     - TechNet
 date: '2007-04-18'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: quand-les-it-se-moquent-des-it-cest-complexit
+section: default
 2007:
     - '04'
 ---

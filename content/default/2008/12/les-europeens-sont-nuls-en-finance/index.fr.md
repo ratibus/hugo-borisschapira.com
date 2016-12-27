@@ -5,9 +5,12 @@ tags:
     - Economie
     - 'Parlement Européen'
 date: '2008-12-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-europeens-sont-nuls-en-finance
+section: default
 2008:
     - '12'
 ---

@@ -3,9 +3,12 @@ title: 'HTML 5, Silverlight et Microsoft'
 tags:
     - Front-End
 date: '2011-10-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: html-5-silverlight-et-microsoft
+section: default
 2011:
     - '10'
 ---

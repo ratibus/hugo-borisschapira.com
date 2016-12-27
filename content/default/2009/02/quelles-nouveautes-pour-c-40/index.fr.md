@@ -3,9 +3,12 @@ title: 'Quelles nouveautés pour C# 4.0'
 tags:
     - .NET
 date: '2009-02-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: quelles-nouveautes-pour-c-40
+section: default
 2009:
     - '02'
 ---

@@ -3,9 +3,12 @@ title: 'MrDream et la grève'
 tags:
     - Grève
 date: '2007-11-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mrdream-et-la-grve
+section: default
 2007:
     - '11'
 ---

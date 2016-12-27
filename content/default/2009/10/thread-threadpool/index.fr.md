@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/10/06/lastuce-du-jour-thread-ou-thread
 tags:
     - Nexdotnet
 date: '2009-10-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: thread-threadpool
+section: default
 2009:
     - '10'
 ---

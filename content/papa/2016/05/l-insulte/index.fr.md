@@ -1,9 +1,12 @@
 ---
 title: 'L''insulte'
 date: '2016-05-08'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: l-insulte
+section: papa
 2016:
     - '05'
 ---

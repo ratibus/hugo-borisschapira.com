@@ -6,9 +6,12 @@ tags:
     - Nameless
     - Nexeo
 date: '2008-02-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sorties-de-la-semaine-dernire
+section: default
 2008:
     - '02'
 ---

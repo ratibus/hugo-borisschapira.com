@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Windows Vista'
 date: '2007-08-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: vista-sp1-premier-trimestre-2008
+section: default
 2007:
     - '08'
 ---

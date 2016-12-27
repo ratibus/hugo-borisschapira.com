@@ -2,9 +2,12 @@
 title: Heist
 main_image: assets/images/papa/2016-03-26/oceans_eleven.gif
 date: '2016-03-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: heist
+section: papa
 2016:
     - '03'
 ---

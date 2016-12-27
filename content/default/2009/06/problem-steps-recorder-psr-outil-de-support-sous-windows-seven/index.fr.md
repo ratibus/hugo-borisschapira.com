@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/06/05/problem-steps-recorder-psr-outil
 tags:
     - Nexdotnet
 date: '2009-06-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: problem-steps-recorder-psr-outil-de-support-sous-windows-seven
+section: default
 2009:
     - '06'
 ---

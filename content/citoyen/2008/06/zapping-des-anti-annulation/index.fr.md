@@ -4,9 +4,12 @@ tags:
     - Justice
     - Religion
 date: '2008-06-02'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: zapping-des-anti-annulation
+section: citoyen
 2008:
     - '06'
 ---

@@ -1,10 +1,12 @@
 ---
 title: 'Dernier jour @ Microsoft France'
-categories: null
+categories:
+    - default
 date: '2007-08-31'
-section: default
 lang: fr
 type: post
+slug: dernier-jour-microsoft-france
+section: default
 2007:
     - '08'
 ---

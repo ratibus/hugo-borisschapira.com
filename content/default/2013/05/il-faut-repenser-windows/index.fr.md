@@ -6,9 +6,12 @@ series:
     - 'Windows Phone'
 canonical: 'http://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/'
 date: '2013-05-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: il-faut-repenser-windows
+section: default
 2013:
     - '05'
 ---

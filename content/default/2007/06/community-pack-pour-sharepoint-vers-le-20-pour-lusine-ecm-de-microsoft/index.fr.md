@@ -5,9 +5,12 @@ tags:
     - CodePlex
     - Sharepoint
 date: '2007-06-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: community-pack-pour-sharepoint-vers-le-20-pour-lusine-ecm-de-microsoft
+section: default
 2007:
     - '06'
 ---

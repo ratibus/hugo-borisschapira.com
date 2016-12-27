@@ -8,9 +8,12 @@ tags:
     - Microsoft
     - Silverlight
 date: '2007-09-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: devenez-pro-dun-web-plus-net
+section: default
 2007:
     - '09'
 ---

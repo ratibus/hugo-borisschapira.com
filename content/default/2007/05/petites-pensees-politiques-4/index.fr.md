@@ -2,10 +2,12 @@
 title: 'Elections présidentielles 2007 #4'
 categories:
     - Politique
+    - default
 date: '2007-05-18'
-section: default
 lang: fr
 type: post
+slug: petites-pensees-politiques-4
+section: default
 2007:
     - '05'
 ---

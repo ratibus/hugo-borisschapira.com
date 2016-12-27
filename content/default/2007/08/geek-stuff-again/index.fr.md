@@ -5,9 +5,12 @@ tags:
     - Technologie
     - Geek
 date: '2007-08-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: geek-stuff-again
+section: default
 2007:
     - '08'
 ---

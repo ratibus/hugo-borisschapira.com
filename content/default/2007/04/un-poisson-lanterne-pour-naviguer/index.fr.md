@@ -3,9 +3,12 @@ title: 'Deepfish : le poisson lanterne de Microsoft'
 tags:
     - Outils
 date: '2007-04-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-poisson-lanterne-pour-naviguer
+section: default
 2007:
     - '04'
 ---

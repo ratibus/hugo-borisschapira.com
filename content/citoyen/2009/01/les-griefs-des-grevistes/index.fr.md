@@ -3,9 +3,12 @@ title: 'Les griefs des grévistes'
 tags:
     - Grève
 date: '2009-01-29'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: les-griefs-des-grevistes
+section: citoyen
 2009:
     - '01'
 ---

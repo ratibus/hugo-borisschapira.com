@@ -1,9 +1,12 @@
 ---
 title: Furtif
 date: '2016-01-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: furtif
+section: papa
 2016:
     - '01'
 ---

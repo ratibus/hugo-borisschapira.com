@@ -6,9 +6,12 @@ tags:
     - Sharepoint
     - 'Visual Basic'
 date: '2007-04-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sharepoint-et-moi-episode-1
+section: default
 2007:
     - '04'
 ---

@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2008-11-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-plus-faible-des-hommes
+section: default
 2008:
     - '11'
 ---

@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-04-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: rejet-dhadopi-faut-il-se-rejouir
+section: citoyen
 2009:
     - '04'
 ---

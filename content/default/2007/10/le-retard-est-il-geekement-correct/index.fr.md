@@ -4,9 +4,12 @@ tags:
     - Blogosphère
     - 'Geekement Correct'
 date: '2007-10-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-retard-est-il-geekement-correct
+section: default
 2007:
     - '10'
 ---

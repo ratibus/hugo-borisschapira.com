@@ -3,9 +3,12 @@ title: 'Demain c''est Noël (Edit : après-demain ?)'
 tags:
     - Libellule
 date: '2007-12-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: demain-cest-nol
+section: default
 2007:
     - '12'
 ---

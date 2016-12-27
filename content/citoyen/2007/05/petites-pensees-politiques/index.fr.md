@@ -4,9 +4,12 @@ tags:
     - Débat
     - Présidentielles
 date: '2007-05-02'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: petites-pensees-politiques
+section: citoyen
 2007:
     - '05'
 ---

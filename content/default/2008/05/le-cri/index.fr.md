@@ -3,9 +3,12 @@ title: 'Le cri'
 tags:
     - 'Me, myself and I'
 date: '2008-05-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-cri
+section: default
 2008:
     - '05'
 ---

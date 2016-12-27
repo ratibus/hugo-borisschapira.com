@@ -5,9 +5,12 @@ tags:
     - Technologie
     - Economie
 date: '2009-12-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: xbrl-pour-lechange-de-donnees-financieres
+section: default
 2009:
     - '12'
 ---

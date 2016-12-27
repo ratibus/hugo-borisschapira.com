@@ -8,9 +8,12 @@ tags:
     - 'Project Hoshimi'
     - 'Windows Vista'
 date: '2007-02-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: conference-esiee-cest-fini
+section: default
 2007:
     - '02'
 ---

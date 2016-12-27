@@ -2,9 +2,12 @@
 title: 'Cinquième anniversaire du grand'
 main_image: assets/images/papa/2016-01-16/1.gif
 date: '2016-01-16'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: anniversaire-du-grand
+section: papa
 2016:
     - '01'
 ---

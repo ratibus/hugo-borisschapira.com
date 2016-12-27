@@ -7,9 +7,12 @@ tags:
     - IBM
     - Microsoft
 date: '2007-04-20'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: deux-emissions-a-ne-pas-louper-sur-arte
+section: default
 2007:
     - '04'
 ---

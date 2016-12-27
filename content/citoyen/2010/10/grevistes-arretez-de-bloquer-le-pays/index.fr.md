@@ -2,9 +2,12 @@
 title: 'Grévistes, arrêtez de bloquer le pays…'
 tags: null
 date: '2010-10-18'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: grevistes-arretez-de-bloquer-le-pays
+section: citoyen
 2010:
     - '10'
 ---

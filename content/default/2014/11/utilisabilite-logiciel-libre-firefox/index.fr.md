@@ -4,9 +4,12 @@ tags:
     - 'Logiciel Libre'
     - 'Service Design'
 date: '2014-11-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: utilisabilite-logiciel-libre-firefox
+section: default
 2014:
     - '11'
 ---

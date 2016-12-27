@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Interopérabilité
 date: '2007-04-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: adobe-vs-microsoft-le-combat-continue
+section: default
 2007:
     - '04'
 ---

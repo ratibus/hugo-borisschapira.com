@@ -5,9 +5,12 @@ tags:
 series:
     - 'Windows Phone'
 date: '2010-06-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: windows-phone-7-nouvelle-politique-du-marketplace
+section: default
 2010:
     - '06'
 ---

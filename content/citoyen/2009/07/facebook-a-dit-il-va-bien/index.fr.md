@@ -6,9 +6,12 @@ tags:
     - Facebook
     - France
 date: '2009-07-29'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: facebook-a-dit-il-va-bien
+section: citoyen
 2009:
     - '07'
 ---

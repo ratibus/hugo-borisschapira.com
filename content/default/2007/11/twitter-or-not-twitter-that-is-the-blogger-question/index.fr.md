@@ -5,9 +5,12 @@ tags:
     - 'Billet d''humeur'
     - Microblogging
 date: '2007-11-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: twitter-or-not-twitter-that-is-the-blogger-question
+section: default
 2007:
     - '11'
 ---

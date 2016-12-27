@@ -5,9 +5,12 @@ tags:
     - Outils
     - Productivité
 date: '2015-08-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: de-windows-a-mac
+section: default
 2015:
     - '08'
 ---

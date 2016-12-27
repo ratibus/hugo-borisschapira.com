@@ -3,9 +3,12 @@ title: 'Un été bien chargé (photos from Flickr)'
 tags:
     - Photos
 date: '2008-08-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: un-ete-bien-charge-photos-from-flickr
+section: default
 2008:
     - '08'
 ---

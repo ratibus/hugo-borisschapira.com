@@ -3,9 +3,12 @@ title: 'Konami Code Bookmarklet'
 tags:
     - Projets
 date: '2014-01-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: konami-code-bookmarklet
+section: default
 2014:
     - '01'
 ---

@@ -4,10 +4,12 @@ categories:
     - 'Bande Dessinée'
     - Humour
     - Musique
+    - default
 date: '2008-07-19'
-section: default
 lang: fr
 type: post
+slug: video-la-solitude-du-super-vilain-par-joss-whedon
+section: default
 2008:
     - '07'
 ---

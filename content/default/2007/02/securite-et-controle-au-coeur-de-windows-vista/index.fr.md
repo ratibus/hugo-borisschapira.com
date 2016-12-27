@@ -5,9 +5,12 @@ tags:
     - Windows
     - 'Me, myself and I'
 date: '2007-02-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: securite-et-controle-au-coeur-de-windows-vista
+section: default
 2007:
     - '02'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'L''Ass. Mat de la mort : le contrat'
 date: '2014-01-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: lass-mat-de-la-mort-le-contrat
+section: papa
 2014:
     - '01'
 ---

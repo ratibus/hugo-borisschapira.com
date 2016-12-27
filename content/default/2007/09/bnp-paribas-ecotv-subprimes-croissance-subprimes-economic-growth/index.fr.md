@@ -2,10 +2,12 @@
 title: 'BNP-Paribas EcoTV : Subprimes & Croissance (Subprimes & Economic Growth)'
 categories:
     - Finance
+    - default
 date: '2007-09-09'
-section: default
 lang: fr
 type: post
+slug: bnp-paribas-ecotv-subprimes-croissance-subprimes-economic-growth
+section: default
 2007:
     - '09'
 ---

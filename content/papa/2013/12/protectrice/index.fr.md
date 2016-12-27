@@ -1,9 +1,12 @@
 ---
 title: Protectrice
 date: '2013-12-07'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: protectrice
+section: papa
 2013:
     - '12'
 ---

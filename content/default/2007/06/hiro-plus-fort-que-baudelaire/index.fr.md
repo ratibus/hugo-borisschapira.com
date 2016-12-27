@@ -4,9 +4,12 @@ tags:
     - Télévision
     - Heroes
 date: '2007-06-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: hiro-plus-fort-que-baudelaire
+section: default
 2007:
     - '06'
 ---

@@ -3,9 +3,12 @@ title: 'TechDays 2008 : bloquez votre planning'
 tags:
     - Techdays
 date: '2007-06-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: techdays-2008-bloquez-votre-planning
+section: default
 2007:
     - '06'
 ---

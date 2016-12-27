@@ -2,10 +2,12 @@
 title: 'Acquisition de ReCaptcha, chapeau Google'
 categories:
     - Technologie
+    - default
 date: '2009-09-22'
-section: default
 lang: fr
 type: post
+slug: acquisition-de-recaptcha-chapeau-google
+section: default
 2009:
     - '09'
 ---

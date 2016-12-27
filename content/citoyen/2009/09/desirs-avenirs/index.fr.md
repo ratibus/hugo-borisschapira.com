@@ -4,9 +4,12 @@ tags:
     - Numérique
     - 'Billet d''humeur'
 date: '2009-09-17'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: desirs-avenirs
+section: citoyen
 2009:
     - '09'
 ---

@@ -1,9 +1,12 @@
 ---
 title: Comptines
 date: '2014-05-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: comptines
+section: papa
 2014:
     - '05'
 ---

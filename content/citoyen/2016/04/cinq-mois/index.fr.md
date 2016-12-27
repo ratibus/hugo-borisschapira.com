@@ -4,14 +4,17 @@ tags:
     - 'État d''urgence'
     - Citations
 date: '2016-04-12'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: cinq-mois
+section: citoyen
 2016:
     - '04'
 ---
 
-> Quoi, parce qu'un assassin a commis un crime, faut-il suspendre toutes les libertés du pays ?
+> Quoi, parce qu'un assassin a commis un crime, faut-il suspendre toutes les libertés du pays ?  
 >
 > Nous nous glorifions de nous opposer autant qu'il nous est en nous à une loi dangereuse dont on pourra se servir pour inquiéter les plus tranquilles et les plus probes des citoyens.
 

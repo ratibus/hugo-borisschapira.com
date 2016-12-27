@@ -4,9 +4,12 @@ tags:
     - 'Billet d''humeur'
     - Éducation
 date: '2007-09-25'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: choix-et-vocations-coup-de-gueule
+section: default
 2007:
     - '09'
 ---

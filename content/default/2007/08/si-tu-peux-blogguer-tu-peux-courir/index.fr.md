@@ -1,10 +1,12 @@
 ---
 title: 'Si tu peux bloguer, tu peux courir'
-categories: null
+categories:
+    - default
 date: '2007-08-27'
-section: default
 lang: fr
 type: post
+slug: si-tu-peux-blogguer-tu-peux-courir
+section: default
 2007:
     - '08'
 ---

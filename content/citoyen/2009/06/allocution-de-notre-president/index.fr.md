@@ -4,9 +4,12 @@ tags:
     - Société
     - France
 date: '2009-06-23'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: allocution-de-notre-president
+section: citoyen
 2009:
     - '06'
 ---

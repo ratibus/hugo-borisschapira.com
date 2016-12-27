@@ -1,9 +1,12 @@
 ---
 title: 'La nuance'
 date: '2016-02-20'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-nuance
+section: papa
 2016:
     - '02'
 ---

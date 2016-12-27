@@ -4,9 +4,12 @@ tags:
     - Front-End
     - Projets
 date: '2010-05-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: html5-barre-laterale
+section: default
 2010:
     - '05'
 ---

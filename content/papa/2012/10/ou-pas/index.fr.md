@@ -1,9 +1,12 @@
 ---
 title: 'Ou pas.'
 date: '2012-10-23'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: ou-pas
+section: papa
 2012:
     - '10'
 ---

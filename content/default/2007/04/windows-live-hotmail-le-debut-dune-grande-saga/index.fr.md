@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Windows Live Hotmail'
 date: '2007-04-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: windows-live-hotmail-le-debut-dune-grande-saga
+section: default
 2007:
     - '04'
 ---

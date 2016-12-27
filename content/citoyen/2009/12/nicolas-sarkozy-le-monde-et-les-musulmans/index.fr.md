@@ -4,9 +4,12 @@ tags:
     - Religion
     - Égalité
 date: '2009-12-09'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: nicolas-sarkozy-le-monde-et-les-musulmans
+section: citoyen
 2009:
     - '12'
 ---

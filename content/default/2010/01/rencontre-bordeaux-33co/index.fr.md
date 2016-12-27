@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Me, myself and I'
 date: '2010-01-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rencontre-bordeaux-33co
+section: default
 2010:
     - '01'
 ---

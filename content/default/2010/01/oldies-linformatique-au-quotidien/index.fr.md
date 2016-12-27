@@ -3,14 +3,17 @@ title: '1979&nbsp;: bientôt l''informatique au quotidien'
 tags:
     - Histoire
 date: '2010-01-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: oldies-linformatique-au-quotidien
+section: default
 2010:
     - '01'
 ---
 
-> Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.
+> Si vous avez des idées sur comment utiliser ces ordinateurs, vous pouvez prendre contact avec cette mission.  
 > <cite>Arlette Chabot</cite>
 
 <!-- more -->

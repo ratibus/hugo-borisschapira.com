@@ -5,9 +5,12 @@ tags:
     - 'Windows Live Writer'
     - Wordpress
 date: '2007-05-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mise-lpreuve-windows-live-writer
+section: default
 2007:
     - '05'
 ---

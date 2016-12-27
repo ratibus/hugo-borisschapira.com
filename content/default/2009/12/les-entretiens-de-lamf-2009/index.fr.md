@@ -3,9 +3,12 @@ title: 'Les Entretiens de l''AMF 2009'
 tags:
     - Finance
 date: '2009-12-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-entretiens-de-lamf-2009
+section: default
 2009:
     - '12'
 ---

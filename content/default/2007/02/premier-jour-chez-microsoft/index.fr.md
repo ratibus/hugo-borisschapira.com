@@ -3,9 +3,12 @@ title: 'Premier jour chez Microsoft !'
 tags:
     - 'Me, myself and I'
 date: '2007-02-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: premier-jour-chez-microsoft
+section: default
 2007:
     - '02'
 ---

@@ -4,9 +4,12 @@ tags:
     - Vulgarisation
 series: 'Dangers du Net'
 date: '2007-08-29'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mails-messageries-web-cest-aussi-la-rentree-des-dangers
+section: default
 2007:
     - '08'
 ---

@@ -4,9 +4,12 @@ tags:
     - Insolite
     - 'Me, myself and I'
 date: '2008-07-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: confession
+section: default
 2008:
     - '07'
 ---

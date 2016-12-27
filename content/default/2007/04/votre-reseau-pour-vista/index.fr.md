@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Windows Vista'
 date: '2007-04-17'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: votre-reseau-pour-vista
+section: default
 2007:
     - '04'
 ---

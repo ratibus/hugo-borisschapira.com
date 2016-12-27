@@ -6,9 +6,12 @@ tags:
     - Publicité
     - Télévision
 date: '2009-11-02'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: je-ne-sais-pas-vous-mais-moi
+section: citoyen
 2009:
     - '11'
 ---

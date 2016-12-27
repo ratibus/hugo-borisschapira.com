@@ -1,10 +1,12 @@
 ---
 title: 'A venir sur Boris-Schapira.com'
-categories: null
+categories:
+    - default
 date: '2007-06-10'
-section: default
 lang: fr
 type: post
+slug: a-venir-sur-boris-schapiracom
+section: default
 2007:
     - '06'
 ---

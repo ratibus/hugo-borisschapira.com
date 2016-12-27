@@ -4,9 +4,12 @@ tags:
     - Technologie
     - 'Windows Vista'
 date: '2007-05-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: ouverture-du-cafe-windows-vista
+section: default
 2007:
     - '05'
 ---

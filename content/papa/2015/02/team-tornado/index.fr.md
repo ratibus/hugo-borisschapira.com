@@ -1,9 +1,12 @@
 ---
 title: 'Team Tornado'
 date: '2015-02-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: team-tornado
+section: papa
 2015:
     - '02'
 ---

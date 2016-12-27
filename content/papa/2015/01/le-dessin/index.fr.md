@@ -1,9 +1,12 @@
 ---
 title: 'Le dessin'
 date: '2015-01-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-dessin
+section: papa
 2015:
     - '01'
 ---

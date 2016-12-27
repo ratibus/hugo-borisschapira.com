@@ -6,9 +6,12 @@ tags:
     - Stargate
     - Télévision
 date: '2009-10-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rendez-nous-stargate
+section: default
 2009:
     - '10'
 ---

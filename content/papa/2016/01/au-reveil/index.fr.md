@@ -1,9 +1,12 @@
 ---
 title: 'Au réveil'
 date: '2016-01-24'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: au-reveil
+section: papa
 2016:
     - '01'
 ---

@@ -3,10 +3,12 @@ title: 'Rose - La liste'
 categories:
     - Musique
     - 'Me, myself and I'
+    - default
 date: '2007-03-27'
-section: default
 lang: fr
 type: post
+slug: coup-de-coeur-musical-2
+section: default
 2007:
     - '03'
 ---

@@ -1,9 +1,12 @@
 ---
 title: Chapcheup
 date: '2014-08-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: chapcheup
+section: papa
 2014:
     - '08'
 ---

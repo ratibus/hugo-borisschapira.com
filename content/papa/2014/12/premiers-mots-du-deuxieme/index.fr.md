@@ -1,9 +1,12 @@
 ---
 title: 'Premiers mots du deuxième'
 date: '2014-12-11'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: premiers-mots-du-deuxieme
+section: papa
 2014:
     - '12'
 ---

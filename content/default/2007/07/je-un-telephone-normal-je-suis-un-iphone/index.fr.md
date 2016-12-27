@@ -3,9 +3,12 @@ title: '«&#160;Je suis un tél normal - Je suis un iPhone&#160;»'
 tags:
     - GeekMag
 date: '2007-07-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: je-un-telephone-normal-je-suis-un-iphone
+section: default
 2007:
     - '07'
 ---

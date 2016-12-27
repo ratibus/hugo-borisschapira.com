@@ -3,9 +3,12 @@ title: 'Faire ses vœux pour 2009'
 tags:
     - 'Nouvel an'
 date: '2008-12-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: voeux-2009-enfin-presque
+section: default
 2008:
     - '12'
 ---

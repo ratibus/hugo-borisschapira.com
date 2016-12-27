@@ -5,9 +5,12 @@ tags:
     - 'Internet Explorer'
     - Web
 date: '2007-12-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: internet-explorer-renoue-avec-les-standards
+section: default
 2007:
     - '12'
 ---

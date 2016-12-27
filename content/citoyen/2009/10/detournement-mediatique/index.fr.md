@@ -4,14 +4,17 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-10-23'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: detournement-mediatique
+section: citoyen
 2009:
     - '10'
 ---
 
-> It might not even have made much difference to them if they'd known exactly how much power the President of the Galaxy actually wielded: none at all. Only six people in the Galaxy knew that the job of the Galactic President was not to wield power but to attract attention away from it.
+> It might not even have made much difference to them if they'd known exactly how much power the President of the Galaxy actually wielded: none at all. Only six people in the Galaxy knew that the job of the Galactic President was not to wield power but to attract attention away from it.  
 > <cite>Douglas Adams, [The Hitchhiker's Guide to the Galaxy](http://www.wikiwand.com/en/The_Hitchhiker "The Hitchhiker")</cite>
 
 <!-- more -->

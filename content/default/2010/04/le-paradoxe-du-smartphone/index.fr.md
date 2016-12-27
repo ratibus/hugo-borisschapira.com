@@ -5,9 +5,12 @@ tags:
 series:
     - 'Windows Phone'
 date: '2010-04-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: le-paradoxe-du-smartphone
+section: default
 2010:
     - '04'
 ---

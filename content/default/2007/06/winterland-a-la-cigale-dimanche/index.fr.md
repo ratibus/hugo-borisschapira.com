@@ -4,9 +4,12 @@ tags:
     - Musique
     - 'Silent Fall (ex Winterland)'
 date: '2007-06-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: winterland-a-la-cigale-dimanche
+section: default
 2007:
     - '06'
 ---

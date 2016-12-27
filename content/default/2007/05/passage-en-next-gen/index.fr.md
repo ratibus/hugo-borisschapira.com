@@ -4,9 +4,12 @@ tags:
     - Technologie
     - XBox360
 date: '2007-05-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: passage-en-next-gen
+section: default
 2007:
     - '05'
 ---

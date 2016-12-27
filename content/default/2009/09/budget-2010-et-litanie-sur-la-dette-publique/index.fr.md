@@ -6,9 +6,12 @@ tags:
     - 'Dette publique'
     - Economie
 date: '2009-09-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: budget-2010-et-litanie-sur-la-dette-publique
+section: default
 2009:
     - '09'
 ---

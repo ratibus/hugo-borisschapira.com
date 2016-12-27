@@ -1,9 +1,12 @@
 ---
 title: Matinaux
 date: '2014-07-05'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: matinaux
+section: papa
 2014:
     - '07'
 ---

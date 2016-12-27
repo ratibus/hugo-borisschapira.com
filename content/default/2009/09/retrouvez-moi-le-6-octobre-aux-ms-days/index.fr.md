@@ -4,9 +4,12 @@ tags:
     - Microsoft
     - MSDays
 date: '2009-09-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retrouvez-moi-le-6-octobre-aux-ms-days
+section: default
 2009:
     - '09'
 ---

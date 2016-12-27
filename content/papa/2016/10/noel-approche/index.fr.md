@@ -1,9 +1,12 @@
 ---
 title: 'Noël approche'
 date: '2016-10-28'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: noel-approche
+section: papa
 2016:
     - '10'
 ---

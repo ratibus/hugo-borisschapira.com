@@ -4,9 +4,12 @@ tags:
     - Développement
     - Wordpress
 date: '2009-05-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: carrington-blog-20-fr
+section: default
 2009:
     - '05'
 ---

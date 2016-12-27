@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Wordpress
 date: '2009-08-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: comment-gerer-plusieurs-wordpress
+section: default
 2009:
     - '08'
 ---

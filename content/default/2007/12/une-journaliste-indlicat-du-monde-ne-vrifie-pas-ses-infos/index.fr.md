@@ -7,9 +7,12 @@ tags:
     - Microsoft
     - MSP
 date: '2007-12-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
+section: default
 2007:
     - '12'
 ---

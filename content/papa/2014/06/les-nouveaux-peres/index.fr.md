@@ -1,9 +1,12 @@
 ---
 title: 'Les nouveaux pères'
 date: '2014-06-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: les-nouveaux-peres
+section: papa
 2014:
     - '06'
 ---

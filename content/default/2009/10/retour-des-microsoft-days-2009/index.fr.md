@@ -5,9 +5,12 @@ tags:
     - Microsoft
     - MSDays
 date: '2009-10-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: retour-des-microsoft-days-2009
+section: default
 2009:
     - '10'
 ---

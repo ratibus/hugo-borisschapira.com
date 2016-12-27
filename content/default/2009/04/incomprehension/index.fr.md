@@ -2,10 +2,12 @@
 title: Incompréhension
 categories:
     - Société
+    - default
 date: '2009-04-08'
-section: default
 lang: fr
 type: post
+slug: incomprehension
+section: default
 2009:
     - '04'
 ---

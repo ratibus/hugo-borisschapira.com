@@ -3,9 +3,12 @@ title: '«&#160;Rework, réussir autrement&#160;», disponible en français'
 tags:
     - Management
 date: '2010-11-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rework-disponible-en-francais
+section: default
 2010:
     - '11'
 ---

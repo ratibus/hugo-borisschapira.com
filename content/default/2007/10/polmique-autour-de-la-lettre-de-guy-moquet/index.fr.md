@@ -2,10 +2,12 @@
 title: 'Polémique autour de la «&#160;Lettre de Guy Moquet&#160;»'
 categories:
     - Politique
+    - default
 date: '2007-10-21'
-section: default
 lang: fr
 type: post
+slug: polmique-autour-de-la-lettre-de-guy-moquet
+section: default
 2007:
     - '10'
 ---

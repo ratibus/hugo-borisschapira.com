@@ -5,9 +5,12 @@ tags:
     - Éducation
     - Note2Be
 date: '2009-03-05'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: darwin-chez-les-ados
+section: citoyen
 2009:
     - '03'
 ---

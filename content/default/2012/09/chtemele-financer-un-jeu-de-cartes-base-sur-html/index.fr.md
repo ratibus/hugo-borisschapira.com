@@ -4,9 +4,12 @@ tags:
     - Front-End
     - Insolite
 date: '2012-09-11'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: chtemele-financer-un-jeu-de-cartes-base-sur-html
+section: default
 2012:
     - '09'
 ---

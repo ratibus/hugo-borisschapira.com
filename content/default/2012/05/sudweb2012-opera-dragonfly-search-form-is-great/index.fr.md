@@ -5,9 +5,12 @@ tags:
 series:
     - 'Sud Web 2012'
 date: '2012-05-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: sudweb2012-opera-dragonfly-search-form-is-great
+section: default
 2012:
     - '05'
 ---

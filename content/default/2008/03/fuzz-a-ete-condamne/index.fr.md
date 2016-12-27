@@ -7,9 +7,12 @@ tags:
     - Presse-Citron
     - Web
 date: '2008-03-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: fuzz-a-ete-condamne
+section: default
 2008:
     - '03'
 ---

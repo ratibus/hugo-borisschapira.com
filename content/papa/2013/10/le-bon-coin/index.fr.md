@@ -1,9 +1,12 @@
 ---
 title: 'Le Bon Coin'
 date: '2013-10-04'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-bon-coin
+section: papa
 2013:
     - '10'
 ---

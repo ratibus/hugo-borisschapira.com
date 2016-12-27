@@ -4,9 +4,12 @@ tags:
     - Numérique
 series: Hadopi
 date: '2009-07-22'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: septembre-sera-chaud
+section: citoyen
 2009:
     - '07'
 ---

@@ -3,9 +3,12 @@ title: 'MOSS 2007 certifié par la Défense américaine'
 tags:
     - Sharepoint
 date: '2007-06-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: moss-2007-certifie-par-la-defense-americaine
+section: default
 2007:
     - '06'
 ---

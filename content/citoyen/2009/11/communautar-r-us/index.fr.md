@@ -5,9 +5,12 @@ tags:
     - France
     - Religion
 date: '2009-11-23'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: communautar-r-us
+section: citoyen
 2009:
     - '11'
 ---

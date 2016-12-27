@@ -3,9 +3,12 @@ title: 'Jeux vidéo responsables'
 tags:
     - 'Jeu Video'
 date: '2010-03-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: jeux-video-responsables
+section: default
 2010:
     - '03'
 ---

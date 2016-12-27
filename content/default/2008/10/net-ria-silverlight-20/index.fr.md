@@ -4,9 +4,12 @@ tags:
     - Développement
     - Silverlight
 date: '2008-10-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: net-ria-silverlight-20
+section: default
 2008:
     - '10'
 ---

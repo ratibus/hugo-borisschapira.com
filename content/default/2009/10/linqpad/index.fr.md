@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/10/02/lastuce-du-jour-linqpad-pour-vos
 tags:
     - Nexdotnet
 date: '2009-10-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: linqpad
+section: default
 2009:
     - '10'
 ---

@@ -5,9 +5,12 @@ tags:
     - MIX07
     - Web
 date: '2007-05-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: astoria-un-live-sql
+section: default
 2007:
     - '05'
 ---

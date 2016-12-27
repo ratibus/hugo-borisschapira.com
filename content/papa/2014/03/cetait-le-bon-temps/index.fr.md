@@ -1,9 +1,12 @@
 ---
 title: 'C''était le bon temps'
 date: '2014-03-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: cetait-le-bon-temps
+section: papa
 2014:
     - '03'
 ---

@@ -1,9 +1,12 @@
 ---
 title: VDM
 date: '2013-03-09'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: vdm
+section: papa
 2013:
     - '03'
 ---

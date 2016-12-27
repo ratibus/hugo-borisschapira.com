@@ -5,9 +5,12 @@ tags:
     - NAS
     - 'Ready Nas Duo'
 date: '2009-05-23'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: serveur-nas-et-disques-durs-commandes
+section: default
 2009:
     - '05'
 ---

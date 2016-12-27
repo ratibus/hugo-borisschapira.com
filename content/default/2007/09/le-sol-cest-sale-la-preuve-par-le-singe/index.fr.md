@@ -2,10 +2,12 @@
 title: 'Le sol c''est sale, la preuve par le singe'
 categories:
     - Humour
+    - default
 date: '2007-09-14'
-section: default
 lang: fr
 type: post
+slug: le-sol-cest-sale-la-preuve-par-le-singe
+section: default
 2007:
     - '09'
 ---

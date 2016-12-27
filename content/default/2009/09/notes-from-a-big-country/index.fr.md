@@ -3,10 +3,12 @@ title: '«&#160;Notes From a Big Country&#160;», Bill Bryson'
 categories:
     - Humour
     - Littérature
+    - default
 date: '2009-09-15'
-section: default
 lang: fr
 type: post
+slug: notes-from-a-big-country
+section: default
 2009:
     - '09'
 ---

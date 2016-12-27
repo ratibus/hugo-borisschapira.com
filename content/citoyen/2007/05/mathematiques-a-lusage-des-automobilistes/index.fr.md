@@ -4,9 +4,12 @@ tags:
     - Société
     - 'Sécurité routière'
 date: '2007-05-24'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: mathematiques-a-lusage-des-automobilistes
+section: citoyen
 2007:
     - '05'
 ---

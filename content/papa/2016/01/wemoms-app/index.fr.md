@@ -1,9 +1,12 @@
 ---
 title: WeMoms
 date: '2016-01-03'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: wemoms-app
+section: papa
 2016:
     - '01'
 ---

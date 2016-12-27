@@ -3,9 +3,12 @@ title: 'Développeurs Web : 10 conseils ultimes…'
 tags:
     - Front-End
 date: '2011-05-13'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: developpeurs-web-10-conseils-ultimes
+section: default
 2011:
     - '05'
 ---

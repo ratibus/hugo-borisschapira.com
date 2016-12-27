@@ -5,9 +5,12 @@ tags:
     - 'Windows Live'
     - 'Windows Live Hotmail'
 date: '2007-08-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: nouveautes-live-hotmail-de-septembre
+section: default
 2007:
     - '08'
 ---

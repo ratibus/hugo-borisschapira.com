@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Crash
 date: '2007-08-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: champion-du-monde-de-mauvaise-foi-skype
+section: default
 2007:
     - '08'
 ---

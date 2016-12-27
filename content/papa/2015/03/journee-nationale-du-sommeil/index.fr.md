@@ -1,9 +1,12 @@
 ---
 title: 'Journée Nationale du Sommeil'
 date: '2015-03-14'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: journee-nationale-du-sommeil
+section: papa
 2015:
     - '03'
 ---

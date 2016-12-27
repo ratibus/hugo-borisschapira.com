@@ -1,9 +1,12 @@
 ---
 title: 'Faisons marcher les réseaux'
 date: '2013-10-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: faisons-marcher-les-reseaux
+section: papa
 2013:
     - '10'
 ---

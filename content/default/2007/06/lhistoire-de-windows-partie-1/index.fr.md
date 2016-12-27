@@ -4,9 +4,12 @@ tags:
     - Technologie
     - Windows
 date: '2007-06-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: lhistoire-de-windows-partie-1
+section: default
 2007:
     - '06'
 ---

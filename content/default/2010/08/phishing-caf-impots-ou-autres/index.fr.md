@@ -1,9 +1,12 @@
 ---
 title: 'Phishing CAF, Impôts ou autres…'
 date: '2010-08-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: phishing-caf-impots-ou-autres
+section: default
 2010:
     - '08'
 ---

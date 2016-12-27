@@ -1,9 +1,12 @@
 ---
 title: Esperanto
 date: '2016-07-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: esperanto
+section: papa
 2016:
     - '07'
 ---

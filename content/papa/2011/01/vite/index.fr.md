@@ -1,9 +1,12 @@
 ---
 title: Vite
 date: '2011-01-31'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: vite
+section: papa
 2011:
     - '01'
 ---

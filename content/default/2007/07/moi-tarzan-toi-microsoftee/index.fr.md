@@ -1,10 +1,12 @@
 ---
 title: 'Moi tarzan, toi Microsoftee'
-categories: null
+categories:
+    - default
 date: '2007-07-10'
-section: default
 lang: fr
 type: post
+slug: moi-tarzan-toi-microsoftee
+section: default
 2007:
     - '07'
 ---

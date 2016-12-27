@@ -5,9 +5,12 @@ tags:
     - Libellule
     - XBox360
 date: '2007-07-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: my-girlfriend-is-dirt
+section: default
 2007:
     - '07'
 ---

@@ -6,9 +6,12 @@ tags:
     - iPhone
     - Publicité
 date: '2007-11-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
+section: default
 2007:
     - '11'
 ---

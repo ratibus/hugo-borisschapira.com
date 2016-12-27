@@ -3,9 +3,12 @@ title: 'Réformer l''Education&nbsp;?'
 tags:
     - Education
 date: '2013-10-03'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: reformer-leducation
+section: default
 2013:
     - '10'
 ---

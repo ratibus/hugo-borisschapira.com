@@ -3,9 +3,12 @@ title: 'Microsoft et Google rejoignent l''OpenAjax Alliance'
 tags:
     - 'Open Source'
 date: '2007-03-21'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: microsoft-et-google-rejoignent-lopenajax-alliance
+section: default
 2007:
     - '03'
 ---

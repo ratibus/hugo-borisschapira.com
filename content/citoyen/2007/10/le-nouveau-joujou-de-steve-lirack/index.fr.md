@@ -3,9 +3,12 @@ title: 'Le nouveau joujou de Steve : l''iRack'
 tags:
     - Apple
 date: '2007-10-03'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: le-nouveau-joujou-de-steve-lirack
+section: citoyen
 2007:
     - '10'
 ---

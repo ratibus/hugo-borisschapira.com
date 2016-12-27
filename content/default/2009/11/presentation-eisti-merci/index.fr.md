@@ -6,9 +6,12 @@ tags:
     - Éducation
     - Nexeo
 date: '2009-11-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: presentation-eisti-merci
+section: default
 2009:
     - '11'
 ---

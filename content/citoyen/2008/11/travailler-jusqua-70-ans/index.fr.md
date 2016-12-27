@@ -5,9 +5,12 @@ tags:
     - Loi
     - Société
 date: '2008-11-14'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: travailler-jusqua-70-ans
+section: citoyen
 2008:
     - '11'
 ---

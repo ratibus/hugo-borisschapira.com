@@ -5,9 +5,12 @@ tags:
     - Technologie
     - iPhone
 date: '2008-12-08'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: useless-iphone-of-kant
+section: default
 2008:
     - '12'
 ---

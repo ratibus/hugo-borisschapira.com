@@ -1,9 +1,12 @@
 ---
 title: 2635A
 date: '2015-09-15'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: 2635a
+section: papa
 2015:
     - '09'
 ---

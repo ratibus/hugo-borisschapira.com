@@ -1,9 +1,12 @@
 ---
 title: Sisyphe
 date: '2015-09-20'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: sisyphe
+section: papa
 2015:
     - '09'
 ---

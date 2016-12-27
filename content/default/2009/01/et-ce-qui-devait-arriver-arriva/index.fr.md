@@ -2,10 +2,12 @@
 title: 'Et ce qui devait arriver arriva…'
 categories:
     - Finance
+    - default
 date: '2009-01-22'
-section: default
 lang: fr
 type: post
+slug: et-ce-qui-devait-arriver-arriva
+section: default
 2009:
     - '01'
 ---

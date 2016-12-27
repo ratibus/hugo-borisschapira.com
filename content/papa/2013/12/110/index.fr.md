@@ -1,9 +1,12 @@
 ---
 title: 'Quand il sera grand'
 date: '2013-12-02'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: '110'
+section: papa
 2013:
     - '12'
 ---

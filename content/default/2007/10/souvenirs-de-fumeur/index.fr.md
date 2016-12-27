@@ -4,9 +4,12 @@ tags:
     - 'Memory Lane'
     - Tabac
 date: '2007-10-24'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: souvenirs-de-fumeur
+section: default
 2007:
     - '10'
 ---

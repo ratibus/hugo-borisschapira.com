@@ -5,9 +5,12 @@ tags:
     - Publicité
     - Tabac
 date: '2007-08-20'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: ces-benefices-qui-font-tache
+section: citoyen
 2007:
     - '08'
 ---

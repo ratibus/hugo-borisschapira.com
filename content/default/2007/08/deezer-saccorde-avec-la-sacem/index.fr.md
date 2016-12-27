@@ -4,9 +4,12 @@ tags:
     - Musique
     - Deezer
 date: '2007-08-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: deezer-saccorde-avec-la-sacem
+section: default
 2007:
     - '08'
 ---

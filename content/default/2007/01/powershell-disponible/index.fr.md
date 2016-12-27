@@ -5,9 +5,12 @@ tags:
     - Technologie
     - .NET
 date: '2007-01-31'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: powershell-disponible
+section: default
 2007:
     - '01'
 ---

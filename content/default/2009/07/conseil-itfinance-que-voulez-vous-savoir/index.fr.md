@@ -5,9 +5,12 @@ tags:
     - Finance
     - Consulting
 date: '2009-07-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: conseil-itfinance-que-voulez-vous-savoir
+section: default
 2009:
     - '07'
 ---

@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2016-05-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: trouver-une-alternance
+section: default
 2016:
     - '05'
 ---

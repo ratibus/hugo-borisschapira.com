@@ -3,9 +3,12 @@ title: 'Jour des Projets ESIEE : les prix'
 tags:
     - ESIEE
 date: '2007-06-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: prix-decernes-a-lissue-du-jour-des-projets-esiee
+section: default
 2007:
     - '06'
 ---

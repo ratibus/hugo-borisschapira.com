@@ -1,9 +1,12 @@
 ---
 title: 'Le sommeil, c''est surfait'
 date: '2013-08-10'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-sommeil-cest-surfait
+section: papa
 2013:
     - '08'
 ---

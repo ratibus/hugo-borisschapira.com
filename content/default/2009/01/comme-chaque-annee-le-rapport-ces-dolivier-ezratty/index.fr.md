@@ -2,10 +2,12 @@
 title: 'Rapport CES 2009 d''Olivier Ezratty'
 categories:
     - Technologie
+    - default
 date: '2009-01-22'
-section: default
 lang: fr
 type: post
+slug: comme-chaque-annee-le-rapport-ces-dolivier-ezratty
+section: default
 2009:
     - '01'
 ---

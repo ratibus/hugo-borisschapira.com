@@ -4,9 +4,12 @@ tags:
     - 'Me, myself and I'
     - Mariage
 date: '2009-03-27'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: preparation-au-mariage-religieux
+section: default
 2009:
     - '03'
 ---

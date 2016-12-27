@@ -4,9 +4,12 @@ canonical: 'http://www.nexeo.fr/blog/2009/07/07/mono-les-manchots-nont-rien-a-cr
 tags:
     - Nexdotnet
 date: '2009-07-07'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: mono-les-manchots-nont-rien-a-craindre
+section: default
 2009:
     - '07'
 ---

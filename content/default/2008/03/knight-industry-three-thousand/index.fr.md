@@ -4,9 +4,12 @@ tags:
     - Culture
     - Souvenir
 date: '2008-03-19'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: knight-industry-three-thousand
+section: default
 2008:
     - '03'
 ---

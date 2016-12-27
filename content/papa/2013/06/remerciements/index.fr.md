@@ -1,9 +1,12 @@
 ---
 title: Remerciements
 date: '2013-06-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: remerciements
+section: papa
 2013:
     - '06'
 ---

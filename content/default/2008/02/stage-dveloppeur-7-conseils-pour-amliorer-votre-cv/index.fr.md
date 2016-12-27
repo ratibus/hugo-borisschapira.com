@@ -4,9 +4,12 @@ tags:
     - Emploi
     - 'Trouver un stage ou une alternance'
 date: '2008-02-01'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: stage-dveloppeur-7-conseils-pour-amliorer-votre-cv
+section: default
 2008:
     - '02'
 ---

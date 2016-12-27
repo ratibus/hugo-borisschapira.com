@@ -1,9 +1,12 @@
 ---
 title: 'Les vraies valeurs'
 date: '2016-09-27'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: toujours
+section: papa
 2016:
     - '09'
 ---

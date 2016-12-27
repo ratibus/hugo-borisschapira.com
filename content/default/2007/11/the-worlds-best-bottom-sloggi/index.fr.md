@@ -3,9 +3,12 @@ title: 'The world''s best bottom (Sloggi)'
 tags:
     - Sexy
 date: '2007-11-02'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: the-worlds-best-bottom-sloggi
+section: default
 2007:
     - '11'
 ---

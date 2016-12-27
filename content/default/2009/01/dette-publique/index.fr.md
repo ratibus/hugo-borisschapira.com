@@ -6,9 +6,12 @@ tags:
     - 'Dette publique'
     - Economie
 date: '2009-01-05'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: dette-publique
+section: default
 2009:
     - '01'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'Le même à la maison'
 date: '2015-08-18'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: le-meme-a-la-maison
+section: papa
 2015:
     - '08'
 ---

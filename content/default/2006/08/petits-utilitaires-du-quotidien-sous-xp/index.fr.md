@@ -3,9 +3,12 @@ title: 'Petits utilitaires du quotidien sous XP'
 tags:
     - Outils
 date: '2006-08-30'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: petits-utilitaires-du-quotidien-sous-xp
+section: default
 2006:
     - '08'
 ---

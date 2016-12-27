@@ -1,9 +1,12 @@
 ---
 title: Durées
 date: '2016-05-01'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: durees
+section: papa
 2016:
     - '05'
 ---

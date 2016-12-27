@@ -1,9 +1,12 @@
 ---
 title: Noël
 date: '2015-12-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: noel
+section: papa
 2015:
     - '12'
 ---

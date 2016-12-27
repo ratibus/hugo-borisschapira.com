@@ -4,9 +4,12 @@ tags:
     - Technologie
     - XBox360
 date: '2007-07-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rembourse-rembourse-rembourse
+section: default
 2007:
     - '07'
 ---

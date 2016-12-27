@@ -4,9 +4,12 @@ tags:
     - Famille
 main_image: assets/images/2016-01-22/1.jpg
 date: '2016-01-22'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: zone-b
+section: default
 2016:
     - '01'
 ---

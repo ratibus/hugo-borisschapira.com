@@ -5,9 +5,12 @@ tags:
     - Science
     - Société
 date: '2009-09-28'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: rencontre-avec-le-geneticien-spencer-wells
+section: default
 2009:
     - '09'
 ---

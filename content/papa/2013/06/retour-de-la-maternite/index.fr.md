@@ -1,9 +1,12 @@
 ---
 title: 'Retour de la maternité'
 date: '2013-06-22'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: retour-de-la-maternite
+section: papa
 2013:
     - '06'
 ---

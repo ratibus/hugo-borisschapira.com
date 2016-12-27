@@ -3,9 +3,12 @@ title: Laïcité
 tags:
     - Égalité
 date: '2016-01-06'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: laicite
+section: citoyen
 2016:
     - '01'
 ---

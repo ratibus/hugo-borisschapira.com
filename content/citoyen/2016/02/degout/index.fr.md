@@ -1,9 +1,12 @@
 ---
 title: Dégoût
 date: '2016-02-15'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: degout
+section: citoyen
 2016:
     - '02'
 ---

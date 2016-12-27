@@ -3,9 +3,12 @@ title: 'Présentation de Windows8 à la conférence //BUILD/'
 tags:
     - Outils
 date: '2011-09-14'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: presentation-de-windows8-a-la-conference-build
+section: default
 2011:
     - '09'
 ---

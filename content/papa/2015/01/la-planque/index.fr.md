@@ -1,9 +1,12 @@
 ---
 title: 'La planque'
 date: '2015-01-17'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: la-planque
+section: papa
 2015:
     - '01'
 ---

@@ -5,9 +5,12 @@ tags:
     - 'Billet d''humeur'
     - iPhone
 date: '2009-06-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-5-contre-verite-des-iphone-addicts
+section: default
 2009:
     - '06'
 ---

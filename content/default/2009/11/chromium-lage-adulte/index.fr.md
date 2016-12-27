@@ -6,9 +6,12 @@ tags:
     - Navigateurs
     - Web
 date: '2009-11-09'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: chromium-lage-adulte
+section: default
 2009:
     - '11'
 ---

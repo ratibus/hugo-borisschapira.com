@@ -2,10 +2,12 @@
 title: 'Bonus, Trading : deux PDF pour mieux comprendre'
 categories:
     - Finance
+    - default
 date: '2009-08-07'
-section: default
 lang: fr
 type: post
+slug: bonus-trading-deux-pdf-pour-mieux-comprendre
+section: default
 2009:
     - '08'
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'Encore un rendez-vous à la crèche'
 date: '2012-11-26'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: encore-un-rendez-vous-a-la-creche
+section: papa
 2012:
     - '11'
 ---

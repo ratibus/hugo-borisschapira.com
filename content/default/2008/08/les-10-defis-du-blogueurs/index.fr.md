@@ -4,9 +4,12 @@ tags:
     - Blogosphère
     - Chaine
 date: '2008-08-26'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: les-10-defis-du-blogueurs
+section: default
 2008:
     - '08'
 ---

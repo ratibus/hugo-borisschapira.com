@@ -4,9 +4,12 @@ tags:
     - Sécurité
     - 'Vie Privée'
 date: '2014-02-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: big-data
+section: default
 2014:
     - '02'
 ---

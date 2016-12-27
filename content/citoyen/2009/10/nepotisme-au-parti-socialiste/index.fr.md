@@ -4,9 +4,12 @@ tags:
     - France
     - 'Jean Sarkozy'
 date: '2009-10-15'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: nepotisme-au-parti-socialiste
+section: citoyen
 2009:
     - '10'
 ---

@@ -5,9 +5,12 @@ tags:
     - 'Microsoft Office'
     - 'Visual Basic'
 date: '2007-09-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: vba-extensions-openoffice-les-langages-de-script-bureautiques
+section: default
 2007:
     - '09'
 ---

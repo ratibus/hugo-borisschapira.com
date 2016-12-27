@@ -1,9 +1,12 @@
 ---
 title: 'Même pas mal'
 date: '2014-12-25'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: meme-pas-mal
+section: papa
 2014:
     - '12'
 ---

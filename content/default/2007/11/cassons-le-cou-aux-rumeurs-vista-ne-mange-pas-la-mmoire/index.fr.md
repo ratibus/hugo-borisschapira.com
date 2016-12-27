@@ -4,9 +4,12 @@ tags:
     - Développement
     - 'Windows Vista'
 date: '2007-11-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: cassons-le-cou-aux-rumeurs-vista-ne-mange-pas-la-mmoire
+section: default
 2007:
     - '11'
 ---

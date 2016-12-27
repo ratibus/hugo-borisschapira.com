@@ -1,9 +1,12 @@
 ---
 title: 'Qui va à la chasse'
 date: '2013-10-06'
-section: papa
 lang: fr
 type: post
+categories:
+    - papa
+slug: qui-va-a-la-chasse
+section: papa
 2013:
     - '10'
 ---

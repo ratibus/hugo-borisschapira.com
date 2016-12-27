@@ -7,9 +7,12 @@ tags:
     - Etudiants
     - Grève
 date: '2007-11-15'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: avis-construit-dun-cheminot-et-problme-dans-les-facs
+section: default
 2007:
     - '11'
 ---

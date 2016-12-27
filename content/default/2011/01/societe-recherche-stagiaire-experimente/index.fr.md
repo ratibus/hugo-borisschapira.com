@@ -3,9 +3,12 @@ title: 'Société recherche stagiaire expérimenté'
 tags:
     - Emploi
 date: '2011-01-06'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: societe-recherche-stagiaire-experimente
+section: default
 2011:
     - '01'
 ---

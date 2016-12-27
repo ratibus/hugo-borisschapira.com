@@ -4,9 +4,12 @@ tags:
     - Education
     - 'Transformation numérique'
 date: '2015-04-10'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: promouvoir-une-culture-numerique
+section: default
 2015:
     - '04'
 ---

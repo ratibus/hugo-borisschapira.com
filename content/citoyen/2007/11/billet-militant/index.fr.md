@@ -4,9 +4,12 @@ tags:
     - Société
     - Grève
 date: '2007-11-14'
-section: citoyen
 lang: fr
 type: post
+categories:
+    - citoyen
+slug: billet-militant
+section: citoyen
 2007:
     - '11'
 ---

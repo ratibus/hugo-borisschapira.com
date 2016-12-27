@@ -3,9 +3,12 @@ title: '[PS3] Heavy Rain'
 tags:
     - 'Jeu Video'
 date: '2010-04-04'
-section: default
 lang: fr
 type: post
+categories:
+    - default
+slug: heavy-rain
+section: default
 2010:
     - '04'
 ---
