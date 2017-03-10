@@ -11,7 +11,7 @@ section: papa
     - '08'
 ---
 
-Nous avions oublié de prendre un rechange au :koala:, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.
+Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.
 
 <!-- more -->
 
@@ -21,4 +21,4 @@ Nous avions oublié de prendre un rechange au :koala:, nous lui expliquons donc 
 > — En poils ?  
 > — Oui, en poils. On est tout le temps en poils chez Mamie !
 
-Hum. Peut-être pas pour le restaurant :smile:
+Hum. Peut-être pas pour le restaurant !

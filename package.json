@@ -1,0 +1,22 @@
+{
+  "name": "bs-blog-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "hugo-lunr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisschapira/hugo-borisschapira.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisschapira/hugo-borisschapira.com/issues"
+  },
+  "homepage": "https://github.com/borisschapira/hugo-borisschapira.com#readme",
+  "devDependencies": {
+    "hugo-lunr": "0.0.4"
+  }
+}

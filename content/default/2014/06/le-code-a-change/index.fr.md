@@ -27,9 +27,11 @@ Si je suis plutôt d'accord avec le premier argument, le second me gêne profond
 >
 >   I. - Après la première phrase, sont insérées deux phrases ainsi rédigées&nbsp;:  
 >
->   layout: postLes **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège.&nbsp;»  
+>   "Les **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège."
+>   «&nbsp;Les **objectifs prioritaires** assignés aux écoles sont l'**apprentissage de la langue française, la maîtrise de la lecture, de l'écriture, l'utilisation des mathématiques et l'apprentissage du code informatique**. Ces savoirs doivent impérativement être acquis lors de l'entrée au collège.&nbsp;»  
 >
->   II. - Au début de la deuxième phrase, les mots&nbsp;: layout: postIls contribuent&nbsp;» sont remplacés par les mots&nbsp;: layout: postLes écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent&nbsp;».
+>   II. - Au début de la deuxième phrase, les mots&nbsp;: "Ils contribuent" sont remplacés par les mots&nbsp;: "Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent".
+>   II. - Au début de la deuxième phrase, les mots&nbsp;: «&nbsp;Ils contribuent&nbsp;» sont remplacés par les mots&nbsp;: «&nbsp;Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur contribuent&nbsp;».
 
 Bien que nos députés s'y soient mis à 35 (incroyable) pour le signer, ce texte est d'une grande stupidité et [je ne suis pas le seul à l'écrire](http://nicolas.biri.name/posts/2014-06-16-l-education-et-l-informatique.html "L") (allez-y, ne serait-ce que pour voir la vidéo). Mais d'abord, regardons pourquoi on en arrive là…
 
@@ -109,7 +111,7 @@ Qu'attend-on&nbsp;?
 
 ### Vraiment prendre le taureau par les cornes
 
-Mais tout cela doit s'effacer derrière une réalité bien plus forte&nbsp;: l'informatique n'est pas un impératif d'enseignement, c'est **un impératif de Culture de l'ensemble de la Société**, au même titre qu'un [bagage essentiel de plein de petites choses qui manquent pour être des individus libres dans la France d'aujourd'hui](http://2013/10/reformer-leducation/).
+Mais tout cela doit s'effacer derrière une réalité bien plus forte&nbsp;: l'informatique n'est pas un impératif d'enseignement, c'est **un impératif de Culture de l'ensemble de la Société**, au même titre qu'un [bagage essentiel de plein de petites choses qui manquent pour être des individus libres dans la France d'aujourd'hui](/2013/10/reformer-leducation/).
 
 Pour toutes les raisons déjà évoquées, l'informatique a une influence considérable sur la vie de nos citoyens&nbsp;: pas demain, pas après-demain, **aujourd'hui**. C'est donc la génération actuelle d'actifs qu'il faudrait convaincre et éduquer en parlant davantage des problématiques liées aux données.
 
