@@ -13,7 +13,7 @@ section: papa
 
 > Moi, plus tard, je veux faire des toiles comme Spider-Man !
 
-Mon <i lang="en">spider sense</i> entre en émoi, il faut que je m'en mêle !
+Mon <em lang="en">spider sense</em> entre en émoi, il faut que je m'en mêle !
 
 <!-- more -->
 

@@ -25,5 +25,5 @@ Au dîner du soir, ma femme demande donc :
 
 <figure>
   <img src="{{<fileFolder>}}knowing-glance.gif" alt="Le capitaine Kirk et Spock s'échangent un regard complice."/>
-  <figcaption><i lang="en">What happens in Vegas stays in Vegas.</i></figcaption>
+  <figcaption><em lang="en">What happens in Vegas stays in Vegas.</em></figcaption>
 </figure>
