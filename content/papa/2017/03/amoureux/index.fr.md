@@ -1,0 +1,28 @@
+---
+title: Amoureux
+date: '2017-03-29'
+lang: fr
+type: post
+categories:
+    - papa
+slug: amoureux
+section: papa
+2017:
+    - '03'
+---
+
+Le grand pose pas mal de questions sur l'amour et le couple que nous constituons, avec sa mère.
+
+<!-- more -->
+
+> — … vous aimez la même chose donc vous êtes amoureux Papa et Maman !  
+> — Ah non chéri, on peut être amoureux sans aimer la même chose.  
+> — Ah ?  
+> — Oui. Regarde, par exemple, ta mère aime Twilight.  
+> — Elle aime… les toilettes ?  
+> — Ah non, chéri… mais c'est pas très loin !
+
+<figure>
+  <img src="{{<fileFolder>}}toilettes.gif" alt="Un vampire diurne manipulateur explique à une pinbèche suicidaire qu'elle ne sait rien du tout"/>
+  <figcaption>Ma femme m'a regardé comme ça…</figcaption>
+</figure>
