@@ -52,15 +52,16 @@ Un·e candidat·e ne connait pas, <span lang="la">a priori</span>, l'organisatio
 * Cherche à s'informer sur les savoir-faire
 * S'informe sur l'organisation du travail
 
-Les tâches confiées et l'équipe à qui elles sont confiées ne sont qu'une partie du travail. L'organisation du travail, à la fois dans la méthode que dans les réglementations internes, constitue une part importante de la vie de l'entreprise. J'aurais assez peu d'enclin à embaucher une personne qui ne serait pas sensible à son environnement ou exprimerait, dès l'entretien, peu d'intérêt pour le collectif.
+Les tâches confiées et l'équipe à qui elles sont confiées ne sont qu'une partie du travail. L'organisation du travail, à la fois dans la méthode que dans les réglementations internes, constitue une part importante de la vie de l'entreprise. Je serais assez peu enclin à embaucher une personne qui ne serait pas sensible à son environnement ou exprimerait, dès l'entretien, peu d'intérêt pour le collectif.
 
 ## Capacité à affirmer des positions
 
 * Développe des points de vue personnels
 * Assume ses choix, se prononce clairement
 * Illustre, argumente et remet en question
+* Reconnait ses limites
 
-Pour enrichir l'équipe un·e candidat·e doit aussi être capable d'émettre une analyse non-stéréotypée et de l'assumer par des explications claires et convaincantes. Je détermine souvent ce point en posant à la personne des questions qui divisent la communauté. Le point de vue du candidat ou de la candidate m'intéresse alors peu, c'est la qualité de l'argumentation que j'analyse.
+Pour enrichir l'équipe un·e candidat·e doit aussi être capable d'émettre une analyse non-stéréotypée et de l'assumer par des explications claires et convaincantes. Je détermine souvent ce point en posant à la personne des questions qui divisent la communauté. Le point de vue du candidat ou de la candidate m'intéresse alors peu, c'est la qualité de l'argumentation que j'analyse. Un aveu de méconnaissance du sujet est également une bonne chose, si tant est que le candidat ou la candidate propose ensuite d'émettre des hypothèses construites.
 
 ## Capacité d'investissement
 
