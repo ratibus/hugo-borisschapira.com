@@ -1,0 +1,27 @@
+---
+title: 'Des bêtes'
+date: '2017-04-28'
+lang: fr
+type: post
+categories:
+    - papa
+slug: des-betes
+section: papa
+2017:
+    - '04'
+---
+
+Ils sont sortis depuis cinq minutes pour jouer dans le parking quand le grand revient :
+
+<!-- more -->
+
+> — Papa, mon frère a fait pipi chez la maison du voisin !  
+> — Quoi ?! Il est entré chez le voisin pour faire pipi ?  
+> — Hein ? Mais non…  
+> — Ah, tu m'as fait peur.  
+> — … il a fait pipi sur le mur de la maison, à côté de la porte.  
+
+<figure>
+  <img src="{{<fileFolder>}}bored.gif" alt="Kanye West s'ennuit"/>
+  <figcaption>La journée va être longue.</figcaption>
+</figure>
