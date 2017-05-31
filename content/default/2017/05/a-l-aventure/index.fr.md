@@ -1,6 +1,6 @@
 ---
 title: 'À l''aventure'
-date: '2017-06-01'
+date: '2017-05-31'
 lang: fr
 type: post
 categories:
@@ -8,7 +8,7 @@ categories:
 slug: a-l-aventure
 section: default
 2017:
-    - '06'
+    - '05'
 ---
 
 J'ai tourné et retourné dix fois la manière dont j'allais écrire ça, mais je n'arrive pas à trouver "la" bonne manière. Tourner une page de sa vie n'est jamais facile…
