@@ -1,0 +1,7 @@
+{{ if eq .Lang "fr" }}
+    {{ $mymonths := index $.Site.Data.mois }}
+    {{ $themonth := .Date.Format "01" }}
+    {{ .Date.Format "2" }} {{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}
+{{ else }}
+    {{ .Date.Format "January 2, 2006" }}
+{{ end }}

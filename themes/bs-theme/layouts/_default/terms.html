@@ -1,0 +1,14 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<section class="section">
+  <div class="container">
+   <h1 id="title">{{ .Title }}</h1>
+   {{ $data := .Data }}
+    {{ range $key,$value := .Data.Terms.ByCount }}
+    <article>
+    <h1 class="title"><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> ({{ $value.Count }} {{ if lt 1 $value.Count }}{{ "article" | pluralize }}{{ else }}article{{end}}) </h1>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ partial "footer" . }}

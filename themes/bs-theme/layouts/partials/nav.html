@@ -1,0 +1,32 @@
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="{{ "/" | relLangURL }}"><h1 class="title is-4">{{ .Site.Title }}</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          {{ $currentNode := . }}
+          {{ range .Site.Menus.main }}
+          {{ if eq .Name "Default" }}
+          {{ else }}
+            <a class="level-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+          {{ end }}
+          {{ end }}
+          {{ range .Site.Params.social }}
+          <a class="level-item" href="{{ .url }}">
+            <span class="icon">
+              <i class="fa {{ .fa_icon }}"></i>
+            </span>
+          </a>
+          {{ end }}
+          {{ if .IsTranslated }}
+              {{ range .Translations }}
+              <a class="level-item" href="{{ .Permalink }}">{{ .Lang }}</a>
+              {{ end}}
+          {{ end }}
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>

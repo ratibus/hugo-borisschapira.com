@@ -1,0 +1,129 @@
+<section class="section">
+  <div class="container">
+    <nav class="level is-mobile">
+      <div class="level-left">
+        <div class="level-item">
+          {{ if .Paginator.HasPrev }}
+          <a class="button" href="{{ .Paginator.Prev.URL }}">
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-left"></i>
+            </span>
+            {{ i18n "newer" }}
+          </a>
+          {{ else }}
+          <a class="button is-disabled">
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-left"></i>
+            </span>
+            {{ i18n "newer" }}
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      <div class="level-right is-marginless">
+        <div class="level-item">
+          {{ if .Paginator.HasNext }}
+          <a class="button" href="{{ .Paginator.Next.URL }}">
+            {{ i18n "older" }}
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-right"></i>
+            </span>
+          </a>
+          {{ else }}
+          <a class="button is-disabled">
+            {{ i18n "older" }}
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-right"></i>
+            </span>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </nav>
+  </div>
+</section>
+
+{{ if gt .Paginator.TotalPages 1 }}
+  {{ $to_end := add (add .Paginator.TotalPages (mul -1 .Paginator.PageNumber)) 1 }}
+  <ul class="pagination">
+  
+    {{/* Bloc 1 */}}
+    {{ if .Paginator.HasPrev }}
+      {{ if eq .Paginator.Prev.PageNumber 1 }}
+        <li><a href="{{ .Paginator.First.URL }}" title="Accueil">&lsaquo;</a></li>
+      {{ else }}
+        <li><a href="{{ .Paginator.Prev.URL }}"  title="Page précédente">&lsaquo;</a></li>
+      {{ end }}
+    {{ else }}
+      <li class="disabled">&lsaquo;</li>
+    {{ end }}
+
+    {{/* Bloc 2 */}}
+    {{ if eq .Paginator.PageNumber 1 }}
+      <li><strong>1</strong></li>
+    {{ else }}
+      <li><a href="{{ .Paginator.First.URL }}" title="Accueil">1</a></li>
+    {{ end }}
+
+    {{/* Bloc 3: over page 5 */}}
+    {{ if ge .Paginator.PageNumber 5 }}
+      <li class="disabled start">…</li>
+    {{ end }}
+
+    {{/* Bloc 4: between page 4 and total-4 */}}
+    {{ $c := .Paginator.PageNumber }}
+    {{ range .Paginator.Pagers}}
+      {{/* Before cut */}}
+      {{ if lt $.Paginator.PageNumber 4 }}
+        {{ if and (ge .PageNumber 2) (le .PageNumber 5)}}
+          {{ if eq .PageNumber $c }}
+            <li class="before"><strong>{{ .PageNumber }}</strong></li>
+          {{ else }}
+            <li class="before"><a href="{{ .URL }}" title="Page {{ .PageNumber }}">{{ .PageNumber }}</a></li>
+          {{ end }}
+        {{ end }}
+      {{/* After cut */}}
+      {{ else if lt $to_end 4 }}
+        {{ if and (ge .PageNumber (add $.Paginator.TotalPages -4)) (lt .PageNumber $.Paginator.TotalPages)}}
+          {{ if eq .PageNumber $c }}
+            <li class="after"><strong>{{ .PageNumber }}</strong></li>
+          {{ else }}
+            <li class="after"><a href="{{ .URL }}" title="Page {{ .PageNumber }}">{{ .PageNumber }}</a></li>
+          {{ end }}
+        {{ end }}
+      {{/* Middle cut */}}
+      {{ else }}
+        {{ if and (ge .PageNumber (add $c -2)) (le .PageNumber (add $c 2))}}
+          {{ if eq .PageNumber $c }}
+            <li class="middle"><strong>{{ .PageNumber }}</strong></li>
+          {{ else }}
+            <li class="middle"><a href="{{ .URL }}" title="Page {{ .PageNumber }}">{{ .PageNumber }}</a></li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Bloc 5, until 5 page to the end */}}
+    {{ if ge $to_end 5 }}
+      <li class="disabled end">…</li>
+    {{ end }}
+
+    {{/* Bloc 6 */}}
+    {{ if eq .Paginator.PageNumber .Paginator.TotalPages }}
+      <li><strong>{{.Paginator.PageNumber}}</strong></li>
+    {{ else }}
+      <li><a href="{{ .Paginator.Last.URL }}" title="Dernière page">{{ .Paginator.TotalPages }}</a></li>
+    {{ end }}
+
+    {{/* Bloc 7 */}}
+    {{ if .Paginator.HasNext }}
+      {{ if eq .Paginator.Next.PageNumber .Paginator.TotalPages }}
+        <li class="disabled">&raquo;</li>
+      {{ else }}
+        <li><a href="{{ .Paginator.Next.URL }}" title="Page suivante">&rsaquo;</a></li>
+      {{ end }}
+    {{ else }}
+      <li class="disabled">&rsaquo;</li>
+    {{ end }}
+  </ul>
+{{ end }}
