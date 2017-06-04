@@ -1,5 +1,5 @@
 ---
-baseurl: "http://next.borisschapira.com/"
+baseurl: "/"
 defaultContentLanguage: fr
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
