@@ -10,6 +10,9 @@ Clone this repository to your hugo theme directory.
 mkdir themes
 cd themes
 git clone https://github.com/borisschapira/bs-theme.git
+cd bs-theme
+yarn install
+npm run start
 ```
 
 ## License
