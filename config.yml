@@ -3,6 +3,7 @@ baseurl: "http://next.borisschapira.com/"
 defaultContentLanguage: fr
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
+pluralizelisttitles: false
 
 Languages:
   fr:
