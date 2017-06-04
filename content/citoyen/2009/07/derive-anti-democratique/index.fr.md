@@ -16,7 +16,7 @@ section: citoyen
 
 Lorsque je lis l'actualité du Gouvernement, j'ai de plus en plus l'impression que le Parlement (autrement appelé Assemblée Nationale) est présenté comme un obstacle, un parcours du combattant durant lequel les "meilleures" lois sont sabotées par de vils députés.
 
-<!-- more -->
+<!--more-->
 
 La solution, qu'on nous présente comme la meilleure, est d'éviter que cela traine en longueur en faisant un vote unique. Comme ça, ça passe rapidement et on en parle plus.
 

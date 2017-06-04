@@ -14,7 +14,7 @@ section: default
 
 Je ne suis pas un fervent défenseur de la firme californienne mais là, je dois avouer qu'ils ont fait l'une des meilleures opérations d'acquisition qui soit. Explications.
 
-<!-- more -->
+<!--more-->
 
 Quitte à défrayer la chronique, Google mène actuellement la plus **grande campagne de numérisation** d'ouvrages ayant jamais eu lieu. Pour cela, Google utilise des algorithmes qui partent des pages scannées des ouvrages, reconnaissent les caractères des mots et déterminent ainsi le contenu des documents. Ces applications, appelées <acronym title="Optical Character Recognition">OCR</acronym>, permettent donc de passer d'une image (la page scannée) à un document numérique. Mais ces OCR ont un défaut&nbsp;: **les ordinateurs ne sont plus capables de reconnaitre les mots quand les pages sont trop abîmées**. Dommage, car un humain, lui, saurait.
 

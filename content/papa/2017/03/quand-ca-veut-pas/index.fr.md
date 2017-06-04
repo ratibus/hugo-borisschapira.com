@@ -13,7 +13,7 @@ section: papa
 
 Panique à bord, le réveil n'a pas sonné et nous avons plus d'une heure de retard. Je dis aux enfants, qui peinent à sortir du sommeil, de s'habiller vite. Pour les motiver, je leur promets un petit-déjeuner chez Paul, face à l'école.
 
-<!-- more -->
+<!--more-->
 
 C'est évidemment le moment choisi par mon aîné pour aller [parachuter un gothique](https://www.youtube.com/watch?v=bJlDB_DCIb0 "Publicité Hépar : &quot;Les expressions&quot;") et se rater au niveau de l'essuyage, ce qui m'oblige à le doucher entièrement. 
 

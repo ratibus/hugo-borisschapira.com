@@ -20,7 +20,7 @@ section: default
 
 Le marché de l'emploi est en constante mutation. Dans la branche des Services, les bases de l'informatique grand public sont devenues un pré-requis communément admis. Impossible de trouver un emploi si on ne sait pas se servir d'un PC sous Windows et ouvrir Office. Mais on aurait tort de penser que l'inclusion de l'informatique va s'arrêter là.
 
-<!-- more -->
+<!--more-->
 
 Je suis également persuadé qu'une mutation lente va, durant dix prochaines années, voir s'imposer une séparation naturelle entre ceux qui sont capables de mettre à profit l'outil informatique pour réaliser les missions qui leur sont confiées et les autres. Je ne parle pas de savoir se servir d'un traitement de texte ou d'un progiciel pour répéter la même tâche _ad nauseam_ mais bien de connaitre les bases de la recherche d'information, du traitement de données ciblées comme plus générales, de l'automatisation de la production de livrables ou de la modularisation de la boite à outils de l'entreprise.
 

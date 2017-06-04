@@ -17,7 +17,7 @@ section: default
 
 Comme certains d'entre vous le savent, Powershell est une interface en ligne de commande proche de celles que l'on peut rencontrer sur les diverses distributions Linux. Disponible en version RTM, vous pouvez désormais le [télécharger ici](http://www.microsoft.com/fr-fr/download/details.aspx?id=23200).
 
-<!-- more -->
+<!--more-->
 
 Microsoft revient aux fondamentaux de l'informatique en proposant un interpréteur en ligne de commande de haute volée. Outil de script, il permet des actions simples et précises sur les fichiers mais également sur les processus, la base de registre… bref, tout le système.
 

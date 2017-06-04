@@ -16,7 +16,7 @@ Je suis encore tombé récemment sur un article qui annonçait calmement la fin 
 
 Faisons ensemble un petit tour d’horizon des biais de logique liés à cette pratique.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [(Web) Apps : il n'y a pas de balle en argent](http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/).</em>
 

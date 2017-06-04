@@ -18,7 +18,7 @@ section: default
 
 Les référentiels Opquast et Clever Age, c'est une histoire d'amour qui dure depuis plusieurs années. Nombreux sont les consultants ayant collaboré à leur écriture et les discussions internes sont suffisamment nombreuses pour que tout le monde sache de quoi il s'agit.
 
-<!-- more -->
+<!--more-->
 
 <figure>
   {% responsive_image path: assets/images/2016-05-16/logo_opquast_certified.png alt: "Le mot &quot;opquast&quot; avec, en dessous, écrit &quot;certified&quot;. À gauche, un logo abstrait en nuances de vert." %}

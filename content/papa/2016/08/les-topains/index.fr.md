@@ -13,7 +13,7 @@ section: papa
 
 Le petit chante une chanson, visiblement inventée par ses soins à partir de bribes d'autres chansons et comptines.
 
-<!-- more -->
+<!--more-->
 
 > — C'est une belle chanson mon petit chat, c'est toi qui l'a inventée ?  
 > — Non, c'est mes topains qui me l'a appris.  

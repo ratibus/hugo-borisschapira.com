@@ -17,7 +17,7 @@ Je ne comprends pas.
 
 Ceci étant, ce n'est pas nouveau. Je n'ai pas compris non plus pourquoi nous étions entré dans un État d'Urgence prolongé en novembre. Il semble donc normal que je ne comprenne pas pourquoi nous sommes en train d'en enlever le verrou temporel.
 
-<!-- more -->
+<!--more-->
 
 ## Toujours plus
 

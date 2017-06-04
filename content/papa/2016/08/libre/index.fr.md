@@ -13,7 +13,7 @@ section: papa
 
 Dans les efforts que je fais pour que mes enfants soient libre des stéréotypes de genre, j'ai souvent peur qu'ils ne comprennent pas. Ils me surprennent chaque jour.
 
-<!-- more -->
+<!--more-->
 
 > — Tu veux quelles chaussures mon cœur ?  
 > — Je veux mes chaussures de fille. C'est les plus belles de la Terre, je les aime !

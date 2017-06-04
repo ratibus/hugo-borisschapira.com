@@ -13,7 +13,7 @@ section: papa
 
 Je rigolais d'[un dessin de Marc Dubuisson](http://absurdo.lapin.org/index.php?number=86#strips "&quot;Ab Absurdo - La carotte et le bâton&quot;, Marc Dubuisson") quand le grand m'a demandé pourquoi je riais. Je lui ai expliqué un peu le _strip_. Comme il ne comprennais pas, je lui ai expliqué le sens de l'expression "la carotte et le bâton"… j'aurais mieux fait de me taire.
 
-<!-- more -->
+<!--more-->
 
 > — Mais Papa, c'est pas bien la carotte !  
 > — Ah bon ? Mais si l'âne, il aime ça ?  

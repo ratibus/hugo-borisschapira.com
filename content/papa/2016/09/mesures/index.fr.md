@@ -13,7 +13,7 @@ section: papa
 
 Le grand apprend les mesures… enfin presque.
 
-<!-- more -->
+<!--more-->
 
 Il attrape le mètre de chantier : 
 

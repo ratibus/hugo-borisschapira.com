@@ -13,7 +13,7 @@ section: papa
 
 Le petit dernier et sa mère se font des bisous…
 
-<!-- more -->
+<!--more-->
 
 > — Tu me fais un bisous sur le nez ?  
 > — Oui ! SMACK !  

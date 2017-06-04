@@ -16,7 +16,7 @@ section: default
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-_**<!-- more -->
+_**<!--more-->
 
 Le temps est relatif**_
 " - Ne le prends pas mal mais tu as une petite mine.

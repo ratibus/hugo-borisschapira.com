@@ -16,7 +16,7 @@ section: default
 
 [Crowd Favorite](http://crowdfavorite.com/) vient de livrer son thème wordpress Carrington Blog 2.0\. J'en ai profité pour compiler une version française du thème.
 
-<!-- more -->
+<!--more-->
 
 Cette version contient les fichiers d'internationalisation (.mo et .po, éditables avec [PoEdit](http://poedit.net/download)) , les pages .php, les images et les scripts modifiés. N'hésitez pas à laissez un petit commentaire si ça vous a servi, ou si vous voulez apporter des améliorations&nbsp;!
 

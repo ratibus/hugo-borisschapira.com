@@ -17,7 +17,7 @@ En entreprise, une compétence est rarement absolue, elle s'évalue souvent en f
 
 Plusieurs classifications existent pour qualifier des compétences. Je vais vous parler aujourd'hui du modèle d'acquisition de compétences de Dreyfus.
 
-<!-- more -->
+<!--more-->
 
 ## Les profils
 

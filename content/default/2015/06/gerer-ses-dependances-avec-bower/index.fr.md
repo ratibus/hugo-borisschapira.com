@@ -21,7 +21,7 @@ section: default
 
 Le développement <span lang="en">front-end</span> se complexifie un peu plus chaque jour. D’une part, l’évolution des standards pousse à la spécialisation de nos métiers. D’autre part, la nécessité d’aller toujours plus vite tout en assurant une qualité importante et une facilité de maintenance impose de formaliser davantage certains processus, voire de les automatiser.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Gérer ses dépendances avec Bower](http://blog.clever-age.com/fr/2015/06/29/gerer-ses-dependances-avec-bower/).</em>
 

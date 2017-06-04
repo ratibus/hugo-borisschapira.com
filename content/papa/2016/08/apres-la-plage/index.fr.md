@@ -13,7 +13,7 @@ section: papa
 
 Nous avions oublié de prendre un rechange à notre Koala, nous lui expliquons donc qu'il va resté en maillot le temps d'aller manger.
 
-<!-- more -->
+<!--more-->
 
 > — Mais moi je peux enlever mon maillot, peut-être ?  
 > — Non, on n'a rien d'autre à te mettre pour aller au restaurant.  

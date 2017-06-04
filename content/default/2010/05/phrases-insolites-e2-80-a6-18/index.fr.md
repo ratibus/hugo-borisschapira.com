@@ -15,7 +15,7 @@ section: default
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
-<!-- more -->
+<!--more-->
 
 ## Barbe de 3 jours
 

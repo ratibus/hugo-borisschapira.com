@@ -19,7 +19,7 @@ section: papa
 
 Ça fait plusieurs fois que j'évoque la problématique des jouets ciblés pour des sexes particuliers. J'aimerai y revenir une fois encore.
 
-<!-- more -->
+<!--more-->
 
 ## Les catalogues de jouets
 

@@ -16,7 +16,7 @@ section: default
 
 Depuis que j'ai orienté mes études dans l'informatique, mes amis m'appellent souvent pour résoudre leurs problèmes de configuration ou de virus, quand il ne s'agit pas d'arnaques sur le web. Non pas que cela me dérange, mais je me dis souvent qu'avec un peu plus de sensibilisation et d'information, cela n'arriverait pas. J'ai donc décidé d'écrire quelques articles pour éclairer les choses…
 
-<!-- more -->
+<!--more-->
 
 Selon un article récent de l'Expansion, ["La France, terre de recrutement des PC zombies"](http://lexpansion.lexpress.fr/), la France serait le troisième pays le plus touché par les PC zombies. Mais que sont donc ces "PC zombies" ? Tout simplement des ordinateurs contrôlés à l'insu de leur utilisateur légitime par un pirate informatique. Ce dernier l'utilise alors le plus souvent à des fins malveillantes, par exemple afin d'attaquer d'autres machines en dissimulant sa véritable identité.
 

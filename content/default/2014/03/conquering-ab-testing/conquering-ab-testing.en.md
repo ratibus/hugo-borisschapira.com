@@ -16,7 +16,7 @@ section: default
 
 Matthew is not the kind of person who takes decisions lightly, especially when it is likely to impact his company's revenue. He likes to try before he buys. This is why he decided to get into A/B testing.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** this post has been published first on the [Clever Age](http://www.clever-age.com/en/) website in [Conquering A/B Testing](http://blog.clever-age.com/en/2015/12/14/conquering-ab-testing/).</em>
 

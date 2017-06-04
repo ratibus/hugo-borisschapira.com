@@ -13,7 +13,7 @@ section: papa
 
 Nous expliquons régulièrement aux enfants que nous les aimerons quoi qu'il arrive, quoi qu'ils deviennent dans la vie.
 
-<!-- more -->
+<!--more-->
 
 > — Je serai toujours votre bébé quand je serai clown ?  
 > — Tu ne veux plus être mi-pompier mi-policier ?  

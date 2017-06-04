@@ -13,7 +13,7 @@ section: papa
 
 Nouvelle discussion sur les cadeaux de noël. À nouveau, on prend le petit à parti pour savoir ce qu'il voudrait demander au Père Noël.
 
-<!-- more -->
+<!--more-->
 
 > — Et toi, qu'est-ce que tu veux ?  
 > — Moi je veux un sanglier.

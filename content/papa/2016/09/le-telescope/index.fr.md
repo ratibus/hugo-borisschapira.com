@@ -15,7 +15,7 @@ Excité par le visionnage de l'Exoconférence, je parle d'espace aux garçons.
 
 > Ça vous dirait un télescope pour regarder la Lune ?
 
-<!-- more -->
+<!--more-->
 
 Le petit me demande si dans le "tétéstope", il va pouvoir voir son grand frère qui est sur la Lune.
 

@@ -17,7 +17,7 @@ section: default
 
 La soirée Final Fantasy à laquelle Playstation m'a convié m'a donné l'occasion de visionner la version Blu-Ray d'Advent Children, mais elle m'a aussi permis de mettre la main sur la démo d'un des prochains opus de la plus célèbre série de RPG de tous les temps&nbsp;: Final Fantasy XIII. Prévu pour sortir en 2010, Final Fantasy XIII affiche des **graphismes spectaculaires** et des animations d'un niveau exemplaire, quoique peu nombreuses dans cette démo.
 
-<!-- more -->
+<!--more-->
 
 Le **système de combat** se positionne entre l'action-RPG et le tour-par-tour. Entre deux actions, le joueur doit attendre un certain temps qu'une barre se remplisse. Cette barre, une fois pleine, lui donne droit à trois crédits d'action. Il peut ensuite dépenser ces crédits en attaques, sorts, utilisations d'objets… Évidemment, une attaque coûtant un seul crédit sera moins performante qu'une attaque à trois crédits. Assez déroutant au départ, ce système s'avère rapidement dynamique et intuitif, d'autant qu’enchaîner la bonne série d'actions au bon moment donne accès à des bonus d'attaque et des enchaînements spéciaux assez sympas.
 

@@ -15,7 +15,7 @@ section: default
 
 > Somewhere in the internet there’s a guy named Doug Wilson ([@blipsofadoug](https://twitter.com/blipsofadoug)). And for the past 3 years, he’s the one who’s been taking care of Express for the rest of us.
 
-<!-- more -->
+<!--more-->
 
 > During the last 3 years, Doug probably solved a bug that would have affected your production application. During this time he most likely improved your server’s runtime performance without you even realizing it.  
 >

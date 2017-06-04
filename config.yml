@@ -4,6 +4,7 @@ defaultContentLanguage: fr
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 pluralizelisttitles: false
+logi18nwarnings: true
 
 Languages:
   fr:

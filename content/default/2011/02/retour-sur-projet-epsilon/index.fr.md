@@ -15,7 +15,7 @@ section: default
 
 Plus d'un mois après la livraison en Production du projet **Epsilon**, beaucoup de choses ont changé. L'occasion pour moi de revenir à la Genèse du projet.
 
-<!-- more -->
+<!--more-->
 
 Nous voulions apporter au marché un produit encore inexistant, à la fois novateur et familier, mais surtout muni d'une grande capacité d'évolution. Très peu de fonctionnalités étaient prévues dans les spécifications d'origine car **Epsilon** devait être capable d'en incorporer seul de nouvelles. Pour cela, nous avons implémenté un modèle d'apprentissage autonome basé sur un réseau de neurones ainsi qu'un ensemble de capteurs sensoriels. Une bonne appréhension de l'environnement se faisant également pas l'exploration et la manipulation, nous avons ajouté à cet ensemble perceptif des éléments moteurs et préhensiles, ainsi qu'un algorithme de retraitement des données en entrée.
 

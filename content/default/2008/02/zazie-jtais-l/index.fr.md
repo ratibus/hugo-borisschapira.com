@@ -13,5 +13,5 @@ section: default
 ---
 
 J'ai toujours bien aimé les chansons de Zazie. Réfléchies, engagées, parfois à sens multiples et souvent d'une originalité que peu d'artistes sont capables de conserver avec le temps. Avec ce nouveau single, elle confirme tout le bien que je pense d'elle.
-<!-- more -->
+<!--more-->
 Je trouve la chanceux très intéressante d'un point de vue politique et la façon qu'à eu le réalisateur du clip de capter l'engagement est vraiment intéressante. J'espère que vous apprécierez aussi&nbsp;:

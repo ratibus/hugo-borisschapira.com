@@ -15,7 +15,7 @@ section: default
 
 Le _16 décembre_ dernier avaient lieu les **Entretiens de l’<acronym title="Autorité des Marchés Financiers">AMF</acronym> 2009**. Dans la plus grande discrétion, ce sont deux sujets très importants qui ont été discutés&nbsp;: la réforme la régulation financière en Europe et le bilan sur la directive <acronym title="Marchés d'Instruments Financiers">MIF</acronym> qui impose de nouvelles règles visant à faciliter l'européanisation des services offerts par les <acronym title="Prestataires de Services d'Investissement">PSI</acronym> et une meilleure compatibilité avec les évolutions récentes des Marchés, dont la multiplication de lieux d'exécution.
 
-<!-- more -->
+<!--more-->
 
 J'ai identifié dans le discours de clotûre de cette demi-journée 3 grandes tendances qui je pense guideront l'évolution de la régulation ces prochains années&nbsp;:
 

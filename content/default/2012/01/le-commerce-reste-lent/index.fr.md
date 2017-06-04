@@ -17,7 +17,7 @@ section: default
 
 StrangeLoop vient de publier son rapport annuel de sur la performance Web des sites e-commerces. Se basant sur le classement Alexa, ils ont moyenné les performances de plus de 2000 sites. Les résultats sont plutôt surprenants.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [L’e-commerce reste lent](http://blog.clever-age.com/fr/2012/01/27/l-e-commerce-reste-lent/).</em>
 

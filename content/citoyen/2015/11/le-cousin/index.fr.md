@@ -15,7 +15,7 @@ section: citoyen
 
 J'ai passé l'après-midi au parc avec mon fils. À côté de nous, des grands parents avec leur petit-fils.
 
-<!-- more -->
+<!--more-->
 
 La grand-mère m'explique :
 

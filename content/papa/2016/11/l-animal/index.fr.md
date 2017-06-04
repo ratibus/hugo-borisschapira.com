@@ -13,7 +13,7 @@ section: papa
 
 Avec le grand, nous commençons à jouer aux devinettes. Aujourd'hui, il fallait deviner un animal.
 
-<!-- more -->
+<!--more-->
 
 > — Est ce qu'il a des poils ?  
 > — Oui !  

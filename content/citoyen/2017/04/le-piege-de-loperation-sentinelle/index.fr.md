@@ -19,7 +19,7 @@ Dans le [précédent article](/2017/03/police-et-cohesion-sociale/ "Si on ne vei
 
 Mais nous avons également des forces militaires sur le terrain, notamment depuis 1995 et le début de l'opération **Sentinelle** et encore davantage depuis l'entrée en État d'Urgence…
 
-<!-- more -->
+<!--more-->
 
 
 > L’opération Sentinelle n’augmente pas la sécurité des Français, elle la réduit.

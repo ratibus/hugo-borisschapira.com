@@ -16,7 +16,7 @@ section: papa
 
 Je vous rassure, c'est loin d'être toujours le cas. Si on enlève tous les moments où ils se battent, parlent pour faire exprès de couper la parole de l'autre où chantent à tue-tête à 23&#8239;h, les dialogues sont finalement assez réduits…
 
-<!-- more -->
+<!--more-->
 
 ***
 

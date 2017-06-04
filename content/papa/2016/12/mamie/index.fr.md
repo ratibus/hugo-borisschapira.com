@@ -13,7 +13,7 @@ section: papa
 
 Koala, 3 ans, nous montre le dessin qu'il vient de faire sur son tableau.
 
-<!-- more -->
+<!--more-->
 
 > — Et ça, c'est Mamie !  
 > — Ah ? C'est quoi le rond en bas des jambes ?  

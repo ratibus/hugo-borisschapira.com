@@ -19,7 +19,7 @@ section: default
 
 Ma présence sur le Web est un paradoxe pour certains de mes proches. Perpétuellement connecté, ils s'étonnent de ne pas recevoir plus de nouvelles de ma part…
 
-<!-- more -->
+<!--more-->
 
 Je ne pense pas que mon cas soit isolé, mais il est parfois difficile de mettre les mots sur ce que l'on ressent. J'essaie d'écrire cette article depuis plusieurs semaines sans en être totalement satisfait. Peu importe, autant le publier comme cela&nbsp;: s'il génère une discussion, peut-être que d'autres arriveront à dire les choses mieux que moi.
 

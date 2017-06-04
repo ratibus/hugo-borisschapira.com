@@ -13,7 +13,7 @@ section: papa
 
 Les enfants sont dans une maternelle privée, donc chrétienne (parce qu'en France, on n'a quasiment aucune école privée laïque, pour une raison qui m'échappe). Le grand a bien compris que la religion et moi, ça fait deux, même si j'essaie de d'être le plus neutre possible par rapport à lui et ne pas lui imposer mes choix.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, pourquoi tu ne l'aimes pas, toi, Jésus ?  
 > — C'est pas que je ne l'aime pas, mon loup.  

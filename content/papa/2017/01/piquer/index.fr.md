@@ -13,7 +13,7 @@ section: papa
 
 Nous avons une règle à la maison : les fruits sont toujours en <em lang="en">open bar</em>. Les enfants ont appris à en manger quand ça leur prend et des fois, on leur en "pique" un morceau et tout le monde rigole.
 
-<!-- more -->
+<!--more-->
 
 Aujourd'hui, c'est ma femme qui a envie de taquiner notre petit koala. Mais il ne l'entend pas de cette oreille.
 

@@ -17,7 +17,7 @@ section: default
 
 Je vous propose aujourd'hui une introduction au <acronym title="eXtensible Business Reporting Language">XBRL</acronym>, langage dont vous avez sûrement déjà entendu / vous entendrez parler durant les prochaines années dans la sphère informatico-financière…</em>
 
-<!-- more -->
+<!--more-->
 
 <acronym title="eXtensible Business Reporting Language">XBRL</acronym> est en **langage déclaratif fondé sur le standard XML**, conçu pour être un langage universel d’expression, de dématérialisation et de transmission électronique de données financières. Sa maitrise et son expansion sont donc un enjeu de taille pour les organismes réglementaires et les banques qui peinent aujourd'hui à échanger leurs données dans les formats Texte, Excel, PDF, HMTL… <acronym title="eXtensible Business Reporting Language">XBRL</acronym> est un format ouvert, dirigé par des régulateurs, des agences gouvernementales et des vendeurs de logiciels réunis sous la forme d'un consortium&nbsp;: [XBRL International Incorporated](https://www.xbrl.org/). Ce consortium se subdivise en juridictions indépendantes, souvent nationales, dont le but est double. D'une part, ces juridictions sont chargées de développer les classifications nécessaires localement pour l'évolution du langage et d'autre part, elles se chargent du lobbying auprès des acteurs de la Finance pour pousse l'adoption du standard.
 

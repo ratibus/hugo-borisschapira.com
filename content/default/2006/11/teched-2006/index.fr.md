@@ -16,7 +16,7 @@ section: default
 
 Invité par Microsoft au Tech'Ed Barcelona 2006, j'ai pris quelques jours de congés hors de mon Ecole pour assister à ce fabuleux événement. Me voici donc en cours, bouillonnant à l'idée que bientôt je pourrais m'échapper pour cette ville que je ne connais pas mais qui m'attends. Sonnerie. Je pars comme un boulet de canon. Barcelone, me voici !
 
-<!-- more -->
+<!--more-->
 
 ## L'aller
 

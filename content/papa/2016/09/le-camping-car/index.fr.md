@@ -13,7 +13,7 @@ section: papa
 
 Mes beaux-parents ont un camping-car, pour le plus grand plaisir des petits qui adorent dormir dedans. Forcément, quand on en croise un, ils y pensent.
 
-<!-- more -->
+<!--more-->
 
 > — Regarde, Papa, il y a un 'ping-car !  
 > — Oui, je le vois, garé à côté du chantier.  

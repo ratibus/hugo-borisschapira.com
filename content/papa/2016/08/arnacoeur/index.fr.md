@@ -13,7 +13,7 @@ section: papa
 
 À son petit regard malicieux, je vois qu'il n'est pas mielleux pour rien…
 
-<!-- more -->
+<!--more-->
 
 > — Papa, t'es le plus gentil de toute la Terre !  
 > — Tu sais, ça va commencer à se voir que tu veux quelque chose. Tu pourrais essayer un truc plus spécifique, un truc qui ne correspond qu'à moi, que je fais mieux que les autres…  

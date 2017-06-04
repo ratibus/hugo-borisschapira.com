@@ -13,7 +13,7 @@ section: papa
 
 Le petit dernier et le chaton jouent beaucoup ensemble. Hier, j'arrive après quelques minutes de jeu, je découvre que l'étage est détrempé.
 
-<!-- more -->
+<!--more-->
 
 > — Mais ! Qu'est-ce que tu as fait ?!  
 > — Ye youe avec le petit yhat ! Yé mis de l'eau sur le gant, et je lui lance, yah !  

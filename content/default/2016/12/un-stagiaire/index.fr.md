@@ -13,7 +13,7 @@ section: default
 
 Après une semaine, voici l'heure du départ pour notre futur ex-stagiaire.
 
-<!-- more -->
+<!--more-->
 
 Recevoir un·e stagiaire est toujours une petite découverte. On ne sait jamais si la personne sera attentionnée, attentive, curieuse ou si, au contraire, elle observera l'activité sans réaction, sans questions, sans esprit critique. Cette fois, c'était plutôt une bonne pioche !
 

@@ -13,7 +13,7 @@ section: papa
 
 Parfois, leur apprendre le français est une lutte sans fin…
 
-<!-- more -->
+<!--more-->
 
 > — Bona santé Papa ! On cogne les verres ?  
 > — Si tu veux, on trinque, mais ce n'est pas "bona santé" mais "bonne santé". Il n'y a pas de "a".  

@@ -17,7 +17,7 @@ section: default
 
 Le 30 Janvier 2007, Microsoft livrera au grand public la dernière version de son système d'exploitation : Windows Vista. Quelles sont les promesses de ce système en matière de sécurité et de contrôle ?
 
-<!-- more -->
+<!--more-->
 
 Avec 96 % des parts de marché des systèmes d'exploitation, le famille Microsoft Windows tient la dragée haute, Windows XP en tête. Mais les _outsiders_ se font pressants et on assiste de plus en plus à la montée de systèmes basés sur d'autres modèles économiques et mettant en avant leur stabilité et leur sécurité, souvent à raison.
 

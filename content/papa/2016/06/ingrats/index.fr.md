@@ -13,7 +13,7 @@ section: papa
 
 Soudain, la chute…
 
-<!-- more -->
+<!--more-->
 
 > – Maman ! Ye suis tombé, ye suis fait maaaal (genou en sang) !  
 > — Oh mon coeur, tu veux que je mette de la crème ?  

@@ -22,7 +22,7 @@ section: default
 
 Le MIX, un des plus gros évènements de la sphère Microsoft, a débuté il y a peu. L'occasion pour la firme de dévoiler aux journalistes présents de nombreuses nouveautés, et de confirmer les percées technologiques de ces derniers mois.
 
-<!-- more -->
+<!--more-->
 
 On notera une certaine mise à l'honneur de Silverlight avec une bonne vingtaine de vidéos de prise en main de Silverlight (ex-WPF/E) (à voir [ici](http://msdn.microsoft.com/en-us/silverlight/bb187401.aspx) ou ici) où l'on apprend que la technologie est interopérable avec ASP.NET, PHP et JAVA (belle initiative&nbsp;!). Notons aussi l'ouverture d'un [nouveau service Live! dédié à Silverlight](https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=12&amp;ct=1414112705&amp;rver=6.4.6456.0&amp;wp=MBI_SSL_SHARED&amp;wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Fshowunauth%3D1%26rru%3Dinbox&amp;lc=1033&amp;id=64855&amp;mkt=en-US&amp;cbcxt=mai), pour permettre aux développeurs de facilement intégrer des vidéos à leurs productions grâce à un service de streaming (pour les néophytes, disons que ce nouveau service devrait permettre aux créateurs d'applications d'héberger des vidéos et de les récupérer à la manière d'un Soapbox ou Youtube, mais en conservant la possibilité de les intégrer à une création logicielle). Et tout cela reste compatible avec Microsoft Expression Blend.
 

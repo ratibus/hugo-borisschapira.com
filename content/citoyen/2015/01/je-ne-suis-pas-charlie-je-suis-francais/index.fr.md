@@ -17,7 +17,7 @@ section: citoyen
 
 ## précisions pour ceux qui s'offusquent
 
-<!-- more -->
+<!--more-->
 
 _Je ne suis pas Charlie_ parce que je n'appréciais pas le contenu de Charlie Hebdo. Je trouvais le ton trop provocateur, les dessins vulgaires et cette insistance à se moquer des fondamentalistes musulmans me gênait par sa récurrence qui, d'une certaine façon, ne montrait toujours qu'une vision haineuse et stupide de l'Islam. Je n'étais pas choqué par les tirages très réduits qui ne trouvaient pas forcément écho auprès des gens. La liberté d'expression n'implique pas qu'on doive toujours écouter ou lire ce qui est produit.
 

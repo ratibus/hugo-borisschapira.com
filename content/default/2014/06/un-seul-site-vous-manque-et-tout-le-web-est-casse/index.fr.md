@@ -18,7 +18,7 @@ Ce détournement de la fameuse citation d'Alphonse de Lamartine est bien sûr d�
 
 Il aura suffit d'une trentaine de minutes d'absence pour mettre le Web en émoi et surtout, faire de grands dégâts un peu partout. Car énormément de sites sont dépendants de Facebook, qu'ils le sachent ou non, et une indisponibilité du géant peut avoir des effets désastreux.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Un seul site vous manque, et tout le web est cassé](http://blog.clever-age.com/fr/2014/06/20/un-seul-site-vous-manque-et-tout-le-web-est-casse/).</em>
 

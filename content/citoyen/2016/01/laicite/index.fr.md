@@ -17,7 +17,7 @@ On entend régulièrement de vigoureux porte-étendards de la laïcité défendr
 
 Pourtant, la laïcité, c'est l'égalité devant la loi de l'ensemble des religions, non ?
 
-<!-- more -->
+<!--more-->
 
 Parce que curieusement, je ne connais personne qui se soit réveillé, un matin, en se disant qu’il faudrait fermer les 8000 établissements scolaires chrétiens, ou au moins rompre leur contrat avec l’État. En revanche, si on parle de créer une structure coranique, les projecteurs seront allumés jusqu’à découvrir une faute (ce qui explique pourquoi il n'y a pas plus d'une centaine d'établissement privés musulmans en France, alors que si on respectait le même ratio entre pratiquants et établissements, on devrait avoisiner les 750).
 

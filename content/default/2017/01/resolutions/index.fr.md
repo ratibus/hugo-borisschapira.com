@@ -16,7 +16,7 @@ section: default
 
 En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolutions. Il est temps de voir où j'en suis alors que 2017 <del>se profile</del> démarre.
 
-<!-- more -->
+<!--more-->
 
 * [Dégager plus de temps en dehors du travail](#temps)
 * [Formaliser mes processus](#formalisme)
@@ -27,7 +27,7 @@ En ce début d'année 2016, j'ai décidé de prendre quelques bonnes résolution
     * [En tant que citoyen](#politique)
     * [Dans mes échanges quotidiens](#echanges)
 
-<!-- more -->
+<!--more-->
 
 ## Dégager plus de temps en dehors du travail {#temps}
 

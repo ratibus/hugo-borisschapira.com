@@ -17,7 +17,7 @@ section: citoyen
 
 Ou pas.
 
-<!-- more -->
+<!--more-->
 
 <q>Je suis contre le système</q>, <q>le système est corrompu</q>, <q>Machin est le candidat du système</q>. **Stop**.
 

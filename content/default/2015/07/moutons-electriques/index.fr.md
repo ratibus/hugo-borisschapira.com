@@ -15,7 +15,7 @@ section: default
 
 Deux articles m'ont récemment fait réfléchir, tous les deux traitants de problématiques liées à l'intelligence.
 
-<!-- more -->
+<!--more-->
 
 > Une des réalisations les plus poussées et les plus spectaculaires du <em lang="en">deep learning</em> a eu lieu en 2012, quand Google Brain, le projet de deep learning de la firme américaine, a été capable de «&nbsp;découvrir&nbsp;», par lui-même, le concept de chat.  
 >

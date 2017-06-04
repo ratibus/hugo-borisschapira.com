@@ -16,7 +16,7 @@ section: citoyen
 
 Le monde subit une crise financière depuis 5 ans, qui touche principalement les classes moyennes et provoque la montée du chômage. Le pouvoir ne trouve pas de solution, le déficit du budget augmente. Des manifestations antigouvernementales se déclenchent à Paris, alimentées par la droite et l'extrême-droite.
 
-<!-- more -->
+<!--more-->
 
 15 morts, 2000 blessés.
 

@@ -18,7 +18,7 @@ section: default
 > Ceci est un article destiné à tester le respect de certaines règles microtypographiques par mon site.  
 > Ne tenez pas compte du contenu ci-dessous.
 
-<!-- more -->
+<!--more-->
 
 {:toc}
 

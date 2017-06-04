@@ -17,7 +17,7 @@ section: citoyen
 
 La sortie de dizaines de milliers de documents confidentiels par [Wikileaks](http://wikileaks.org/) fait, en ce moment, grand bruit. D'abord par la quantité des documents confidentiels ainsi dévoilés, mais surtout par leur qualité et leur actualité, des nombreux diplomates y apparaissant étant encore en poste. À n'en pas douter, ces fuites risquent d'assécher un terrain diplomatique ou le tact et la maitrise tendent à fluidifier les relations. Alors on cherche un coupable.
 
-<!-- more -->
+<!--more-->
 
 Cette fois-ci, il s'agit d'un jeune soldat. On salit son nom, on livre en pâture aux journalistes la technique qu'il a employé pour exfiltrer les informations (_Lady Gaga_, quelle arme de destruction massive), ses préférences sexuelles (sûrement très important pour l'enquête), les détails d'une enfance perturbée (évidemment, vous n'aviez pas cru qu'un individu sain d'esprit aurait pu commettre un tel crime, si&nbsp;?)… Comme il a reconnu les faits, les américains peuvent tout lui coller sur le dos, c'est bien pratique.
 

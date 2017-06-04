@@ -13,7 +13,7 @@ section: papa
 
 Halloween étant passé, les discussions vont déjà bon train à la maison concernant Noël.
 
-<!-- more -->
+<!--more-->
 
 > Alors, vous pensez que le Père Noël va vous apporter des cadeaux ?
 

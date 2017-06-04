@@ -14,7 +14,7 @@ section: default
 
 Soyons honnêtes&nbsp;: une grande majorité d'entre nous n'est pas suffisamment armée pour saisir à bras le corps les problématiques liées à la spéculation boursière et à la justification (ou non) des bonus.
 
-<!-- more -->
+<!--more-->
 
 Alors, on s'indigne, on crie au scandale, mais au final la discussion est stérile. Pour corriger un peu l'absence d'analyse médiatique autour de ces questions, je vous propose deux lectures plutôt courtes et assez intéressantes.
 

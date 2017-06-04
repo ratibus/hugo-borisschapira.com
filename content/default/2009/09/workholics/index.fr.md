@@ -18,7 +18,7 @@ section: default
 
 L'**avènement** des nouvelles technologies de **mobilité** (ordinateurs de plus en plus léger, wifi, connections sécurisées aux réseaux d'entreprises, smartphones) a développé chez certains cadres une véritable addiction au travail, incitée par une demande accrue des entreprises à pouvoir **joindre leurs collaborateurs n'importe où et n'importe quand**.
 
-<!-- more -->
+<!--more-->
 
 Jusqu'ici, les entreprises étaient plutôt friandes de ce type de salarié. Imaginez l'aubaine&nbsp;: même en vacances, votre cadre travaille pour vous&nbsp;! Il n'était donc pas rare de voir des managers offrir à leur cadres un smartphone dédié à la connectivité au travail, comme le Blackberry dont les ventes explosent littéralement depuis 2001\. Mais **la situation change**, et elle ne va pas plaire aux entreprises qui pour l'instant n'y voient que du feu.
 

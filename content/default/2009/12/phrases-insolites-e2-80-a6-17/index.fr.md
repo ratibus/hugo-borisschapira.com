@@ -16,7 +16,7 @@ section: default
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!
 
-<!-- more -->
+<!--more-->
 
 ## Non, on peut les mettre en rose fluo aussi
 

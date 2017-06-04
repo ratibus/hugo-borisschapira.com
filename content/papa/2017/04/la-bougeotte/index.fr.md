@@ -13,7 +13,7 @@ section: papa
 
 Mon plus jeune fils ne tient pas en place deux minutes. Rester assis, pour lui, est un défi de chaque instant. 
 
-<!-- more -->
+<!--more-->
 
 On le retrouve toujours dans les positions les plus improbables. À table, notamment, c'est très pénible. Surtout quand, entre deux figures, il se rate et tombe de sa chaise en embarquant couverts, assiette et verre.
 

@@ -13,7 +13,7 @@ section: papa
 
 Cet après-midi, on lance Wipeout, un jeu de course futuriste sur la PS3.
 
-<!-- more -->
+<!--more-->
 
 Ma femme encourage le grand qui joue contre moi :
 

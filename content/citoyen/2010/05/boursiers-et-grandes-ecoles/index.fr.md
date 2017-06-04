@@ -15,7 +15,7 @@ section: citoyen
 
 Énervé au moment du débat sur l'imposition d'un quota de boursiers dans les Grandes Écoles, j'ai décidé de différer la publication du billet pour éviter de réagir vite et mal. Aujourd'hui, j'ai tout de même envie de dire deux ou trois choses sur cette proposition que je trouve toujours absurde.
 
-<!-- more -->
+<!--more-->
 
 J'étais boursier durant mes études, aux échelons 2 ou 3 suivant les années. J'ai passé deux ans en CPGE (MPSI/MP) puis j'ai passé mes concours et intégré une École d'Ingénieurs. Pas de quotas, pas de discrimination sur l'origine ou les moyens financiers&nbsp;: les concours ne faisaient que sélectionner les candidats les plus aptes.
 

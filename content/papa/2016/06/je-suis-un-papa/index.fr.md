@@ -13,7 +13,7 @@ section: papa
 
 Grosse colère du grand.
 
-<!-- more -->
+<!--more-->
 
 > — T'as dit quoi maman ?  
 > — Si tu ne faisais pas le pitre, tu aurais entendu !  

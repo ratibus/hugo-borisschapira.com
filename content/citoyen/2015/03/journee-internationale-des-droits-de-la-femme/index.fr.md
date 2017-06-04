@@ -18,7 +18,7 @@ section: citoyen
 
 J'ai beaucoup réfléchi à ce que je pourrais faire d'utile de cette "journée". J'ai fini par aller voir ma femme pour lui poser la question très sérieusement…
 
-<!-- more -->
+<!--more-->
 
 > Chérie, est-ce que tous les autres jours de l'année, je te montre bien que je t'aime et que je te considères comme mon égale dans notre couple, dans notre vie, par rapport à nos enfants, à ton travail&nbsp;?
 

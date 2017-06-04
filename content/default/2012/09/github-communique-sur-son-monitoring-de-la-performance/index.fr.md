@@ -16,7 +16,7 @@ section: default
 
 GitHub, qu’on connait bien pour ses nombreuses publications sur l’intégration continue ou le travail délocalisé, vient de publier sur son blog un article dédié à la Performance Web.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [GitHub communique sur son monitoring de la performance](http://blog.clever-age.com/fr/2012/09/06/github-communique-sur-son-monitoring-de-la-performance/).</em>
 

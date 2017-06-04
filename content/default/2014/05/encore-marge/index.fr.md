@@ -20,7 +20,7 @@ Déjà 7 ou 8 ans que les premiers articles ont été écrits sur le *design* de
 
 Où en sommes-nous&nbsp;?
 
-<!-- more -->
+<!--more-->
 
 **Les services plutôt bien utilisés aujourd'hui&nbsp;:**
 

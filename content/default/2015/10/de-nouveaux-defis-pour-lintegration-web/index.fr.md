@@ -17,7 +17,7 @@ section: default
 Fin juillet 2015, une franche polémique a enflammé la communauté des professionnels du Web suite à [cet article](http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html "Stop pushing the web forward") publié sur Quirksmode. En synthèse, l'auteur y expliquait que les standards du Web s'étendent à une vitesse incroyable, à la recherche de leviers pour rattraper ou concurrencer l'expérience native mobile, mais que cette course aux fonctionnalités épuise les développeurs qui n'ont plus le temps de penser à l'expérience utilisateur.
 
 [^1]: Peter-Paul KOCH (connu également sous le pseudonyme ppk) est un chercheur, auteur, consultant en stratégie web et développement web mobile. Quirksmode est un des plus anciens blogs parlant d'intégration HTML connu notamment pour avoir populariser le concept de tables de compatibilité entre navigateurs, que beaucoup connaissent aujourd'hui au travers de (caniuse.com](http://caniuse.com/).
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [De nouveaux défis pour l’intégration web](http://blog.clever-age.com/fr/2015/10/08/de-nouveaux-defis-pour-lintegration-web/).</em>
 

@@ -14,7 +14,7 @@ section: default
 
 J'ai pris connaissance ce soir du nouveau gouvernement et ainsi de la nouvelle structure politique de notre pays, tout comme des évènements politiques de la journée…
 
-<!-- more -->
+<!--more-->
 
 Juppé, c'est un peu comme Polnareff. Tout le monde sait qu'il chante moins bien depuis qu'il est parti en exil, mais il a toujours autant de fans. Et comme il le sait, il conserve tous ses mandats, quitte à ne pas être présent là où on aura besoin de lui.
 

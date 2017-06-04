@@ -18,7 +18,7 @@ section: default
 
 > This is a test post for typographic matters.
 
-<!-- more -->
+<!--more-->
 
 {:toc}
 

@@ -15,7 +15,7 @@ section: default
 
 C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;! Et quand c'est une oreille de consultant en informatique ou de développeur, c'est encore plus délicieux. Que celui qui n'a jamais entendu ces quelques phrases me jette le premier bug&nbsp;!
 
-<!-- more -->
+<!--more-->
 
 ## Modification utile
 

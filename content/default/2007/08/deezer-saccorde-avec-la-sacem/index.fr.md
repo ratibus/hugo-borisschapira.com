@@ -16,7 +16,7 @@ section: default
 
 [BlogMusik](http://www.hugedomains.com/domain_profile.cfm?d=blogmusik&amp;e=com), jeune société crée en France en juin 2006, a changé de nom pour [Deezer](http://www.deezer.com) et signé des accords avec la SACEM…
 
-<!-- more -->
+<!--more-->
 
 Quelques mots des deux papas du bébé (Daniel Marhely et Jonathan Benassaya) :
 

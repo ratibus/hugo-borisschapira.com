@@ -15,7 +15,7 @@ section: default
 
 Microsoft et Joyent ont annoncé en juin qu’ils travaillaient ensemble à l’élaboration d’une version Windows de Node.js. Après plusieurs mois de développement et quelques versions préliminaires, les deux sociétés ont annoncé lundi 7 novembre avoir abouti à la [première version stable de Node.js pour Windows](http://blogs.msdn.com/b/interoperability/archive/2011/11/07/first-stable-build-of-nodejs-on-windows-released.aspx).
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Node.js, nativement sous Windows et IIS](http://blog.clever-age.com/fr/2011/11/14/node-js-nativement-sous-windows-et-iis/).</em>
 

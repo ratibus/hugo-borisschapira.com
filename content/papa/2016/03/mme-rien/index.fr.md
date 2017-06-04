@@ -13,7 +13,7 @@ section: papa
 
 Sortie de l'école avec l'aîné, l'heure d'aller chercher le petit chez la nounou.
 
-<!-- more -->
+<!--more-->
 
 > — Tu sais où on va ?  
 > — Mais oui, on va chez la nounou !  

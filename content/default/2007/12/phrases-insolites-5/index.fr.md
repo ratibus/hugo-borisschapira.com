@@ -16,7 +16,7 @@ section: default
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-**<!-- more -->
+**<!--more-->
 
 Finance ou jeux vidéos
 **" - … et ça s’appelle les Hedge Funds.

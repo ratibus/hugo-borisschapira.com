@@ -13,7 +13,7 @@ section: papa
 
 Vacances des enfants chez ma mère.
 
-<!-- more -->
+<!--more-->
 
 > — Mamie, moi je suis ton petit fils ?  
 > — Oui, mon chéri.  

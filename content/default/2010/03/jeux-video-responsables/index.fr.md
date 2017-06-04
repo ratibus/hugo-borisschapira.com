@@ -15,7 +15,7 @@ section: default
 
 Une polémique enfle depuis quelques temps autour d'une scène particulièrement violente du jeu à succès *Modern Warfare 2* dans laquelle le joueur, incarnant un soldat, se retrouve au cœur du génocide de la population d'un aéroport, contraint d'exécuter froidement l'ensemble des civils présents pour réussir sa mission.
 
-<!-- more -->
+<!--more-->
 
 Beaucoup ramènent l'expérience au même rang qu'un <acronym lang="en" title="Grand Theft Auto">GTA</acronym> et de dire qu'elle favorise la violence des jeunes. Pourtant, le jeu présente une classification qui devrait normalement alerter les parents un minimum attentifs aux occupations de leurs enfants (mais moi je dis ça…). Avant la scène en question, un message indique qu'il s'agit d'un niveau violent psychologiquement qui peut être passé. Enfin, la scène intervient au cœur d'un scénario dont elle est une conséquence logique, et qui met le joueur dans une situation extrême mais surtout d'une responsabilité écrasante qui découvre ainsi que la violence n'est pas gratuite et qu'elle a moralement un prix.
 

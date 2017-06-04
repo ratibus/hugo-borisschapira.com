@@ -13,7 +13,7 @@ section: papa
 
 Ma femme va acheter du tissu pour faire des robes. Pour canaliser les mouflets qui démontaient le magasin, elle leur propose de choisir le tissu des rideaux de leur nouvelle chambre. 
 
-<!-- more -->
+<!--more-->
 
 Le petit arrête rapidement son choix sur un joli madras de toutes les couleurs. Le grand hésite entre deux tissus roses.
 

@@ -13,7 +13,7 @@ section: papa
 
 On retrouve un microscope chez ma mère alors j'en profite pour montrer aux garçons quelques trucs.
 
-<!-- more -->
+<!--more-->
 
 Le grand semble mi-épaté, mi-soucieux.
 

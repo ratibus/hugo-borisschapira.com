@@ -16,7 +16,7 @@ section: papa
 > — On peut aller voir les Bambis dans la forêt ?  
 > — Non, mon cœur, il fait nuit. Tu sais, dans la fôret, il y a d'autres animaux. Que va-t-on faire si on croise un renard ?
 
-<!-- more -->
+<!--more-->
 
 Il réfléchit une vingtaine de secondes puis me répond d'un ton enjoué :
 

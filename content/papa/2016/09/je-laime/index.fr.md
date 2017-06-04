@@ -13,7 +13,7 @@ section: papa
 
 Il est seul avec moi mais je vois bien qu'il attend quelque chose…
 
-<!-- more -->
+<!--more-->
 
 > – Je vais attendre mon grand frère pour faire ça !  
 > – Pour quoi tu veux l'attendre ?  

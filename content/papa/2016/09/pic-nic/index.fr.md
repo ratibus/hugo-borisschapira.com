@@ -13,7 +13,7 @@ section: papa
 
 Comme chaque année, l'école organise un pic-nic pour l'accueil des nouveaux élèves. C'est convivial et ça permet aussi aux parents de se rencontrer.
 
-<!-- more -->
+<!--more-->
 
 Je vois que mon fils demande à une des mamans un bonbon, qu'elle lui donne en l'appelant par son prénom. Je me rapproche donc :
 

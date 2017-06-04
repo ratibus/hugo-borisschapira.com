@@ -17,7 +17,7 @@ section: default
 
 Matthieu n’est pas du genre à prendre une décision à la légère, surtout lorsqu’elle risque d’avoir un impact sur le chiffre d’affaire de son entreprise. Il aime essayer avant d’adopter. C’est pourquoi il a décidé de se lancer dans les Tests A/B.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [A la conquête des Tests A/B](http://blog.clever-age.com/fr/2014/03/13/a-la-conquete-des-tests-a-b/).</em>
 

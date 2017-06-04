@@ -13,7 +13,7 @@ section: papa
 
 Déjeuner chez Pizza Paï avec les monstres. En sortant, on flâne devant des magasins. Le grand repère un article en vitrine.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, regarde. Elle est belle, la robe ! Je l'achète pour Maman ?  
 > — C'est vrai qu'elle est belle mais tu ne peux pas l'acheter, tu n'as pas d'argent. Et puis, elle est très chère, tu sais.  

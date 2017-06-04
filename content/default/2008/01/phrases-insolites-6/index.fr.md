@@ -16,7 +16,7 @@ section: default
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-**<!-- more -->
+**<!--more-->
 
 C'est sûr, c'est rare**
 " J’aimerais bien voir une grosse fille un jour dans la salle de marché."

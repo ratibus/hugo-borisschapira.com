@@ -18,7 +18,7 @@ Nous sommes inondés de messages commentant les récentes affaires de harcèleme
 
 Ça m'insupporte.
 
-<!-- more -->
+<!--more-->
 
 Une femme s'estime victime de harcèlement ? C'est très important qu'elle en parle. Une autre femme ne s'estime pas concernée ? Très bien pour elle, quelle chance elle a ! Qu'elle en parle aussi, pour expliquer que non, tous les hommes ne sont pas comme ça.
 

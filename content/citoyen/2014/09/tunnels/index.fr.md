@@ -17,7 +17,7 @@ section: citoyen
 
 Je connais mal Michelle Delaunay, ses convictions, son parcours. Mais je trouve cette publication très intéressante même si elle limitée à un seul "monde". En effet, les politiques ne sont pas les seuls à souffrir de cet effet de tunnel. Les raisons en sont multiples et la première d'entre elle est probablement la validation excessive de nos métiers par des diplômes et des cursus, qui nous enferment bien souvent dans des carrières où nous vivons entourés de nos pairs. _Think outside the box_&nbsp;? Difficile quand la Société ne vous laisse pas sortir de la boite.
 
-<!-- more -->
+<!--more-->
 
 Une partie de mon métier consiste à aider de nombreuses entreprises à sortir de leurs propres tunnels&nbsp;: les accompagner dans l'élaboration d'une vision concernant leurs dispositifs Web, les conseiller sur les meilleurs outils concernant leurs besoins. Ce n'est pas plus simple pour moi que pour eux, j'ai mes propres tunnels de pensée et je me bats contre eux tous les jours parce que j'ai la chance que le Web soit un monde ouvert dans lequel les qualités autodidactes peuvent encore s'exprimer, le dialogue s'organiser facilement et les remises en question, incessantes.
 

@@ -13,7 +13,7 @@ section: papa
 
 Toujours, toujours être précis dans la consigne. Par exemple : "Ne fais pas pipi sur toi".
 
-<!-- more -->
+<!--more-->
 
 > — Papa, yé pas fait pipi dans mon short, je peux avoir un cayambar alors ?  
 > — C'est bien de ne pas avoir fait pipi, mais ça sent mauvais quand même, non ?  

@@ -17,7 +17,7 @@ section: default
 
 La situation est tendue pour Microsoft&nbsp;: le Windows Phone Marketplace est ouvert depuis 8 mois mais le nombre d'applications disponibles est loin d'égaler celui de ses concurrents. On apprend dans un [article sur le blog de l'équipe de développement de Windows Phone](http://web.archive.org/web/20120626073042///windowsteamblog.com:80/windows_phone/b/wpdev/archive/2010/06/07/new-policies-for-next-gen-windows-phone-marketplace.aspx) - relayé par [XNA-France](http://web.archive.org/web/20111112224153///xna-france.com:80/?p=221) - les détails de la mise-à-jour de ce Marketplace, destinée à corriger le tir.
 
-<!-- more -->
+<!--more-->
 
 ### Un choix complet de modèles économiques…
 

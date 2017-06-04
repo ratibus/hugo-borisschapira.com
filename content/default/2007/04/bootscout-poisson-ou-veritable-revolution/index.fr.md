@@ -15,7 +15,7 @@ section: default
 
 Les équipes de développement de Microsoft apprennent de la concurrence. En effet, des infos commencent à courir sur le Net concernant la possibilité de faire tourner MacOS X sur un PC gr&acirc;ce à une application qui serait développée par Microsoft et qui aurait pour nom de code BootScout.
 
-<!-- more -->
+<!--more-->
 
 L'information est insolite car il y a quelques mois encore, Apple lançait ses avocats aux trousses d'un pirate (Maxxus) qui avait osé exécuter MacOS X sur un PC traditionnel.
 

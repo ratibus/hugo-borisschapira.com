@@ -13,7 +13,7 @@ section: papa
 
 Dix minutes que ça dure : il n'arrête pas de pleurer.
 
-<!-- more -->
+<!--more-->
 
 > Qu'est-ce qui se passe, tu as mal où ?
 

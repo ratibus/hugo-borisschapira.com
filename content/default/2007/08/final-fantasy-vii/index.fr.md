@@ -17,7 +17,7 @@ section: default
 
 _Il y a des livres qui vous marquent, des films qui vous hantent. De la même manière, certains jeux vidéos restent à jamais gravés dans votre histoire. Celui-ci aura toujours une valeur particulière pour moi._
 
-<!-- more -->
+<!--more-->
 
 J'ai pas mal voyagé, petit. De Sèvres à la Martinique, de la Martinique en Bretagne, de la Bretagne à Bordeaux, de Bordeaux à Paris… on peut dire que j'ai du m'adapter un bon paquet de fois et souvent au passage, prendre mes distances avec mes amis et m'en faire de nouveaux.
 

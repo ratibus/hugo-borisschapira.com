@@ -13,7 +13,7 @@ section: default
 
 J'ai tourné et retourné dix fois la manière dont j'allais écrire ça, mais je n'arrive pas à trouver "la" bonne manière. Tourner une page de sa vie n'est jamais facile…
 
-<!-- more -->
+<!--more-->
 
 ## Des fourmis dans les pieds
 

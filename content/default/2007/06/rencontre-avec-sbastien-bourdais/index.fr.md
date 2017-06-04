@@ -18,7 +18,7 @@ section: default
 
 Hier, j'ai rencontré [Sébastien Bourdais](http://www.sebastien-bourdais.com/), triple champion du monde de Champcar (je n'y connais pas grand chose, mais j'ai compris que c'était un peu comme la F1 à ceci près que tout le monde court sur la même voiture donc seul le talent du pilote compte).
 
-<!-- more -->
+<!--more-->
 
 Il conduira très bientôt la Peugeot 908 HDI-FAP et il nous faisait l'honneur, hier, de nous présenter (à nouveau pour moi) Forza Motorsport 2 sur XBox360 et de nous parler de son entrainement et de ses espoirs pour la course à venir. C'est assez intimidant de penser que ce jeune homme, meilleur coureur au monde dans sa catégorie, n'a que 5 ans de plus que moi. D'autant qu'assez fin de visage, il ne les fait pas.
 

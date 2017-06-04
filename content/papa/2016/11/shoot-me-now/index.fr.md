@@ -13,7 +13,7 @@ section: papa
 
 Ce soir, les enfants sont créatifs. Ils font plein de choses nouvelles comme peindre la tête du chat et le tapis du salon, mettre du maïs dans leur soupe, mélanger des tomates dans leur crème au chocolat…
 
-<!-- more -->
+<!--more-->
 
 Déprimé, je décide de me réconforter avec une tartine de chèvre et un peu de miel. Le temps de me retourner pour autre chose, le grand me regarde :
 

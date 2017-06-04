@@ -13,7 +13,7 @@ section: papa
 
 Voyage chez mon père, qui possède une piscine. Rapidement, le grand teste. Le petit, lui, reste au bord.
 
-<!-- more -->
+<!--more-->
 
 > — Tu ne veux pas y aller, chéri ?  
 > — Non, elle est méchante la piyine.  

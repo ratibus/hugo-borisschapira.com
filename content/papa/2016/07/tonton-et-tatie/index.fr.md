@@ -15,7 +15,7 @@ Voyage chez mon père. Tous les matins, ma sœur s'occupe des enfants avec patie
 
 Puzzle vs. Power Rangers, le combat n'était pas équitable…
 
-<!-- more -->
+<!--more-->
 
 > — Alors, tu es content d'être ici mon petit bonhomme ?  
 > — Yi ! Tonton y joue avec les Popower !  

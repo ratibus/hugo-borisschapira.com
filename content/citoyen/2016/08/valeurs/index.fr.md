@@ -22,7 +22,7 @@ Comme je n'ai pas la prétention de détenir la Vérité, je mets des liens vers
 
 Maintenant, laissez-moi vous expliquer le cheminement de mes pensées. J'insiste sur ce terme, c'est un **cheminement**. Donc il y a des moments où je ne serais pas d'accord avec le moi-même d'un peu plus loin (oui, j'ai parfois des sentiments contraires sur lesquels je mets du temps à mettre des mots, pas vous ?). Merci donc de lire l'ensemble avant de me traiter de tous les noms, j'ai déjà eu ma dose ces derniers jours.
 
-<!-- more -->
+<!--more-->
 
 Déjà, situons un peu les choses. Le burkini, inventé par une libanaise dont on sait peu de choses si ce n'est qu'elle doit se frotter les mains d'autant de publicité, pourrait se résumer rapidement en "un jilbab de bain", c'est-à-dire un vêtement compatible avec l'immersion, mais dont l'objectif est de cacher sa porteuse au monde qui l'entoure par le biais d'un tissu recouvrant l'ensemble du corps hormis les pieds et les mains.
 

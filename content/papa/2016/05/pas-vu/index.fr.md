@@ -13,7 +13,7 @@ section: papa
 
 Mythomane, 3 ans, vient juste d'apprendre à utiliser le mot "peut-être".
 
-<!-- more -->
+<!--more-->
 
 > — Papa, on peut mettre un dessin animé ?  
 > — Tu en veux un nouveau ou un que tu as déjà vu ?  

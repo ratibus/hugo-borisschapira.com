@@ -22,7 +22,7 @@ section: default
 
 La publicité en ligne est devenue, faute d’une meilleure solution, la principale source de revenus de nombreux producteurs de contenus.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Publicité en ligne&nbsp;: un point sur la situation](http://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-point-sur-la-situation/).</em>
 

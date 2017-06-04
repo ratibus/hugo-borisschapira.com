@@ -15,7 +15,7 @@ section: default
 
 Voilà un an que nous sommes revenus vivre à Bordeaux. Nous avions des projets pleins la tête, et beaucoup d'inquiétudes.
 
-<!-- more -->
+<!--more-->
 
 Nous libérions notre appartement pour aller vivre chez ma belle-sœur, sans certitude sur la durée de notre séjour. Nous quittions nos emplois respectifs, avec pour Libellule l'incertitude d'en trouver un nouveau et pour moi l'inconnu d'un nouvel employeur.
 

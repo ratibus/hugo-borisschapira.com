@@ -13,7 +13,7 @@ section: papa
 
 Le petit demande à sa mère si elle peut lui étaler son fromage frais sur une tartine…
 
-<!-- more -->
+<!--more-->
 
 > — Mais, mais… C'est pas comme ça qu'on étale maman !  
 > — Ah bon ? Qu'est ce qui ne te va pas ?  

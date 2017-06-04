@@ -16,7 +16,7 @@ section: citoyen
 > Et plus ça dure, plus le refrain s'épuise. Faire vite, répondre tout de suite ! Entrer dans la course-poursuite en se disant qu'après tout, on a les jambes pour reprendre le dessus. Et si finalement, c'était une partie du piège ? Tant que l'on court, on oublie de regarder autour. Si cette urgence nous empêche de penser, quelles blessures peut-elle bien panser ?  
 > <cite>"[État d'urgence : plus c'est long, moins c'est bon #DATAGUEULE 58](https://www.youtube.com/watch?v=uq72XHngz9M)"</cite>
 
-<!-- more -->
+<!--more-->
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/uq72XHngz9M" frameborder="0" allowfullscreen></iframe>

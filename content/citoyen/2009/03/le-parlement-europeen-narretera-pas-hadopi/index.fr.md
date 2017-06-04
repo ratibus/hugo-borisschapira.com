@@ -16,7 +16,7 @@ section: citoyen
 
 Depuis l'adoption, le 26 mars 2009, du rapport Lambrinidis au Parlement Européen, j'appréhende la reprise des débats autour d'Hadopi. Beaucoup de mes collègues blogueurs ont crié au succès, à la fin de la lutte.
 
-<!-- more -->
+<!--more-->
 
 Pour eux, Hadopi ne pouvait pas être votée, sa modalité de sanction étant caduque (même cela reste à prouver, la France n'étant pas obligée d'approuver systématiquement tout texte du Parlement Européen).
 

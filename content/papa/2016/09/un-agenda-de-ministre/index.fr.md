@@ -13,7 +13,7 @@ section: papa
 
 Les enfants ont passé hier leur premier jour au centre aéré. Le petit a adoré : visiblement, on l'a laissé faire ce qu'il voulait. Ce qui n'est pas le cas partout…
 
-<!-- more -->
+<!--more-->
 
 > — C'est l'école sans maicresse, aujourd'hui, Papa ?  
 > — Ah non chéri, il y a la maîtresse aujourd'hui.  

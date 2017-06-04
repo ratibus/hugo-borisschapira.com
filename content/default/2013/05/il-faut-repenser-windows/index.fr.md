@@ -18,7 +18,7 @@ section: default
 
 Windows 8 se vend mal. Même si une centaine de millions de licences se sont écoulées depuis la sortie de l’OS, toutes ne sont pas activées et Windows 8 ne représente que 3 à 5 % du parc PC. Il y a des choses à changer dans Windows. Et vite.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [Il faut repenser Windows](http://blog.clever-age.com/fr/2013/05/14/il-faut-repenser-windows/).</em>
 

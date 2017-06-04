@@ -21,7 +21,7 @@ J'entends de plus en plus de gens dire&nbsp;:
 
 Si je suis plutôt d'accord avec le premier argument, le second me gêne profondément. Jusque-là, je gardais mon avis pour certaines discussions privées mais le débat a franchi un nouveau cap avec cette [proposition de loi visant à rendre obligatoire l'enseignement du _codage_ informatique à l'école](http://www.assemblee-nationale.fr/14/propositions/pion2022.asp "N°2022 - Proposition de loi de Mme Laure de La Raudière visant à rendre obligatoire l")
 
-<!-- more -->
+<!--more-->
 
 > L'article L. 121-1 du code de l'éducation est ainsi modifié&nbsp;:  
 >

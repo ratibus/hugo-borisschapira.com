@@ -18,7 +18,7 @@ section: citoyen
 
 Merci égalemment  à [Mathilde Mathieu](http://blogs.mediapart.fr/blog/mathilde-mathieu) de l'avoir rapporté [sur MediaPart](http://blogs.mediapart.fr/blog/mathilde-mathieu/111209/moi-deputee-francaise-etrangere-pendant-la-moitie-de-ma-vie))
 
-<!-- more -->
+<!--more-->
 
 > Il est […] toujours complexe de définir ce qu'est le sentiment d'être français. Le mot sentiment désigne lui-même à la fois des sensations et une conscience. **Il est périlleux que ce soit l'État qui cherche à dire ce que cela signifie et, ainsi, à «&nbsp;cadrer&nbsp;» des sentiments.** En la matière, il ne peut dire «&nbsp;le vrai&nbsp;» car il ne peut y avoir d'objectivité.  
 >

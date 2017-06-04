@@ -16,7 +16,7 @@ section: default
 
 Bon, je vais être honnête, les trucs religieux bien-pensants, ce n'est pas ma tasse de thé. J'ai fait mon collège et mon lycée chez les jésuites, j'ai appris plein de choses intéressantes, mais pour ce qui est du dogme ou de la foi, j'en suis très loin. De toutes façons, je ne suis même pas baptisé. Autant dire que c'était mal parti. Et pourtant…
 
-<!-- more -->
+<!--more-->
 
 La préparation au mariage religieux est une étape obligatoire si l'on veut se marier à l'Église. Dans la paroisse où nous nous préparons, elle est gérée par des couples accompagnateurs, eux-mêmes mariés depuis un certain nombre d'années. Chaque couple accompagnateur reçoit une fois en particulier les futurs mariés puis anime un groupe de 5 couples durant 3 soirées.
 Les futurs époux participent également à une soirée appelée Jeudi de la Foi, une sorte de forum réunissant une cinquantaine de personnes pour discuter d'un sujet lié à l'Église.

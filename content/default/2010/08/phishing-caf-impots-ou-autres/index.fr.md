@@ -15,7 +15,7 @@ section: default
 
 Je me permets aujourd'hui de citer une fameuse légende d'un tableau de  [René Magritte](http://fr.wikipedia.org/wiki/Ren%C3%A9_Magritte) pour vous parler d'un mail reçu par un collègue il y a peu. Ce mail représente une tentative de hameçonnage (phishing en anglais), dont j'ai déjà donné la [définition](http:/blog/dangers-du-net-le-phishing/) il y a un moment.
 
-<!-- more -->
+<!--more-->
 
 Ce mail n'a bien sûr rien à voir avec la CAF. En cliquant sur le lien fourni,  la victime arrive sur une page qui imite le site de la CAF et l'incite à entrer des informations confidentielles. Nul doute que quelqu'un de mal attentionné passera après pour détourner ses prestations sociales…
 

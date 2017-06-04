@@ -16,7 +16,7 @@ section: default
 
 2015 n'était pas une année très agréable pour énormément de raisons. Pour que 2016 soit différente, j'ai décidé de m'imposer quelques objectifs que je considère atteignables. Qui sait, dans douze mois, peut-être aurais-je quelques victoires à annoncer !
 
-<!-- more -->
+<!--more-->
 
 ## Dégager plus de temps en dehors du travail
 

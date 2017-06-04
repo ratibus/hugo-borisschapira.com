@@ -13,7 +13,7 @@ section: papa
 
 Ou comment se retrouver en plein Agatha Christie avec deux garçons.
 
-<!-- more -->
+<!--more-->
 
 Tout commence un soir. Ma femme range un truc en bas, les enfants étant monté se mettre en pyjama. Soudain, des pleurs. Elle monte quatre à quatre. Des petits cheveux partout sur le sol de la salle de bain, une mèche entre les doigts de l'aîné : il pleure parce que le petit lui aurait coupé les cheveux. Elle questionne le petit, qui confirme, puis pointe ce qu'il a utilisé : un coupe-ongle, une pince à épilée et enfin le ciseau à ongles. 
 

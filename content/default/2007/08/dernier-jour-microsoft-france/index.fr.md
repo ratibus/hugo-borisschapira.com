@@ -13,7 +13,7 @@ section: default
 
 Comme vous pouvez le constater, c'est dur. Surtout quand il faut libérer des bras pour saisir les cadeaux… Tous les gens que j'ai rencontré m'ont posé les mêmes questions, alors autant donner les réponses ici.
 
-<!-- more -->
+<!--more-->
 
 **Oui, les consultants de Microsoft sont très bons**. Si on ajoute que la culture de l'entreprise axe le métier vers la satisfaction et l'exigence, on peut dire qu'ils valent ce qu'on les facture.
 

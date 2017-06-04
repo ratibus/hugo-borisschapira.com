@@ -15,7 +15,7 @@ section: default
 
 _**Notes from a Big Country** est un hilarant recueil d'articles écrits par Bill Bryson pour __The Mail on Sunday's Night and Day pendant les années 90's. Chaque colonne de Bryson explique un point particulier de la culture américaine, vu par un américain de retour dans son pays après 20 ans d'expatriation._
 
-<!-- more -->
+<!--more-->
 
 Je n'avais pas prévu de lire ce livre. Ma femme, grande lectrice d'ouvrages en anglais, l'a acheté avant notre départ en vacances et je lui ai emprunté. C'est peut-être un des livres les plus drôles que j'ai lu. Je vous le conseille vivement, et vous garantis **au moins un éclat de rire par page**. Évidemment, je ne saurais que trop vous conseiller la lecture en anglais. Le niveau de langue est relativement accessible et certaines expressions et tournures sont tout simplement intraduisibles.
 

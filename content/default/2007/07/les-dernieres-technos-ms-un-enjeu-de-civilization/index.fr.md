@@ -23,7 +23,7 @@ section: default
 
 Il y a quelques jours sont venus dans les locaux de Microsoft des enseignants en informatique pour une formation [CERPET](http://eduscol.education.fr/pid31532/stages-cerpep-de-formation-en-milieu-professionnel.html) (un réseau de formation des professeurs en partenariat avec des entreprises de haut niveau, sous la gouvernance du Ministère de l'Education Nationale).
 
-<!-- more -->
+<!--more-->
 
 .NET Framework, Windows Forms, C#, ADO.NET, ASP.NET, .NET 3.0… Nous avons essayé d'être exhaustifs.
 

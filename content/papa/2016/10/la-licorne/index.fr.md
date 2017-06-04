@@ -13,7 +13,7 @@ section: papa
 
 Le grand a pris l'habitude de ranger sa chambre en musique. Au bout de dix minutes, il descend pour demander un morceau particulier.
 
-<!-- more -->
+<!--more-->
 
 > – Papa, tu peux mettre la Reine des Neiges en anglais ? Avec la licorne !  
 > – La licorne ? Mais il n'y a pas de licorne dans la Reine des Neiges.  

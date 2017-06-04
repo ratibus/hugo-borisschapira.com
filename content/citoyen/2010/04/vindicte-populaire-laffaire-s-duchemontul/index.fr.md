@@ -15,7 +15,7 @@ section: citoyen
 
 Personne ne se serait intéressé à S. Duchemontul si on n'avait pas arrêté sa femme au volant pour **conduite en état d'ivresse**. Depuis, c'est la folie médiatique. La France entière semble se passionner pour ce cheminot qui, il faut bien le dire, attire à lui toutes les inimitiés…
 
-<!-- more -->
+<!--more-->
 
 D'abord, on s'est rendu compte qu'elle buvait à cause de lui, parce qu'il avait des **maitresses**. Ensuite, le père de la jeune femme a témoigné que Mr Duchemontul l'avait **gifflé** à plusieurs reprises, notamment durant leurs disputes conjugales. Pire, il aurait **enfermé plusieurs heures leurs enfants** pour leur faire réciter des pans entiers de la **Bible**, qu'ils ne maitrisaient selon lui pas assez pour passer leur première communion.
 

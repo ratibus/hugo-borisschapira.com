@@ -22,7 +22,7 @@ section: default
 
 [Romy](http://romy.tetue.net/ "Romy, conceptrice web, parisienne et têtue"), [Delphine](http://nissone.com/ "Delphine, responsable qualité Web") et [Rémi](http://www.hteumeuleu.fr/ "Rémi, intégrateur Web passionné") ont animé un atelier en deuxième journée de [Sud Web 2014](http://sudweb.fr/2014/ "Sud Web 2014") sur l'enseignement de l'intégration Web dont Rémi a déjà fait [un résumé sur son blog](http://www.hteumeuleu.fr/comment-enseigner-integration-web/ "&quot;Comment enseigner l’intégration web&nbsp;?&quot; &quot;, HTeuMeuLeu"). J'ai moi aussi été interpellé par la question, ayant déjà enseigné le développement Front-End auprès de jeunes adultes comme de professionnels en formation continue.
 
-<!-- more -->
+<!--more-->
 
 Les pièges à éviter, selon moi&nbsp;:
 

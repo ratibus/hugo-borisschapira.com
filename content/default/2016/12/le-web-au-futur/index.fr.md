@@ -21,7 +21,7 @@ Si cet article vous plait, n'hésitez pas à me remercier d'une des façons suiv
 + embauchez, recommandez, rémunérez des femmes et incitez-les à s'organiser et s'auto-promouvoir, par exemple via [Girlz In Web](http://girlzinweb.com/) ;
 + formez-vous à la qualité, l'accessibilité ou l'écriture inclusive pour essayer de produire chaque jour un Web plus ouvert.
 
-<!-- more -->
+<!--more-->
 
 ***
 

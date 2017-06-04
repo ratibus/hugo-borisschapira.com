@@ -16,7 +16,7 @@ section: citoyen
 
 _Honte, scandale, malheur : Martine Aubry, fille de Jacques Delors, serait arrivée au pouvoir en faisant jouer ses relations et l'influence de son père&nbsp;!_
 
-<!-- more -->
+<!--more-->
 
 Jugez plutôt son parcours, et vous comprendrez&nbsp;:
 

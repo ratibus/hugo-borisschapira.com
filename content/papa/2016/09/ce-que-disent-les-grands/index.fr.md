@@ -13,7 +13,7 @@ section: papa
 
 Ce soir, le grand a débarassé la table à la demande de sa mère, en ne se trompant pas. Il a d'abord empilé les couverts, puis les assiettes en mettant l'assiette remplie de couverts sur le dessus, comme cela se fait. Nous étions bouche bée.
 
-<!-- more -->
+<!--more-->
 
 > — C'est très bien chéri, tu peux être fier de toi.  
 > — Mais j'ai fait ce que Papa et Maman ont dit.  

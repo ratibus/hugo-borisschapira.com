@@ -14,7 +14,7 @@ section: default
 
 _Je viens de finir de lire "Kiffe kiffe demain". Je l'ai vu l'autre jour en presse et le titre m'a rappelé un reportage télé sur Faïza Guène, l'auteur. Il paraitrait que c'est un des livres français les plus lus à l'étranger. Il fallait donc que je le lise. L'envie de savoir ce qu'on pouvait lire de français dans les autres pays…_
 
-<!-- more -->
+<!--more-->
 
 Le roman ne m'a pas laissé indifférent, mais ne m'a pas emballé. Il raconte une année (celle des 15 ans) dans la vie d'une jeune fille (Doria) des citées pleine de désillusions. Malgré l'humour (sarcastique) omniprésent, les situations sont souvent pleines de tristesse et de si petits espoirs qu'on ne les voit même pas. À côté de ça, le ton est très cynique envers toute population qui ne viendrait pas de la cité, qu'elle soit purement immigrée (bonjour la vision du bled) ou franco-normade. Comme si c'était forcément tout rose ailleurs et que ne pas naitre dans la citée impliquait obligatoirement d'avoir le cul bordé de nouilles et de s'appeler Ducon, Trouduc, Fatma ou Mohammed.
 

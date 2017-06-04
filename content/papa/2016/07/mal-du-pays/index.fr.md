@@ -13,7 +13,7 @@ section: papa
 
 Quinze jours loin de la maison, c'est long pour un petit bonhomme de 3 ans.
 
-<!-- more -->
+<!--more-->
 
 > — On s'habille, mon petit chat.  
 > — Non, ye veux pas m'habiller ! Ye veux rentrer à la maison.  

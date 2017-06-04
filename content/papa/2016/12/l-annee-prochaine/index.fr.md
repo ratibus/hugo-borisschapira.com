@@ -13,7 +13,7 @@ section: papa
 
 Il est 04h15 et, aussi rare que cela soit, mon grand chuchote.
 
-<!-- more -->
+<!--more-->
 
 > — Papa… Papa…  
 > — [Grognement étouffé d'un wookie au réveil]  

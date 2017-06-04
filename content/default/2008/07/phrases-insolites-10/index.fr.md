@@ -16,7 +16,7 @@ section: default
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
-**<!-- more -->
+**<!--more-->
 
 Get over yourself**
 Tu sais Bruno, il y a dans le monde des actions autrement plus signifiantes que celles que tu réalises au bénéfice de ta propre personne.

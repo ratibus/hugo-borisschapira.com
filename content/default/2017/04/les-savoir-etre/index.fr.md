@@ -17,7 +17,7 @@ Au fil des années, j'ai donc établi une grille d'évaluation personnelle qui m
 
 *Avertissement* : je ne suis pas responsable des ressources humaines, rien n'est absolu ou gravé dans le marbre et j'ai déjà donné des avis favorables sur des personnes qui ne rentraient absolument pas dans ces critères. Dans l'absolu, je recommande toujours de faire l'entretien à deux ou d'inviter la candidate ou le candidat pour un second entretien avec une autre personne sans lui transmettre mon avis en amont pour éviter de l'influencer.
 
-<!-- more -->
+<!--more-->
 
 ## Quelques signes que le ou la candidate "joue le jeu"
 

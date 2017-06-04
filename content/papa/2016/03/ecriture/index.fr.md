@@ -13,7 +13,7 @@ section: papa
 
 Sur mon bureau, pas de stylos. L'écriture cursive ne me sert plus qu'à signer des chèques et écrire des adresses sur des enveloppes, une fois tous les deux mois. Bien que son enseignement à l'école soit nécessaire pour le développement de la motricité fine, je regrette qu'elle soit la seule piste là où d'autres pays, comme la Finlande, l'ont déjà abandonné.
 
-<!-- more -->
+<!--more-->
 
 Hier, à sa demande, nous avons ouvert pour les 4e fois l'éditeur de texte de l'ordinateur : plein écran, police taille 38, majuscules forcées. Je tape "ROBOT", saute une ligne. Il tape ensuite en suivant le modèle. À côté de lui, je lui explique où il en est : "Rrrr", "Ro", "Rob", "Robo, mais attention, il y a une dernière lettre qu'on ne prononce pas mais qu'il faut mettre quand même"…
 

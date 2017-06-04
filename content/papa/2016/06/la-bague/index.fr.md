@@ -13,7 +13,7 @@ section: papa
 
 L'aîné prend la douche avec sa mère et prend conscience qu'elle a gardé son alliance.
 
-<!-- more -->
+<!--more-->
 
 > – Maman, pourquoi tu gardes ta bague dans la douche ? Tu peux pas l'enlever ?  
 > – Si mais tu sais, c'est la bague que Papa a offert quand on s'est marié, je ne l'enlève jamais.  

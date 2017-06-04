@@ -16,7 +16,7 @@ section: default
 ---
 
 Une Ecole d'Ingénieurs m'a récemment proposé d'animer, à la rentrée 2009, une conférence sur le métier de Consultant IT/Finance. Cela me laisse assez perplexe…
-<!-- more -->
+<!--more-->
 S'il y a bien un métier dont la définition est floue, c'est celui-ci. Le consultant est, au strict sens du terme, un intervenant extérieur à l'entreprise qui formule des recommandations basées sur son analyse de la situation et son expérience. Mais en pratique, le consultant agit assez régulièrement comme superviseur voire comme acteur du projet issu de ces recommandations.
 
 Et quand on sait que seuls 32 % des projets IT sont réalisés dans le temps prévu, avec le budget voté et toutes les fonctionnalités demandées (cf.  Standish Group Chaos Report 2009), on se rend compte que le lancement d'un projet est le début d'une grande aventure…

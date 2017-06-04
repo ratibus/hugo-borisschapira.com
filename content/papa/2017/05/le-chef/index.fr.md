@@ -13,7 +13,7 @@ section: papa
 
 J'explique aux enfants le concept des "présidentielles", puisqu'ils posent la question pour la dixième fois.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, moi je voulais que c'est toi, le chef de la France !  
 > — Ah c'est gentil, chéri, mais je ne saurais pas comment faire. C'est très dur, d'être Président. Il faut le vouloir, se faire connaitre…  

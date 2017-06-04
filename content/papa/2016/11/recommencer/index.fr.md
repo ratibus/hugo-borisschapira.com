@@ -13,7 +13,7 @@ section: papa
 
 Ce soir, le petit est bougon.
 
-<!-- more -->
+<!--more-->
 
 > — Allez, enlève ton manteau chéri, on va diner !  
 > — Non ye veux pas enyever mon manteau, ye veux etommencer la journée !  

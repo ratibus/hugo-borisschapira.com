@@ -13,7 +13,7 @@ section: papa
 
 Pour le dessert, il n'y a jamais de problème. Ils savent être insistants.
 
-<!-- more -->
+<!--more-->
 
 > — Maman, je peux avoir ma poire ?  
 > — Attends, je parle avec Papa.  

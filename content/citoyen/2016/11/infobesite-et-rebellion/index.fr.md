@@ -15,7 +15,7 @@ section: citoyen
 
 Trois lectures qui se font écho et rappellent que seule l'éducation permet de se prémunir contre l'émergence de comportements issus de situations d'impuissance.
 
-<!-- more -->
+<!--more-->
 
 ***
 

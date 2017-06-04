@@ -14,7 +14,7 @@ section: default
 
 _En sortant de la dernière Mixblog, j'ai reçu comme chaque blogueur un sac contenant un certain nombre de cadeaux dont une boite **BitDefender Internet Security 2010**. Même si je ne suis pas un professionnel des antivirus, je tenais à remercier BitDefender en installant BIS 2010 sur mon Windows 7…_
 
-<!-- more -->
+<!--more-->
 
 Me voilà donc devant la boite pleine de promesses (BIS 2010 se vantant de vous protéger d'à peu près tous les dangers). Il y a écrit en gros "2 ans de mises à jour". Visiblement, cela inclut les mises-à-jours des définitions au quotidien mais aussi les changements de versions et l'assistance. Pour 60€ à la Fnac (j'ai regardé), **le prix me semble être raisonnable**, d'autant que BIS 2010 peut protéger trois PC pendant cette durée, ce qui ramène le coût de protection à **moins d'un euro par mois** si on en profite à fond.
 

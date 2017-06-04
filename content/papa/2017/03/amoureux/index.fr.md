@@ -13,7 +13,7 @@ section: papa
 
 Le grand pose pas mal de questions sur l'amour et le couple que nous constituons, avec sa mère.
 
-<!-- more -->
+<!--more-->
 
 > — … vous aimez la même chose donc vous êtes amoureux Papa et Maman !  
 > — Ah non chéri, on peut être amoureux sans aimer la même chose.  

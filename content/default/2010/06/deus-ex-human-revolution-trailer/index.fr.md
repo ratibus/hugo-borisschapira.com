@@ -15,7 +15,7 @@ section: default
 
 Deus Ex est un excellent jeu, sorti sur PC et Mac en 2000, utilisant de manière novatrice le FPS en y incorporant d'importants éléments de RPG, le tout dans un monde cyber-punk cohérent et autour d'une trame bien ficelée. Dix ans plus tard arrive le troisième opus de la série….
 
-<!-- more -->
+<!--more-->
 
 <div class="videoWrapper">
   <iframe width="420" height="315" src="https://www.youtube.com/embed/WAbrjtFbVQ4" frameborder="0" allowfullscreen></iframe>

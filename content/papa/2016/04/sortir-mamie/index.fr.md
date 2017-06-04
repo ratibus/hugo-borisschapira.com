@@ -13,7 +13,7 @@ section: papa
 
 Il me dirige sur le chemin qui amène de chez sa Mamie à chez son arrière grand-mère, "Mémé".
 
-<!-- more -->
+<!--more-->
 
 À un moment, il se trompe et nous partons sur la mauvaise route. Je décide donc de lui faire remarquer :
 

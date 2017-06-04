@@ -16,7 +16,7 @@ section: default
 
 Dans cette série d'articles de vulgarisation sur les dangers du Net, nous allons commencer par aborder le <em lang="en">Phishing</em>,
 
-<!-- more -->
+<!--more-->
 
 ## Description
 

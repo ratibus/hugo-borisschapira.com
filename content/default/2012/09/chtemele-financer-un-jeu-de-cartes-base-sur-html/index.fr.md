@@ -16,7 +16,7 @@ section: default
 
 Olivier Chambon, aka Babozor, que beaucoup connaissent via son [podcast](http://www.lagrottedubarbu.com/) ou son [blog](http://www.travailleursduweb.com/), tente à partir d'aujourd'hui une levée de fond sur Ulule pour produire le premier jeu de plateau basé sur HTML.
 
-<!-- more -->
+<!--more-->
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2012-09-11/1.jpg" title="Voir en plus grand">

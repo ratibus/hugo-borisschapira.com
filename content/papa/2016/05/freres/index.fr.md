@@ -13,7 +13,7 @@ section: papa
 
 Les accidents de la vie font que Mythomane et Mégaphone sont séparés pour quelques jours. L'un est avec nous, l'autre est chez sa grand-mère. Chaque jour, nous nous appellons. Aujourd'hui, Mythomane m'a arraché le téléphone des mains pour donner des consignes à son frère (et y glisser quelques messages subliminaux).
 
-<!-- more -->
+<!--more-->
 
 > — Coucou !  
 > — Toutou !  

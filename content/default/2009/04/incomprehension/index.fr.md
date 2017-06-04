@@ -14,7 +14,7 @@ section: default
 
 La barrière de la langue est parfois infranchissable. Mais parfois, l'émotion suffit.
 
-<!-- more -->
+<!--more-->
 
 Ils sont quatre : deux hommes, deux femmes. Assis côte-à-côte sur les sièges verdâtres en plastique thermo-formés, ils regardent devant eux. L'une des femmes a un long manteau de laine vert foncé. Les hommes sont en jeans et vestes en cuir usé. Les femmes ont les larmes au bord des yeux. Les hommes semblent plus fiers, se tiennent droit et essaient de ne pas avoir l'air concerné. Je n'arrive pas à comprendre les mots qu'ils échangent, mais je crois reconnaitre des consonances slaves. Serbo-croates, slovènes… bulgares, peut-être ?
 

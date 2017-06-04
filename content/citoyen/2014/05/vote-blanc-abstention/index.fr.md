@@ -23,7 +23,7 @@ section: citoyen
 
 Nous avons une grande tendance, en France, à sacraliser le vote. Peut-être s'est-on tellement battu pour l'avoir que nous considérons qu'il s'agit du seul mécanisme d'expression citoyenne. Cela nous a amené, au fil des années, à négliger les indécis. Sauf que…
 
-<!-- more -->
+<!--more-->
 
 L'importance du processus démocratique est de faire un choix conscient. Ne sélectionner aucun des candidats est un choix, qu'on se déplace pour l'exprimer ou qu'on le fasse depuis chez soi. Les seuls personnes qui ne remplissent pas leur devoir citoyen sont celles qui ne prennent aucune décision (y compris celle de ne pas choisir volontairement). Mais il est impossible de savoir quel pourcentage des abstentionnistes elles représentent. **C'est tout le sens du vote blanc&nbsp;: démarquer les indécis volontaires de ceux qui veulent manifester leur découragement face aux alternatives qui leur sont proposées.**
 

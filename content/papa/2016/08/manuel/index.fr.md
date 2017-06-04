@@ -13,7 +13,7 @@ section: papa
 
 On oublie parfois qu'entre ce qu'on dit aux enfants et ce qu'ils comprennent, il y a un monde…
 
-<!-- more -->
+<!--more-->
 
 > — Avec Mamie, on a fait le travail du chantier.  
 > — Le travail du chantier ?! Le chantier de Papy ?  

@@ -18,7 +18,7 @@ Je rentre dans le bus et m'installe. Comme tous les jours, je porte un casque qu
 
 _Pour ne pas heurter la sensibilité des plus jeunes, je prends sur moi de remplacer l'intégralité de son discours par des métaphores à base de nourriture…_
 
-<!-- more -->
+<!--more-->
 
 > […] et là, tu vois, je lui mets ma Knacki dans la casserole du chocolat alors elle crie, parce que c'est pas là qu'on met les Knacki, tu vois […]
 

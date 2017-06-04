@@ -16,7 +16,7 @@ section: default
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
-<!-- more -->
+<!--more-->
 
 ## Try Catch Fail
 

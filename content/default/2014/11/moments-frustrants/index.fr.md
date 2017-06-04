@@ -18,7 +18,7 @@ Paris Web 2014 était un bel événement. Si vous n'avez pas encore lu [le beau 
 
 Dans ce petit article supplémentaire et plus personnel, je voulais parler de deux conférences et d'un atelier qui m'ont laissé une impression mitigée. Très intéressantes sur le fond, elles ont été trop ambitieuses sur la forme.
 
-<!-- more -->
+<!--more-->
 
 Je me suis retrouvé un peu par hasard dans la conférence **"[Convivialité des interfaces des réseaux sociaux et spécificités culturelles](http://www.paris-web.fr/2014/conferences/convivialite-des-interfaces-des-reseaux-sociaux-et-specificites-culturelles.php)" de Léonie Marin**, qui sortait des sentiers battus. Léonie venait témoigner de son retour d’expérience après avoir observé l’utilisation des réseaux sociaux dans certains pays d'Afrique et en Nouvelle-Calédonie. Modification des relations familiales, transfert des sphères d’influence, ouverture de la parole selon des modes de communication qui sont profondément liés aux valeurs des peuples… J'ai tellement apprécié ce moment que j'ai fini par me sentir triste. De ne pas tout comprendre, d'abord, notamment dans la phase de questions/réponses, mais aussi que ça termine comme cela. J'en aurais voulu moins ou davantage, mais j'ai trouvé que ce qui était présenté ouvrait trop de portes pour un complet néophyte.
 

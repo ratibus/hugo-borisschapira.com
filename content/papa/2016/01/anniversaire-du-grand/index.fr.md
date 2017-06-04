@@ -14,7 +14,7 @@ section: papa
 
 Ils était 3 selon la Police, 27 d'après les organisateurs.
 
-<!-- more -->
+<!--more-->
 
 <figure>
   <a data-featherlight="image" href="/assets/images/papa/2016-01-16/1.gif" title="Voir en taille réelle">

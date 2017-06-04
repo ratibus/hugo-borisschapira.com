@@ -13,7 +13,7 @@ section: papa
 
 Discussion avec le grand, 5 ans, à propos de sa marraine qui vit en Australie.
 
-<!-- more -->
+<!--more-->
 
 > — … Et apres, on prendra l'avion et on ira voir Marraine !  
 > — Tu te rappelles où elle habite Marraine ?  

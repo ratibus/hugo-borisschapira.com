@@ -15,7 +15,7 @@ Despote, 3 ans, se regarde fixement dans le miroir.
 
 > Je ne les trouve pas.
 
-<!-- more -->
+<!--more-->
 
 Intrigué, je veux l'aider.
 

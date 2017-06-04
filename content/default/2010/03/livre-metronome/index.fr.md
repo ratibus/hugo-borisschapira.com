@@ -15,7 +15,7 @@ section: default
 
 Il y a quelques années, j'étais allé voir [Victor les enfant au pouvoir](http://www.agoravox.fr/culture-loisirs/culture/article/victor-ou-les-enfants-au-pouvoir-29501), avec Lorànt Deutsch. À la fin de la représentation, mon père avait emmené ma grand-mère et mes frère et sœur rencontrer les acteurs, dont Deutsch lui-même. Sa rencontre les avait enchantés et j'ai toujours gardé depuis une certaine sympathie pour l'acteur.
 
-<!-- more -->
+<!--more-->
 
 En ramenant le camion à Paris après mon déménagement à Bordeaux, je me suis retrouvé à écouter "C'est quoi ce bordel", une hilarante émission de Laurent Baffie où étaient invités Geneviève de Fontenay, les frères Bogdanoff et Lorànt Deutsch pour parler de Paris et de son histoire.
 

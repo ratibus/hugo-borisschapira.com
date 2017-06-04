@@ -17,7 +17,7 @@ section: default
 
 Microsoft a présenté hier, lors du Mobile World Congress, son nouveau système d'exploitation pour mobiles nommé **Windows Phone 7 Series**. Avec son interface prometteuse, ses concepts d'utilisation inédits et sa forte intégration de composants Web en temps réel, l'OS a séduit sans révolutionner. Mais concernant les applications, le flou reste total…
 
-<!-- more -->
+<!--more-->
 
 L'interface, doté d'un design carré très original, se manipule via un défilement vertical ou horizontal suivant le contexte. L'écran d'accueil, très personnalisable, présente des vignettes claires reliées à Internet pour une actualisation des données en temps réel. Elles permettent d'activer des fonctionnalités du téléphone comme les "hubs", des endroits où vous accédez à tous vos éléments d'un même type (contacts, médias, applications…). Un effort particulier a été accordé à la lisibilité et à l'ergonomie et on note une forte intégration du contexte dans la navigation qui rappelle, et c'est bien normal, Zune ou Windows Media Player. Une sorte de téléphone intelligent et sensible, qui s'adapte à l'utilisateur en fonction de ses habitudes, de son réseau social et de sa position. Reste à voir ce que cela donnera à l'utilisation.
 

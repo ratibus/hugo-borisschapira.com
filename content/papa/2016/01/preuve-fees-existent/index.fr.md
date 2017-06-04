@@ -14,7 +14,7 @@ section: papa
 
 Nous achetons des couches "garçon" et "fille" pour notre fils de 5 ans qui, j'estime, a le droit d'aimer à la fois les motos, les dinosaures, les danseuses et les fées. Curieusement, les paquets de couches "fille" sont systématiquement 15&thinsp;cts plus chers que celles pour garçon.
 
-<!-- more -->
+<!--more-->
 
 Sachant que les motos sont des objets et que les dinosaures ont disparu, que les danseuses regroupent une activité de loisir qui ne saurait être incriminée, je n'ai abouti qu'à une seule conclusion logique :
 

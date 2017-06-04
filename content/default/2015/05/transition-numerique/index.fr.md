@@ -28,7 +28,7 @@ section: default
 
 La **P**resse **Q**uotidienne (éventuellement **R**égionale) est un formidable terrain d'expérimentation pour une transition numérique pleinement assumée&nbsp;: souffrant d'un modèle historique "papier" se détachant de plus en plus des usages de ses lecteurs, mise sous pression par des acteurs du Web comme Google et souffrant d'une dépendance très forte à la publicité, la Presse a désespéramment besoin de renouveler sa stratégie d'affaire et cela semble définitivement passer par le numérique.
 
-<!-- more -->
+<!--more-->
 
 Ce changement de paradigme est un vrai bouleversement pour les salariés qui peuvent y perdre leurs repères et pour certains, leurs emplois. On m'a ainsi parfois reproché que l'accompagnement que j'offre quotidiennement à mes clients était destructeur et si l'on ne regarde la réalité que par cet angle, c'est probablement vrai pour tout un ensemble de personnes qui ne voudront ou ne pourront pas s'adapter. Je n'ai jamais été témoin d'un tel problème mais je n'ai pas d’œillère&nbsp;: je sais que cela doit arriver et je suis content qu'avec la mise en place du CPF, on se donne les moyens de former tout au long de la vie.
 

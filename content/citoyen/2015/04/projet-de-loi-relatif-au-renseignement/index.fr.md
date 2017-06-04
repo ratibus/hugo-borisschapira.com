@@ -23,7 +23,7 @@ Ce projet m'inquiète pour de nombreuses raisons qui se résument rapidement en&
 4. Légalisation de pratiques actuellement illégales des services de renseignement (les mecs ont fait une connerie, donc on décrète que la connerie n'en est plus une… logique)
 
 Je ne suis pas le seul à craindre ce texte.
-<!-- more -->
+<!--more-->
 
 La liste des opposants est longue, dont des gens qui savent _a priori_ de quoi ils parlent&nbsp;:
 

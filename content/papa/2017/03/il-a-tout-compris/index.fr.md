@@ -13,7 +13,7 @@ section: papa
 
 Mon petit dernier vient d'apprendre à faire un cœur avec ses doigts. Il voudrait savoir le découper dans une feuille de papier…
 
-<!-- more -->
+<!--more-->
 
 > — Papa, je vais te faire un cœur !  
 > — Ça me ferait plaisir !  

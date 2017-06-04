@@ -17,7 +17,7 @@ Tous les enseignants ont vécu ce moment. Parfois, lors de la première répéti
 
 > Je ne maîtrisais pas réellement le sujet avant de devoir l'enseigner
 
-<!-- more -->
+<!--more-->
 
 Une erreur commune est de croire que la maîtrise d'un sujet implique sa productivité sur un projet le concernant. Ce sont en réalité deux choses profondément différentes. L'une fait appel à la raison, l'autre à l'intuition, et cela fait toute la différence entre un chef de projet et un expert en développement.
 

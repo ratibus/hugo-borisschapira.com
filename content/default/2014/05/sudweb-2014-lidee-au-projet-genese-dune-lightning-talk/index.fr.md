@@ -28,7 +28,7 @@ Il y a quelques mois, j'ai soumis une idée pour un <em lang="en">[Lightning Tal
 
 Ma participation m'a été confirmée il y a quelques semaines, mais je n'avais pas le temps de m'occuper d'y penser, donc j'ai remis ça à plus tard. Nous sommes le 21 avril, un peu moins d'un mois avant Sud Web. Il est temps de réfléchir aux imbécilités que je vais énoncer devant les 150 pauvres âmes qui devront me supporter pendant 5 minutes ce jour-là.
 
-<!-- more -->
+<!--more-->
 
 ### J-25&nbsp;: L'idée
 

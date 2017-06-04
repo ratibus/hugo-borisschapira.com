@@ -13,7 +13,7 @@ section: papa
 
 Libellule attend avec l'aîné dans la salle d'attente de l'orthophoniste. 
 
-<!-- more -->
+<!--more-->
 
 Soudain, il hurle en pointant le papa d'un autre patient :
 

@@ -16,7 +16,7 @@ section: citoyen
 
 Je suis revenu du travail vers 20h, pour être sûr de ne pas rater le débat présidentiel. Les chroniqueurs radio commentaient les préparatifs du débat. Comment sont-ils placés, comment sont-ils habillés, quelles sont les petites phrases tactiques qu'ils sortiront au moment voulu… placement, maillot, tactique… un vrai match de foot.
 
-<!-- more -->
+<!--more-->
 
 Désormais je regarde le débat. Les candidats s'attaquent et se répondent. Nous commentons en couple les idées lancées, mêmes si la plupart sont déjà connues. Les termes employés frôlent le sportif&nbsp;: "Untel est sur la défensive", "Untel attaque", "Untel contre-attaque", "Untel se ne laisse pas dominer", "Untel feinte", "Untel s'énerve"…
 

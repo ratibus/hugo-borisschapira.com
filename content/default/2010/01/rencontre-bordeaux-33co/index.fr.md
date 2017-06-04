@@ -20,7 +20,7 @@ En tant que consultant pour [Clever-Age Bordeaux](http://www.clever-age.com/fr/a
 
 C'est tout bête, mais il paraît que ça marche assez bien.
 
-<!-- more -->
+<!--more-->
 
 Je me suis inscrit sur le [Hub Viadeo "Bordeaux 33&nbsp;: Carrières et Opportunités"](http://fr.viadeo.com/fr/groups/?containerId=0021ve6urf16tmgs) (en fait j'étais déjà inscrit depuis un moment mais pour être parfaitement honnête, je lisais les publications d'un œil distrait) et me suis rendu ce soir à une réunion de ses membres. Arrivé avec une heure de retard (je ne suis pas vraiment habitué à finir de travailler tôt et c'est encore pire quand Mme Schapira n'est pas là pour me motiver à rentrer à la maison), j'ai raté la partie 'Buzz' de l'évènement, celle où, à l'image d'un Speed Dating, les personnes changent de table régulièrement pour se rencontrer. J'ai donc passé une heure et demi avec les mêmes personnes (très agréables et intéressantes par ailleurs).
 

@@ -17,7 +17,7 @@ section: default
 
 Il y a peu se tenait la soirée de rentrée Microsoft Hardware, en l’honneur de la 25<sup>ème</sup> année de présence de la marque dans le domaine du matériel informatique. Manque de chance pour l'effet de surprise, la plupart des gens présents faisaient déjà partie de la "sphère" Microsoft. Mais si les surprises n’en étaient pas vraiment, cela ne nous a pas empêché de contempler les tueries qu'on nous annonçait depuis quelques mois.
 
-<!-- more -->
+<!--more-->
 
 Parmi les produits présentés, deux ont retenu mon attention&nbsp;: le clavier sans fil haut de gamme Wireless Desktop Entertainment 8000 et la souris avec/sans fil Mobile Memory Mouse 8000 (ce qui est très original puisque 99 % des blogueurs présents ce soir-là ont flashé sur… exactement les mêmes produits).
 

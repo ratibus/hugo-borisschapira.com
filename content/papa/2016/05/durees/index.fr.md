@@ -13,7 +13,7 @@ section: papa
 
 Il est toujours intéressant de mesurer le temps passé par mon petit dernier suivant les activités.
 
-<!-- more -->
+<!--more-->
 
 * écouter ce que je lui dis : **½ minute** ;
 * dessiner avec un crayon et du papier : **6 minutes** ;

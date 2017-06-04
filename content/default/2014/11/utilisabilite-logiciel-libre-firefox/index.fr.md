@@ -18,7 +18,7 @@ section: default
 
 Chrome est mon navigateur principal. À croire que [Bruce Lawson ne m'a rien appris sur la monoculture](http://vimeo.com/52171395 "&quot;Oh IE6 how we loved you&quot;, Bruce Lawson &quot;, Sud Web 2012") mais que voulez-vous, j'ai pris des habitudes. Un matin, il y a quelques semaines, j'ai pris la décision de migrer mes profils vers Firefox, afin d'envisager avec davantage de recul mon outillage Web et revenir vers une initiative que je soutiens fortement depuis des années par des dons ou en faisant la promotion.
 
-<!-- more -->
+<!--more-->
 
 Une des fonctionnalités que je préfère sous Chrome est la gestion des profils. Très bien pensée, elle permet de basculer en un clic d'un profil synchronisé à un autre, et d'avoir plusieurs sessions simultanées synchronisées sur des profils différents. Je gère ainsi de manières complètement différentes mes profils personnel et professionnel ainsi qu'un profil spécifique pour ma femme (et je pense créer bientôt un profil pour les enfants pour éviter d'avoir _Tchoupi_ et _Trotro_ dans mon historique Youtube en permanence, les parents comprendront).
 

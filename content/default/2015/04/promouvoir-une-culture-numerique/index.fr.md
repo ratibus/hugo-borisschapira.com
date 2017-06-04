@@ -18,7 +18,7 @@ section: default
 
 Je suis profondémment convaincu que **le numérique est une des clés de la croissance française et mondiale**. Nous avons la chance d'avoir une infrastructure formidable, un bon niveau de formation et un taux d'équipement à la hauteur. Rien ne s'oppose donc, _en théorie_, à une transition numérique des entreprises et des pratiques.
 
-<!-- more -->
+<!--more-->
 
 Rien, sauf une culture du numérique globalement défaillante au sein de la population. Cela se traduit par une **vision complètement paradoxale du numérique**. D'un côté, j'ai l'impression d'une très grande immaturité des personnes et des organisations&nbsp;: divulgation d'informations personnelles sur les réseaux sociaux ; entreprises qui se jettent à corps perdu sur Facebook sans savoir ce qu'elles y font ; nouvelle bulle French Tech qui finance des start-ups aux propositions de valeur nulles. De l'autre coté du miroir se manifestent les craintes les plus fortes, soulevées soit par un profond obscurantisme, soit par une volonté de contrôle désormais illusoire&nbsp;: manipulations politiques, mise sous surveillance généralisée du Web, résistance à l'innovation économique quand elle est destructrice de rentes ou de monopoles.
 

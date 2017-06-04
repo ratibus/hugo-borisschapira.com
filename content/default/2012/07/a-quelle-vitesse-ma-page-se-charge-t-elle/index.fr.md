@@ -16,7 +16,7 @@ section: default
 
 Cette question est à la base de toute stratégie de WebPerf et pour autant, elle n’admet aucune bonne réponse. Alors comment mesurer la performance Web&nbsp;?
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [WebPerf&nbsp;: "A quelle vitesse ma page se charge-t-elle&nbsp;?"](http://blog.clever-age.com/fr/2012/07/31/webperf-a-quelle-vitesse-ma-page-se-charge-t-elle/).</em>
 

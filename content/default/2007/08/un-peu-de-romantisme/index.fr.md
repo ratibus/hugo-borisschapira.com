@@ -14,7 +14,7 @@ section: default
 
 Comme quoi on peut faire une belle pub avec des jeunes qui s'aiment et ça fait plaisir. Par contre je préfère quand même la version rédigée à la version orale…
 
-<!-- more -->
+<!--more-->
 
 Merci à [l'équipe de com' de Clairefontaine](http://www.clairefontaine.com/communication/actualites-evenements/), qui devrait penser à un partenariat avec Skyblog.
 

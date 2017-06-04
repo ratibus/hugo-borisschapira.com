@@ -19,7 +19,7 @@ Cela fait un petit moment que je n’avais pas vu de challenger sérieux aux Dev
 
 Une fois n’est pas coutume, c’est Microsoft qui s’apprête à donner un coup dans la fourmilière avec le [F12 de IE11](http://msdn.microsoft.com/en-us/library/ie/bg182632(v=vs.85).aspx).
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [F12 de IE11&nbsp;: du nouveau pour les développeurs](http://blog.clever-age.com/fr/2013/07/02/f12-de-ie11-du-nouveau-pour-les-developpeurs/).</em>
 

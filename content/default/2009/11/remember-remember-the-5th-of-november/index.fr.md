@@ -14,7 +14,7 @@ section: default
 
 _**Frednetick **se posait hier la question «[Et si l'on se passait du Parlement&nbsp;?](http://frednetick.fr/)». Hasard du calendrier, il a un jour d'avance (ou beaucoup de retard) sur **Guy Fawkes**, qui lui-même avait décidé de [prendre les choses en main](http://fr.wikipedia.org/wiki/Conspiration_des_poudres) dès 1605…_
 
-<!-- more -->
+<!--more-->
 
 > "I've witnessed first hand the power of ideas, I've seen people kill in the name of them, and die defending them… but you cannot kiss an idea, cannot touch it, or hold it… ideas do not bleed, they do not feel pain, they do not love… And it is not an idea that I miss, it is a man… A man that made me remember the Fifth of November. À man that I will never forget."  
 > Evey Hammond, _V for Vendetta (2005)_

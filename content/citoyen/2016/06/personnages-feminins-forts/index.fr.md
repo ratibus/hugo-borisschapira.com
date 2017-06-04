@@ -18,7 +18,7 @@ section: citoyen
 
 Plus jeune, j'ai énormément apprécié le personnage de Buffy Summers et je pense que cela a profondément changé la façon dont je perçois la <span lang="en">Pop Culture</span>.
 
-<!-- more -->
+<!--more-->
 
 <figure>
   <img src="/assets/images/2016-06-26/1.gif" alt="Gros plan sur les yeux de Buffy, regard noir" />

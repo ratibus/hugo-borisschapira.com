@@ -15,7 +15,7 @@ Jour de rentrée. Tout se passe bien, les enfants sont prêts. Quand soudain arr
 
 > Moi, je ne veux pas aller à l'école.
 
-<!-- more -->
+<!--more-->
 
 Nous y voilà donc. Que répondre ? Que c'est une obligation ? Au nom de quoi, et comment l'expliquer ? J'ai donc pris le parti inverse.
 

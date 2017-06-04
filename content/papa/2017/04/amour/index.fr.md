@@ -13,7 +13,7 @@ section: papa
 
 Un jour, mon petit sera grand. Un jour, il aura quelqu'un dans sa vie. 
 
-<!-- more -->
+<!--more-->
 
 Je ne souhaite qu'une chose à cette personne : qu'il s'occupe d'elle avec la même dévotion et la même minutie qu'il consacre aujourd'hui à tartiner son pain.
 

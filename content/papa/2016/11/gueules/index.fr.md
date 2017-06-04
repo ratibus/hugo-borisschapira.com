@@ -13,7 +13,7 @@ section: papa
 
 Métalleux, 5 ans, a appris à l'école que les animaux avaient une gueule.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, pourquoi nous, on n'a pas une gueule comme les animaux ?  
 > — Déjà,  nous sommes des animaux. On naît, on vit, on meure, on n'est pas des cailloux, ou n'est pas des plantes, on est des animaux.  

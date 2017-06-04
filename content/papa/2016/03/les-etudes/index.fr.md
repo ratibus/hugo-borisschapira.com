@@ -15,7 +15,7 @@ section: papa
 
 Mon <em lang="en">spider sense</em> entre en émoi, il faut que je m'en mêle !
 
-<!-- more -->
+<!--more-->
 
 > — Tu sais que Spider-Man, c'est aussi un jeune homme ?  
 > — Mais oui, je sais, c'est Peter Pas de Cœur !  

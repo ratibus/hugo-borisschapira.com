@@ -13,7 +13,7 @@ section: papa
 
 Avec Baryton, 3 ans, nous répétons les saisons. 
 
-<!-- more -->
+<!--more-->
 
 Je lui explique d'abord puis l'interroge : 
 

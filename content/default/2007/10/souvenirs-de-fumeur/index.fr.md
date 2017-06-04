@@ -18,7 +18,7 @@ J’avais promis de jogger. J’avais promis de perdre du poids et de ne pas rec
 
 Attention, article long et pas intéressant…
 
-<!-- more -->
+<!--more-->
 
 J’ai allumé ma première cigarette à l’âge de 17 ans. Une Fortuna, la marque la moins chère. Je fumais en douce, à l’arrêt de bus. Ceux dont je me cachais étaient les autres lycéens. Je n’avais pas envie de passer pour celui qui se donne un genre, qui fume à la sortie des cours pour se rendre populaire. Et puis mes amis n’aimaient pas non plus les fumeurs. Longtemps, je n’ai pas voulu leur dire. J’ai allumé ma première cigarette parce que j’avais envie d’essayer, pour voir si ça calmerait mon stress de premier de la classe qui craint d’avoir moins de 18 à sa prochaine interro. C’était minable, je n’aurais sûrement pas dû. Mais je l’ai fait.
 

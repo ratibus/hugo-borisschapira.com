@@ -13,7 +13,7 @@ section: papa
 
 Ce week-end, je rentre dans une boutique de belles chemises et de cravates. Le grand me suit. 
 
-<!-- more -->
+<!--more-->
 
 Je regarde, ébahi, des boutons de manchettes extrêmement travaillés avant de m'étouffer sur leur prix indécent. Il y a silence religieux dans le magasin.
 

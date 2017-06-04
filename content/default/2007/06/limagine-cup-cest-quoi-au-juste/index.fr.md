@@ -18,7 +18,7 @@ section: default
 
 A l'occasion de la finale française de l'Imagine Cup Project Hoshimi le 6 juin à la Tour Eiffel (merci à [Benjamin](http://www.benjamingauthey.com) pour l'invitation personnalisée), je voudrais revenir quelques instants sur la stature de l'évènement aujourd'hui.
 
-<!-- more -->
+<!--more-->
 
 ### Un succès grandissant
 

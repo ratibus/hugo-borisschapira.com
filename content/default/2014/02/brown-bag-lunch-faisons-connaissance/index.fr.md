@@ -18,7 +18,7 @@ Je rejoins une nouvelle initiative, celle des [Brown Bag Lunches](http://www.bro
 
 Le concept est simple&nbsp;: mettre en relation entreprises et experts autour d'un déjeuner.
 
-<!-- more -->
+<!--more-->
 
 Je trouve la démarche extrêmement positive. Pour beaucoup d'entreprises, une démarche de formation est coûteuse et la mise en place d'une veille technologique est difficile. Pour beaucoup de sociétés de conseil, proposer ce genre d'exercice engendre beaucoup de tâches administratives pour un retour sur investissement très faible.
 

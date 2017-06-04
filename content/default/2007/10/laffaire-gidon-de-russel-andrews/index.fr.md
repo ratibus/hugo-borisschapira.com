@@ -14,7 +14,7 @@ section: default
 
 _Heureusement que ma Libellule est là pour me rappeller à l’ordre&nbsp;: cela fait plus d’une semaine que j’ai dévoré l’Affaire Gideon, et pas un article pour en parler. J’ai une excuse&nbsp;: je m’en remettais._
 
-<!-- more -->
+<!--more-->
 
 Plus jeune, j’étais un lecteur assidu. Je pouvais me délecter d’un roman par semaine, du moins quand je n’avais pas plusieurs lectures simultanées. Et puis avec le boulot en prépa, mes temps-libres se sont de plus en plus éloignés de la lecture. En École d’Ingé, j’ai remplacé les romans par des soirées entre potes et une console et c’est encore sur cette dernière qu’il m’arrive fréquemment de passer mes fins de journées.
 

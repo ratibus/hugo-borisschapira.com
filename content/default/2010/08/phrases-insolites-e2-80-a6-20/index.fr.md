@@ -15,7 +15,7 @@ section: default
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille…_
 
-<!-- more -->
+<!--more-->
 
 ## Drague Sociale (et hyper macho, mais je suis sûr qu'une fille aurait pu sortir ça pour les mecs)
 

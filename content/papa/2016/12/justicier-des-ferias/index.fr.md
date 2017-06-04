@@ -13,7 +13,7 @@ section: papa
 
 Il y a quelques années, nous sommes allé à un mariage dont la réception du lendemain avait un thème vestimentaire : nous étions tous habillés en tenue basque blanche, foulard rouge…
 
-<!-- more -->
+<!--more-->
 
 Aujourd'hui, mon grand découvre un foulard basque dans ses affaires.
 

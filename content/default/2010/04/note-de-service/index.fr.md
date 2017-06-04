@@ -15,7 +15,7 @@ section: default
 
 En ce moment, j'ai plein d'envies. Depuis que je suis parti de Paris, en fait. Avec plus de deux heures par jour passées sous terre, la Ville Lumière me rendait surtout aveugle. Depuis mon retour à Bordeaux, je vois à nouveau et je respire.
 
-<!-- more -->
+<!--more-->
 
 Du coup, j'ai plein de projets. Au niveau professionnel d'abord, puisque de nouveaux défis se présentent chaque jour et que j'ai l'impression d'avoir plus de temps pour ma veille technologique et mes lectures d'auto-formation (en ce moment, je sautille de <em lang="en">Silverlight for Windows Phone 7</em> à HTML5, quand je ne lis pas des bouquins sur le CSS. C'est très enrichissant).
 

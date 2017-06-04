@@ -16,7 +16,7 @@ section: default
 
 Vivre en couple est parfois difficile mais souvent amusant. Marié depuis quelques mois et en couple depuis quelques années, j'ai appris à observer ma moitié et à l'aimer comme elle est. Voici 8 choses (parmi tant d'autres) qui font que je l'aime. J'invite évidemment tous les couples de blogueurs à jouer à ce petit échange. Un peu d'amour et d'humour ne font jamais de mal…
 
-<!-- more -->
+<!--more-->
 
 Mme Schapira (qui ne s'appelle pas Violette, malgré ce qu'on pourrait penser), est une femme formidable dont j'ai entrepris de faire la découverte quotidienne. Voici les premiers résultats de l'observation de la bête dans son habitat naturel (pour un équivalent me concernant, vous pouvez aller voir chez elle)&nbsp;:
 

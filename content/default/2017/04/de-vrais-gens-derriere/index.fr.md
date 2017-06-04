@@ -13,7 +13,7 @@ section: default
 
 Il y a parfois des souvenirs, des échanges, qui font de vous le professionnel que vous êtes. En voici un lié à la Qualité…
 
-<!-- more -->
+<!--more-->
 
 Au mois de mai, les ruelles de Paris étaient éclairées d'un printemps ensoleillé. Je rejoins la salle de formation en sifflotant. Pour une fois que je suis l'étudiant, et pas le formateur !
 

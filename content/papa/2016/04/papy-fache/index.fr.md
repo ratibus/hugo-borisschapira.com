@@ -13,7 +13,7 @@ section: papa
 
 Parkour, deux ans et demi, refuse de mettre son manteau pour sortir, alors que son grand-père lui demande. Comme il persiste, son grand-père élève la voix. Ayant refusé de faire la sieste, Parkour est épuisé et fond en larmes, criant son refus.
 
-<!-- more -->
+<!--more-->
 
 Après plusieurs minutes de discussion et de câlins, nous arrivons à le ramener au calme. Nous lui expliquons que Papy est fâché à cause de son attitude, il part donc pour s'excuser. Il fait un gros câlin à son Papy, dit "pardon", puis attend quelques secondes en le regardant fixement. Enfin, il fond en larmes à nouveau.
 

@@ -13,7 +13,7 @@ section: papa
 
 Quand mon fils ainé me demande de lui mettre un morceau de musique…
 
-<!-- more -->
+<!--more-->
 
 > — Papa, tu peux mettre la chanson du pont, avec le géant trop grand dessous ?  
 > — Hein ?! C'est une comptine ?  

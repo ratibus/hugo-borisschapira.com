@@ -13,7 +13,7 @@ section: papa
 
 Journée "ménage" à la maison. Mon grand me regarde tandis que je nettoie le lavabo de la salle de bain.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, je peux faire le ménage aussi, moi ?  
 > — Holà, je ne sais pas chéri. Papa, c'est le roi de l'éponge !  

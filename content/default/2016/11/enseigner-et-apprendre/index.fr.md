@@ -18,7 +18,7 @@ En parlant de la difficulté d'aider un étudiant pendant un travail dirigé :
 
 Enseigner, c'est l'assurance d'être perpétuellement mis au défi et donc, d'apprendre soi-même. Je n'ai jamais vécu deux fois le même cours et je pense que cela n'arrivera jamais. Il ne s'agit pas d'apprendre aux élèves ce que l'on sait faire : cela n'a aucune importance, en réalité. En plus, c'est un savoir qui est rapidement obsolète.
 
-<!-- more -->
+<!--more-->
 
 La clé, c'est de réussir à leur apprendre à apprendre ce que l'on sait faire mais le problème, c'est qu'ils n'apprennent pas nécessairement comme nous avons appris, donc il faut arriver à les positionner dans une dynamique de réalisation qui les investit dans leur savoir. En plus simple : ils ne retiennent que ce qu'ils font et ne doutent que de ce qu'ils font à plusieurs, en s'analysant les uns les autres.
 

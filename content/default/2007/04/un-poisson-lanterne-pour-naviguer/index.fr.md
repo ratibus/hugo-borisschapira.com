@@ -15,7 +15,7 @@ section: default
 
 Ne vous inquiétez pas, je ne suis pas parti dans un pur délire maritime. Je viens juste vous parler d'une application en développement dans les <em lang="en">Labs</em> de Microsoft et qui devrait considérablement modifier vôtre façon d'appréhender Internet sur un périphérique mobile.
 
-<!-- more -->
+<!--more-->
 
 [Deepfish](http://en.wikipedia.org/wiki/Microsoft_Live_Labs_Deepfish) est basé sur [Seadragon](http://en.wikipedia.org/wiki/Seadragon_Software), dont je vous ai parlé dans [un article précédent](/2007/03/microsoft-seadragon/). Il se présente comme un nouveau genre de navigateur embarqué, proposant une vue de la page telle que son concepteur l'a pensée (contrairement aux navigateurs mobiles actuels, qui offrent une vue interprétée de la page réelle).
 

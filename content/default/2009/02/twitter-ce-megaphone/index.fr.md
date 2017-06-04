@@ -17,7 +17,7 @@ section: default
 
 Pour certains, Twitter est un instrument social. Il leur permet de garder le contact avec beaucoup de gens dont ils n'auraient pas de nouvelles autrement. Pour d'autres, c'est un mégaphone&nbsp;: un porte-voix mondial qui leur permet de faire la publicité de leurs <span style="text-decoration: line-through">sources de revenu</span> blogs ou de se laisser aller à certains travers…
 
-<!-- more -->
+<!--more-->
 
 Les mêmes personnes qui ralentissent pour mieux voir les accidents sont aussi sur Twitter. Et cette masse est très très friande de faits divers. Au moindre évènement allant dans ce sens, la communauté se divise. D'un côté, un ensemble de communicants qui partagent des informations (nouvelle photo, piste de réflexion sur les causes, témoignages) et de l'autre, les charognes&nbsp;: "&lt;Drame&gt; à &lt;Lieu&gt;&nbsp;: &lt;nombre&gt; morts, &lt;nombre&gt; blessés"… en boucle ou par re-twitt interposé.
 

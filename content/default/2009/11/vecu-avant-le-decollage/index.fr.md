@@ -15,7 +15,7 @@ section: default
 
 Un voyage en avion est toujours une aventure. Même pour un vol court, je n'ai jamais vu un passager n'ayant pas une histoire à raconter. Notre dernier voyage n'a pas échappé à cette règle et je suis sûr que je ne suis pas le seul à trouver certaines situations particulièrement absurdes. Petit (façon de parler) récit de notre début de vol…
 
-<!-- more -->
+<!--more-->
 
 Un truc que je ne comprendrais jamais, c'est l'inaptitude des gens à respecter des ordres simples. Prenez par exemple un hall d'aéroport dans lequel deux hôtesses s'occupent d'un guichet d'accès à l'appareil et annoncez l'embarquement. Peu importe les informations que vous donnerez après (comme par exemple les numéros de rangée concernés), tous les passagers essaieront inlassablement de rentrer en premier dans l'avion. Pourquoi&nbsp;? On n'a jamais entendu parler de quelqu'un qui aurait enregistré, serait entré dans le hall d'embarquement et y serait resté faute d'avoir pu embarquer, si&nbsp;?
 

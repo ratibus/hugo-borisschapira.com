@@ -17,7 +17,7 @@ section: default
 
 Comprendre le présent n'est jamais chose facile et nous n'avons souvent qu'une alternative : l'examen du passé. Sur un media en perpétuelle évolution comme le Web, cela peut s'avérer très difficile si on n'a pas anticiper la problématique en mettant en place un enregistrement méthodique de la manière dont les pages Web sont produites.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTTP Archive : comprendre le présent en observant le passé](http://blog.clever-age.com/fr/2015/09/04/http-archive-comprendre-le-present-en-observant-le-passe/).</em>
 

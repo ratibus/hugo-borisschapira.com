@@ -18,7 +18,7 @@ Ces derniers jours, deux ouvrages alimentent mes temps libres: **Dive Into HTML 
 
 En commençant à réaliser une ébauche de thème Wordpress tirant partie d'HTML5, je me suis posé quelques questions concernant la barre latérale.
 
-<!-- more -->
+<!--more-->
 
 HTML5 apporte son lot de nouvelles balises, dont `nav` et `aside`. L'élément `nav` représente une section de la page qui contient des liens vers d'autres parties du site, y compris dans la page courante. Il sera courant d'y placer les liens de l'en-tête (qui définissent en général la navigation principale) ou du pied de page (qui renvoient à des éléments secondaires ou légaux). L'élément `aside` représente une section de contenu distinct mais néanmoins relié au contenu englobant. Il peut être utilisé pour des effets typographiques comme les citations incrustées, les barres latérales ou tout autre contenu pouvant être séparé du contenu principal.
 

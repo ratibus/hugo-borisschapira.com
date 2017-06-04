@@ -13,7 +13,7 @@ section: default
 
 Un de mes collègues a partagé une synthèse de différents outils Devops qu'il a trouvé sur LinkedIn… J'ai colorisé les outils que j'avais déjà utilisé dans le cadre de projets.
 
-<!-- more -->
+<!--more-->
 
 <figure>
   <a data-featherlight="image" href="/assets/images/2017-03-24/known.jpg" title="Voir en plus grand">

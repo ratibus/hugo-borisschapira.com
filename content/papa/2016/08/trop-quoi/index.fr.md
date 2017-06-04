@@ -16,7 +16,7 @@ section: papa
 
 Et puis, un peu plus tard…
 
-<!-- more -->
+<!--more-->
 
 > Tu sais Papa, il faut que tu arrêtes de dire [des choses sur] l'école maintenant. C'est moi qui expliques. Toi, tu es trop **vieux**.
 

@@ -13,7 +13,7 @@ section: papa
 
 Ils sont sortis depuis cinq minutes pour jouer dans le parking quand le grand revient :
 
-<!-- more -->
+<!--more-->
 
 > — Papa, mon frère a fait pipi chez la maison du voisin !  
 > — Quoi ?! Il est entré chez le voisin pour faire pipi ?  

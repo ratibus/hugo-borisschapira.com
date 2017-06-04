@@ -17,7 +17,7 @@ Sur un de ses profils, **Yann Leroux**, auteur de [Psy et Geek](http://www.psyet
 
 Je me permets de le reprendre ci-dessous (avec son autorisation) pour y revenir à chaque fois que j'aurais la tentation de participer à une discussion stérile mais aussi pour donner à mes interlocuteurs les éléments nécessaires à me faire taire si jamais j'y participais malgré tout.
 
-<!-- more -->
+<!--more-->
 
 ## Préalable
 

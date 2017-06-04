@@ -14,7 +14,7 @@ section: default
 
 _"Flic" est un receuil d'histoires vécues par une fliquette, du féminin péjoratif de flic, lui même assez peu agréable en général (le mot, pas le flic… du moins pas toujours). Elle nous raconte certains de ses souvenirs, du plus cru au plus touchant en passant par le difficilement acceptable et les réalités que parfois on ne veut pas (sa)voir._
 
-<!-- more -->"Flic" a un mérite qu'on ne peut pas lui enlever&nbsp;: il remet le lecteur à sa place et le renvoie à son humilité. Humilité face à la vie qui prend et qui donne aussi parfois, humilité face à ces représentants de l'ordre qui ne sont jamais que des hommes et des femmes comme les autres mais dont la vie n'est pas vraiment celle des autres.
+<!--more-->"Flic" a un mérite qu'on ne peut pas lui enlever&nbsp;: il remet le lecteur à sa place et le renvoie à son humilité. Humilité face à la vie qui prend et qui donne aussi parfois, humilité face à ces représentants de l'ordre qui ne sont jamais que des hommes et des femmes comme les autres mais dont la vie n'est pas vraiment celle des autres.
 
 Une fois qu'on a lu ce livre, la perception de la réalité qui nous entoure semble avoir changé parce qu'on se rend compte que dehors, certaines personnes ont dédié leurs efforts à notre sécurité.
 

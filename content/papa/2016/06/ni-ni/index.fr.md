@@ -13,7 +13,7 @@ section: papa
 
 En racontant l'histoire du soir, mon grand remarque que le livre est déchiré.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, pourquoi il manque un bout, là ?  
 > — Parce que vous l'avez déchiré.  

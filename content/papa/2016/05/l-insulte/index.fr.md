@@ -13,7 +13,7 @@ section: papa
 
 Son grand frère l'avait trop embêté. Il fallait bien que ça sorte !
 
-<!-- more -->
+<!--more-->
 
 > Tu es méchant, tu es méchant, tu es… un **petit jambon de misère** !
 

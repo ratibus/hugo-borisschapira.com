@@ -17,7 +17,7 @@ C’est pendant la conférence D9 d’All Things Digital que Microsoft a dévoil
 
 Depuis, une véritable tempête s’est abattue sur la communauté des développeurs Silverlight, le Framework <abbr title="Rich Internet Application ou Application Internet Riche&nbsp;: application Web offrant des caractéristiques similaires à une application développée pour un système d’exploitation">RIA</abbr> poussé par Microsoft depuis des années et sur lequel repose Windows Phone.
 
-<!-- more -->
+<!--more-->
 
 <em class="canonical">**Note&nbsp;:** l'article ci-dessous a été publié sur [Clever Age](http://www.clever-age.com/fr/) dans [HTML 5, Silverlight et Microsoft](http://blog.clever-age.com/fr/2011/07/29/html-5-silverlight-et-microsoft/).</em>
 

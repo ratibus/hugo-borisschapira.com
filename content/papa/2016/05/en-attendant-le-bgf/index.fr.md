@@ -13,7 +13,7 @@ section: papa
 
 Maman finit de se préparer pendant que les garçons, déjà déguisés, poireautent en attendant de partir pour le [<abbr title="Bordeaux Geek Festival">BGF</abbr>](http://geek-festival.fr/).
 
-<!-- more -->
+<!--more-->
 
 > [Grand] Moi je suis Peter Park-man !  
 > [Petit] et moi je chui Aïon Man ! Piou piou !  

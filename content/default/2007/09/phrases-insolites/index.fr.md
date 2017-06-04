@@ -16,7 +16,7 @@ section: default
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-<!-- more -->
+<!--more-->
 
 Petit florilège de paroles en l’air, capturées au détour d’un couloir, dans le métro, au boulot… Du voyeurisme&nbsp;? Oui, sûrement… mais ces quelques mots m'ont quand même interpellé…
 

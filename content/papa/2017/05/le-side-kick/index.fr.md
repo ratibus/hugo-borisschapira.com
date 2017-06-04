@@ -13,7 +13,7 @@ section: papa
 
 J'ai fini Final Fantasy XV hier. Du coup, aujourd'hui, je me suis mis en tête de finir le donjon le plus long du jeu : les ruines de Pitioss.
 
-<!-- more -->
+<!--more-->
 
 Je m'attendais à ce que cela ennuie les enfants mais pas du tout : tout en vacant à leurs jeux, ils s'arrêtent de temps en temps pour me regarder ou… m'aider.
 

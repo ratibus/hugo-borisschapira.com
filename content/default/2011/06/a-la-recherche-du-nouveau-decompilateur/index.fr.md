@@ -15,7 +15,7 @@ section: default
 
 Si comme moi vous développez en .NET depuis un bout de temps, vous avez probablement entendu parlé de [.NET Reflector de Red Gate](http://www.red-gate.com/products/dotnet-development/reflector/ "Site officiel de .NET Reflector"), cet utilitaire qui décompile vos assembly .NET et vous permet de voir le code C#/VB.NET contenu dans vos DLL. Récemment, .NET Reflector est passé d’un mode de distribution gratuit à payant. Cette situation a incité la communauté à se retrousser les manches et c’est comme ça que sont nées diverses alternatives.
 
-<!-- more -->
+<!--more-->
 
 <figure>
 <a data-featherlight="image" href="/assets/images/2011-06-08/il_spy.png" title="Voir en plus grand">

@@ -13,7 +13,7 @@ section: papa
 
 Au moment de se brosser les dents, agacement du petit dernier.
 
-<!-- more -->
+<!--more-->
 
 > — Papa, il est méchant le dentifrice !  
 > — Ah ? Pourquoi ?  

@@ -16,7 +16,7 @@ section: default
 
 _C'est fou ce qu'on peut entendre quand on tend l'oreille&nbsp;!_
 
-_**<!-- more -->
+_**<!--more-->
 
 Esprit de famille&nbsp;:**
 _"Ma femme elle n'aime tellement pas ses neveux qu’elle les appelle les ragnagnas parce que, tu vois, chaque fois que sa sœur vient avec eux, elle est de mauvais poil pour une semaine."

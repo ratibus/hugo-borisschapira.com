@@ -16,7 +16,7 @@ section: default
 
 _C’est fou ce qu’on peut entendre quand on tend l’oreille&nbsp;!_
 
-**<!-- more -->
+**<!--more-->
 
 Religion 2.0**
 - Attention à ne confondre Google et Dieu.

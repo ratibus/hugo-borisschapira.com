@@ -16,7 +16,7 @@ section: citoyen
 
 Jeune papa pour la seconde fois, je décide ce soir de porter mon fils en écharpe, comme je l'avais déjà fait pour son grand frère.
 
-<!-- more -->
+<!--more-->
 
 Tandis que je marche dans la rue, le bébé emmitouflé dans l'écharpe verte, je croise deux femmes. Réactions positives. Sourires. Comme il y a deux ans, je me rends compte que beaucoup de femmes apprécient de voir un homme s'occuper d'un nouveau-né. Peut-être parce que cela est rare.
 

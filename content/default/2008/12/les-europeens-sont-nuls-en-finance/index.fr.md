@@ -17,7 +17,7 @@ section: default
 
 En période de crise, tout le monde donne son avis sur ce que devrait ou ne devrait pas faire le gouvernement, les entreprises et la BCE pour permettre aux familles de retrouver leur "**pouvoir d'achat**". De ces discussions n'émane que très rarement une idée objective du problème et une esquisse de solution. Et pour cause&nbsp;: **les européens sont nuls en Economie et en Finance&nbsp;! **
 
-<!-- more -->
+<!--more-->
 
 C'est en arrivant à ces tristes conclusions que le Parlement Européen a, le **18 novembre** 2008, voté une [résolution](http://www.europarl.europa.eu/sides/getDoc.do?type=REPORT&amp;reference=A6-2008-0393&amp;language=FR&amp;mode=XML) réclamant "**l’amélioration de l’éducation et de la sensibilisation des consommateurs en matière de finances et de crédit**".
 

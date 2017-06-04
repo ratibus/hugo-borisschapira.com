@@ -19,7 +19,7 @@ section: default
 
 [Sud Web](http://sudweb.fr/2014/ "Site de Sud Web, édition 2014") fait partie de ces événements qu'il est difficile de ranger dans l'appellation "conférences". Cette édition 2014 assumait parfaitement cet héritage avec des interventions dont l'objectif était moins de transmettre du savoir que d'inspirer des conversations et de susciter des vocations. Je ne déroge pas à la règle&nbsp;: cette année encore, Sud Web a parlé ma langue, ma Culture, Sud Web a interrogé mes valeurs et m'a renvoyé une image de moi au sein de la Communauté du Web. Explications au travers de quelques moments forts de ces deux jours.
 
-<!-- more -->
+<!--more-->
 
 ## Valeurs
 

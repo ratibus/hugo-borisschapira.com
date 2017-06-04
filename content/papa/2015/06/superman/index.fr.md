@@ -17,7 +17,7 @@ Le grand s'approche. Il vient de voir un film où on en parlait, alors il s'inte
 > — Ah, Superman, c'est un super-héros, chéri, comme Spider-Man. Il est fort, il vole et il a une intéressante tendance à mettre son slip par dessus son pantalon.  
 > — Oh, je veux voir Papa !!! Je veux voir !!!
 
-<!-- more -->
+<!--more-->
 
 Une recherche Google Images plus tard, le voilà médusé.
 

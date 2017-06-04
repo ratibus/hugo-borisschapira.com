@@ -13,7 +13,7 @@ section: papa
 
 Je regarde "La Belle et le Clochard" avec les enfants. La scène des pâtes à la bolognaise leur plait beaucoup.
 
-<!-- more -->
+<!--more-->
 
 > [Moi] : ils sont amoureux ?  
 > [Tous les deux] : ah, oui !  

@@ -28,7 +28,7 @@ Au menu aujourd'hui, des éléments de réponse aux questions suivantes :
 *   Mais alors, on s'en fiche, de la dette ?
 *   La dette, c'est mauvais en temps de crise ?
 
-<!-- more -->
+<!--more-->
 
 ## C'est quoi la Dette Publique ?
 
