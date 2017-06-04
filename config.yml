@@ -9,9 +9,11 @@ Languages:
   fr:
     weight: 1
     title: "Boris Schapira"
+    locale: fr-FR
   en:
     weight: 2
     title: "Hi, I'm Boris"
+    locale: en-US
     
 theme: "bs-theme"
 copyright: "&copy; Boris Schapira"

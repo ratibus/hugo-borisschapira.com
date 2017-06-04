@@ -1,3 +1,5 @@
+- id: home
+  translation: "Accueil"
 - id: older
   translation: "Précédent"
 - id: newer
