@@ -1,3 +1,5 @@
+- id: click_here
+  translation: "Click here"
 - id: home
   translation: "Home"
 - id: older
@@ -6,3 +8,11 @@
   translation: "Newer"
 - id: read_more
   translation: "Read more"
+- id: see_pr
+  translation: "to see the pull request you generated."
+- id: post_submited
+  translation: "Your post has been submitted and will be published once it has been approved."
+- id: thank_you
+  translation: "Thank you."
+- id: comments
+  translation: "Comments"

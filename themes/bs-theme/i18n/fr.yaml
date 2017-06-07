@@ -1,3 +1,5 @@
+- id: click_here
+  translation: "Cliquez ici"
 - id: home
   translation: "Accueil"
 - id: older
@@ -6,3 +8,11 @@
   translation: "Suivant"
 - id: read_more
   translation: "Lire la suite"
+- id: see_pr
+  translation: "pour voir la <span lang=\"en\">Pull Request</span> que vous avez généré."
+- id: post_submited
+  translation: "Vous contribution a été soumise et sera publiée apès approbration."
+- id: thank_you
+  translation: "Merci."
+- id: comments
+  translation: "Commentaires"
