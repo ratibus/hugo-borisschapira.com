@@ -17,7 +17,7 @@ Languages:
     locale: en-US
     
 theme: "bs-theme"
-copyright: "&copy; Boris Schapira"
+copyright: "Made with ❤️ at Bordeaux"
 
 taxonomies:
   tag: "tags"

@@ -31,7 +31,6 @@ section: default
 ## more tests
 
 * 3rd at the 4 % run
-* This must be replace by a :+1:
 
 ``` html
 Oh, some encoded "code" but
