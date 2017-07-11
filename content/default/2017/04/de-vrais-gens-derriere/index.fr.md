@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+tags:
+    - anecdotes
 slug: de-vrais-gens-derriere
 section: default
 2017:

@@ -5,6 +5,8 @@ lang: fr
 type: post
 categories:
     - default
+tags:
+    - anecdotes
 slug: le-rendez-vous
 section: default
 2017:
