@@ -1,0 +1,18 @@
+---
+title: Tétu
+date: '2014-12-15'
+lang: fr
+type: post
+categories:
+    - papa
+slug: tetu
+section: papa
+2014:
+    - '12'
+---
+
+Mis au lit pour la sieste, il "joue" bruyamment pendant plusieurs heures. Je lui raconte des histoire, le sermonne, le dispute mais rien n'y fait. C'est finalement à l'heure du goûter qu'il va enfin se coucher et rapidement s'endort.
+
+15 minutes plus tard, je l'entends rêver de manière vivace et... tomber de son lit.
+
+Le Karma, mon chéri. Le Karma :)

@@ -1,0 +1,26 @@
+---
+title: Piquer
+date: '2017-01-09'
+lang: fr
+type: post
+categories:
+    - papa
+slug: piquer
+section: papa
+2017:
+    - '01'
+---
+
+Nous avons une règle à la maison : les fruits sont toujours en <em lang="en">open bar</em>. Les enfants ont appris à en manger quand ça leur prend et des fois, on leur en "pique" un morceau et tout le monde rigole.
+
+<!--more-->
+
+Aujourd'hui, c'est ma femme qui a envie de taquiner notre petit koala. Mais il ne l'entend pas de cette oreille.
+
+> — Oh, je te pique un morceau de pomme !  
+> — Non ! C'est pas bien de piquer, Maman… Tiens, je te le donne. Si je te le donne, c'est pas comme voler.
+
+<figure>
+  <img src="{{<fileFolder>}}okay.gif" alt="Claire Forlani dit &quot;okay&quot;"/>
+  <figcaption>Okay…</figcaption>
+</figure>
