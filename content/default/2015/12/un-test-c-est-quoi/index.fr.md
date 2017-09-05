@@ -47,7 +47,7 @@ Avec l'émergence des applications JavaScript, une partie des tests se fait souv
 
 * **Tests de simulation** : des tests qui visent à reproduire le modèle abstrait de l'interaction. Par exemple, si je veux tester un clic sur un bouton, je teste la méthode qui est lancée lors du clic en question.
 * **Tests d'émulation** : des tests qui produisent concrètement l'action à la place d'un utilisateur.
-* **Tests manuels** : des tests, manuels (merci <em>[Captain Obvious]({{<fileFolder>}}captain_obvious.gif))</em>.
+* **Tests manuels** : des tests, manuels (merci <em>[Captain Obvious]({{<fileFolder>}}captain_obvious.jpg))</em>.
 
 ## Exemples ?
 
