@@ -5,6 +5,7 @@ categories:
 date: '2007-09-30'
 lang: fr
 type: post
+publishDate: '2007-09-30'
 slug: 99-f-2h-de-perdue
 section: default
 2007:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-12-27'
 slug: etat-urgence-permanent
 section: citoyen
 2015:

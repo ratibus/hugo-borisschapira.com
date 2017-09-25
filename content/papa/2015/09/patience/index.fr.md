@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-15'
 slug: patience
 section: papa
 2015:

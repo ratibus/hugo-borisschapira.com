@@ -6,6 +6,7 @@ categories:
 date: '2007-09-11'
 lang: fr
 type: post
+publishDate: '2007-09-11'
 slug: limportance-des-specifications
 section: default
 2007:

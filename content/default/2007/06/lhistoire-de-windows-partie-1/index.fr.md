@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-02'
 slug: lhistoire-de-windows-partie-1
 section: default
 2007:

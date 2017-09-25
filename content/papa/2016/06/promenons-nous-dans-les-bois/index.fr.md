@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-24'
 slug: promenons-nous-dans-les-bois
 section: papa
 2016:

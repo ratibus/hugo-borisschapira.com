@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-03'
 slug: je-suis-un-papa
 section: papa
 2016:

@@ -6,6 +6,7 @@ categories:
 date: '2008-06-12'
 lang: fr
 type: post
+publishDate: '2008-06-12'
 slug: on-sest-tous-pose-cette-question-petit
 section: default
 2008:

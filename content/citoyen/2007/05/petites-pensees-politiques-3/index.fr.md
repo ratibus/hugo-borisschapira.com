@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-05-03'
 slug: petites-pensees-politiques-3
 section: citoyen
 2007:

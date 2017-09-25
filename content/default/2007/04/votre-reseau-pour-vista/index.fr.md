@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-17'
 slug: votre-reseau-pour-vista
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-20'
 slug: la-nuance
 section: papa
 2016:

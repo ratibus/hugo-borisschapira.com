@@ -5,6 +5,7 @@ categories:
 date: '2007-09-02'
 lang: fr
 type: post
+publishDate: '2007-09-02'
 slug: 5-choses-que-vous-ne-savez-peut-etre-pas-sur-vincent-san
 section: default
 2007:

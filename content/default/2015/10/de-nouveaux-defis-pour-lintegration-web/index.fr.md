@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-10-08'
 slug: de-nouveaux-defis-pour-lintegration-web
 section: default
 2015:

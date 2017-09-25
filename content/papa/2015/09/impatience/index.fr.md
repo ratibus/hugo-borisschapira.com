@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-16'
 slug: impatience
 section: papa
 2015:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-03'
 slug: bootscout-poisson-ou-veritable-revolution
 section: default
 2007:

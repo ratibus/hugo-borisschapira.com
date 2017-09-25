@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-08-18'
 slug: valeurs
 section: citoyen
 2016:

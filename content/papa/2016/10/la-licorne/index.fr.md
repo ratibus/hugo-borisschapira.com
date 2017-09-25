@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-10-09'
 slug: la-licorne
 section: papa
 2016:

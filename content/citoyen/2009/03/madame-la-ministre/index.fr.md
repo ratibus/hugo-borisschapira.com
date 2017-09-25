@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-11'
 slug: madame-la-ministre
 section: citoyen
 2009:

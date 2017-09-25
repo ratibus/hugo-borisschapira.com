@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-11-19'
 slug: facebook-na-rien-a-voir-la-dedans
 section: default
 2010:

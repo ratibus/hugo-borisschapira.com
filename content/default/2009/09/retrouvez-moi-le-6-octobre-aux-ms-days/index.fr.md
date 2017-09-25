@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-09-23'
 slug: retrouvez-moi-le-6-octobre-aux-ms-days
 section: default
 2009:

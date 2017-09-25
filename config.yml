@@ -5,6 +5,7 @@ enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 pluralizelisttitles: false
 logi18nwarnings: true
+buildFuture: false
 
 Languages:
   fr:
@@ -51,6 +52,7 @@ taxonomies:
   2015: "2015"
   2016: "2016"
   2017: "2017"
+  2018: "2018"
 
 params:
     highlight:

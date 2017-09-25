@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-10'
 slug: dangers-du-net-les-pc-zombies
 section: default
 2007:

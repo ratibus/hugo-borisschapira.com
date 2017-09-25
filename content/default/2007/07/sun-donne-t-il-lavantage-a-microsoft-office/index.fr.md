@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-09'
 slug: sun-donne-t-il-lavantage-a-microsoft-office
 section: default
 2007:

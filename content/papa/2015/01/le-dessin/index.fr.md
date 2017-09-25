@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-01-03'
 slug: le-dessin
 section: papa
 2015:

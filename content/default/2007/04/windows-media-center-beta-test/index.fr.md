@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-18'
 slug: windows-media-center-beta-test
 section: default
 2007:

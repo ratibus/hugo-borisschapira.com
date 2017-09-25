@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-05-13'
 slug: developpeurs-web-10-conseils-ultimes
 section: default
 2011:

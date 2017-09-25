@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-31'
 slug: la-peinture
 section: papa
 2017:

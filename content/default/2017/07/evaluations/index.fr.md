@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-07-02'
 slug: evaluations
 section: default
 2017:

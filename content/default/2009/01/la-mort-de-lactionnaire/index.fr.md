@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-01-27'
 slug: la-mort-de-lactionnaire
 section: default
 2009:

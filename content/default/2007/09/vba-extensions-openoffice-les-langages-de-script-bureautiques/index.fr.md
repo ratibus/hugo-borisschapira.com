@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-10'
 slug: vba-extensions-openoffice-les-langages-de-script-bureautiques
 section: default
 2007:

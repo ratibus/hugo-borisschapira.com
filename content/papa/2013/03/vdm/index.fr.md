@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-03-09'
 slug: vdm
 section: papa
 2013:

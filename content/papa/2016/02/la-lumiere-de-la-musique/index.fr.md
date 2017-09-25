@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-10'
 slug: la-lumiere-de-la-musique
 section: papa
 2016:

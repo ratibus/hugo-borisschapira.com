@@ -12,6 +12,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-10-22'
 slug: publicite-en-ligne-un-point
 section: default
 2015:

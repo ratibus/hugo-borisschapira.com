@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-09'
 slug: les-5-contre-verite-des-iphone-addicts
 section: default
 2009:

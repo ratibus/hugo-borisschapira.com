@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-11'
 slug: maxime-du-jour
 section: papa
 2015:

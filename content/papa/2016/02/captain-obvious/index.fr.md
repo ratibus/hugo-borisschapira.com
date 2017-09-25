@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-01'
 slug: captain-obvious
 section: papa
 2016:

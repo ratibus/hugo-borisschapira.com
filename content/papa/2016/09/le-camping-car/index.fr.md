@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-02'
 slug: le-camping-car
 section: papa
 2016:

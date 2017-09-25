@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-29'
 slug: gueules
 section: papa
 2016:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-05-13'
 slug: tout-ca-pour-ca
 section: papa
 2013:

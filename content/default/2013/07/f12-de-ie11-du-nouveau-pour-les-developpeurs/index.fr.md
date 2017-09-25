@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-07-02'
 slug: f12-de-ie11-du-nouveau-pour-les-developpeurs
 section: default
 2013:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-02-08'
 slug: sorties-de-la-semaine-dernire
 section: default
 2008:

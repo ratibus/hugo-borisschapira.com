@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-01-23'
 slug: sans-fin
 section: papa
 2015:

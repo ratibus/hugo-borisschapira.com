@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-10'
 slug: imagine-cup-2008-site-en-ligne
 section: default
 2007:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-10-14'
 slug: 4-conseils-pour-nommer-son-atelier-a-la-mode-du-web
 section: default
 2008:

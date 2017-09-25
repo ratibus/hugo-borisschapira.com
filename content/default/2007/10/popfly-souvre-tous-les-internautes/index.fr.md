@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-20'
 slug: popfly-souvre-tous-les-internautes
 section: default
 2007:

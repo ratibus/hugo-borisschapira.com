@@ -7,6 +7,7 @@ lang: fr
 type: post
 tags:
     - Littérature
+publishDate: '2007-12-14'
 slug: a-la-croise-des-mondes-les-romans
 section: default
 2007:

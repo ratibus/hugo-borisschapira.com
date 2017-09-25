@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-01-15'
 slug: lepidemie
 section: default
 2009:

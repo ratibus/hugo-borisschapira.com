@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-05-17'
 slug: deurman-mobile
 section: papa
 2015:

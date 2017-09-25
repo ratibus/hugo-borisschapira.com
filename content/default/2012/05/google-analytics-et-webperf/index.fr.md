@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-05-03'
 slug: google-analytics-et-webperf
 section: default
 2012:

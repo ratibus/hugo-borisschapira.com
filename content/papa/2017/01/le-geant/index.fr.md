@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-01-27'
 slug: le-geant
 section: papa
 2017:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-08-30'
 slug: phrases-insolites-e2-80-a6-20
 section: default
 2010:

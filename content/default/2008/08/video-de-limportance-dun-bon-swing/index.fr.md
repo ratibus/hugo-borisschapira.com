@@ -6,6 +6,7 @@ categories:
 date: '2008-08-20'
 lang: fr
 type: post
+publishDate: '2008-08-20'
 slug: video-de-limportance-dun-bon-swing
 section: default
 2008:

@@ -5,6 +5,7 @@ categories:
 date: '2007-12-23'
 lang: fr
 type: post
+publishDate: '2007-12-23'
 slug: i-am-a-legend-cest-vous-qui-voyez
 section: default
 2007:

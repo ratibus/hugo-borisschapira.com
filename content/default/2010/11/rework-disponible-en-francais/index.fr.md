@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-11-05'
 slug: rework-disponible-en-francais
 section: default
 2010:

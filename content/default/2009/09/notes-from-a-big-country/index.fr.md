@@ -7,6 +7,7 @@ categories:
 date: '2009-09-15'
 lang: fr
 type: post
+publishDate: '2009-09-15'
 slug: notes-from-a-big-country
 section: default
 2009:

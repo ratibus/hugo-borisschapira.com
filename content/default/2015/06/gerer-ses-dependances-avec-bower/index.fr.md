@@ -11,6 +11,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-06-29'
 slug: gerer-ses-dependances-avec-bower
 section: default
 2015:

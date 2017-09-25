@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-06-18'
 slug: freud-rules
 section: papa
 2015:

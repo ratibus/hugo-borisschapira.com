@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-10-25'
 slug: ou-sont-les-femmes
 section: papa
 2014:

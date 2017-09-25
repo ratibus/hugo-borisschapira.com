@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-11-30'
 slug: debout-dans-son-parc
 section: papa
 2011:

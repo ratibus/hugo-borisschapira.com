@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-08-26'
 slug: open-space-2-0
 section: default
 2009:

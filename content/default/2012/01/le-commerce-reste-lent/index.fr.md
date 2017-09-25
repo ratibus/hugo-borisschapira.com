@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-01-27'
 slug: le-commerce-reste-lent
 section: default
 2012:

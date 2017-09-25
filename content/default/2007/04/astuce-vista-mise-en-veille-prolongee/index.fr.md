@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-19'
 slug: astuce-vista-mise-en-veille-prolongee
 section: default
 2007:

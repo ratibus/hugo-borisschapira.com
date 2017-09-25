@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-04-20'
 slug: note-de-service
 section: default
 2010:

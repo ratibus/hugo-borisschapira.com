@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-04-29'
 slug: confiance
 section: default
 2016:

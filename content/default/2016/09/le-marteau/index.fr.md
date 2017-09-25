@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-09-07'
 slug: le-marteau
 section: default
 2016:

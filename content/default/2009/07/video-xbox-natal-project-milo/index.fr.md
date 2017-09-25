@@ -6,6 +6,7 @@ categories:
 date: '2009-07-12'
 lang: fr
 type: post
+publishDate: '2009-07-12'
 slug: video-xbox-natal-project-milo
 section: default
 2009:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-05-14'
 slug: il-faut-repenser-windows
 section: default
 2013:

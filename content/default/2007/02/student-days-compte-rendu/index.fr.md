@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-02-09'
 slug: student-days-compte-rendu
 section: default
 2007:

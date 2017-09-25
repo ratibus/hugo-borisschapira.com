@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2012-11-26'
 slug: encore-un-rendez-vous-a-la-creche
 section: papa
 2012:

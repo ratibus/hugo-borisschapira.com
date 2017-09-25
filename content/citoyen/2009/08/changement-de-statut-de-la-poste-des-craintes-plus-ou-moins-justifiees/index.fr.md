@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-08-11'
 slug: changement-de-statut-de-la-poste-des-craintes-plus-ou-moins-justifiees
 section: citoyen
 2009:

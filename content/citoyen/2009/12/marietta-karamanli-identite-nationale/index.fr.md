@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-12-11'
 slug: marietta-karamanli-identite-nationale
 section: citoyen
 2009:

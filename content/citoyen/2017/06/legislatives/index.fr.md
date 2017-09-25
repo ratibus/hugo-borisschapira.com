@@ -8,6 +8,7 @@ categories:
 tags:
     - election
     - legislatives
+publishDate: '2017-06-11'
 slug: legislatives
 section: citoyen
 2017:

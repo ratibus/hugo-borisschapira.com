@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-23'
 slug: la-robe
 section: papa
 2016:

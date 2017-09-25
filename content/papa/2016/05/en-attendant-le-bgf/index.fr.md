@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-15'
 slug: en-attendant-le-bgf
 section: papa
 2016:

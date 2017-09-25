@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-03'
 slug: en-foret
 section: papa
 2016:

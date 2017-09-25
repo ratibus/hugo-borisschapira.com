@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-19'
 slug: microsoft-aide-les-pays-emergeants
 section: default
 2007:

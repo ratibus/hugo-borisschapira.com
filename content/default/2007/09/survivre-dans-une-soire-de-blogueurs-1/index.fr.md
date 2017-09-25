@@ -5,6 +5,7 @@ categories:
 date: '2007-09-14'
 lang: fr
 type: post
+publishDate: '2007-09-14'
 slug: survivre-dans-une-soire-de-blogueurs-1
 section: default
 2007:

@@ -5,6 +5,7 @@ categories:
 date: '2007-06-10'
 lang: fr
 type: post
+publishDate: '2007-06-10'
 slug: a-venir-sur-boris-schapiracom
 section: default
 2007:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-31'
 slug: microsoft-seadragon
 section: default
 2007:

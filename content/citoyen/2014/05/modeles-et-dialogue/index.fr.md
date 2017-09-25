@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-05-05'
 slug: modeles-et-dialogue
 section: citoyen
 2014:

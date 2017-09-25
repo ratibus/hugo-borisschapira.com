@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-22'
 slug: mal-du-pays
 section: papa
 2016:

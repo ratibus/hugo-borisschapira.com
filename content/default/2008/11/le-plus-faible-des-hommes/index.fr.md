@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-11-03'
 slug: le-plus-faible-des-hommes
 section: default
 2008:

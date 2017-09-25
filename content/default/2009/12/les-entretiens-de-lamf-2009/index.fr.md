@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-12-26'
 slug: les-entretiens-de-lamf-2009
 section: default
 2009:

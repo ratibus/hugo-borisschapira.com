@@ -5,6 +5,7 @@ categories:
 date: '2007-08-31'
 lang: fr
 type: post
+publishDate: '2007-08-31'
 slug: dernier-jour-microsoft-france
 section: default
 2007:

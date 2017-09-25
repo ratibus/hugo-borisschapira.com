@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-04-28'
 slug: les-kits-pour-certification-microsoft
 section: default
 2009:

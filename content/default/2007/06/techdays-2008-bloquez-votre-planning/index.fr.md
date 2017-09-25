@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-21'
 slug: techdays-2008-bloquez-votre-planning
 section: default
 2007:

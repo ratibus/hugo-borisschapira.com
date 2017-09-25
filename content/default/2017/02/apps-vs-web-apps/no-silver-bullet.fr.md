@@ -7,6 +7,7 @@ canonical: 'http://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas
 type: post
 categories:
     - default
+publishDate: '2017-02-01'
 slug: apps-vs-web-apps
 section: default
 2017:

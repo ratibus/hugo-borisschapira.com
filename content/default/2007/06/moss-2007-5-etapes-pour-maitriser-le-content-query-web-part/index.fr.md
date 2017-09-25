@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-29'
 slug: moss-2007-5-etapes-pour-maitriser-le-content-query-web-part
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-01-27'
 slug: logique-administrative
 section: papa
 2014:

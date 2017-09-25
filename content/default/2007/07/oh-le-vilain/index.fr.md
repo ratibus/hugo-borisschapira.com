@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-31'
 slug: oh-le-vilain
 section: default
 2007:

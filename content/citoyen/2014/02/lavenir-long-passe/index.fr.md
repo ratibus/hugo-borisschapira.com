@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-02-06'
 slug: lavenir-long-passe
 section: citoyen
 2014:

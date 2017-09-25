@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-09'
 slug: je-laime
 section: papa
 2016:

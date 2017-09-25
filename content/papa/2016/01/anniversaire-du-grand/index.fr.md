@@ -6,6 +6,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-16'
 slug: anniversaire-du-grand
 section: papa
 2016:

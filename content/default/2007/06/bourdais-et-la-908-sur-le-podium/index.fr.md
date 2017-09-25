@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-20'
 slug: bourdais-et-la-908-sur-le-podium
 section: default
 2007:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-01-29'
 slug: les-griefs-des-grevistes
 section: citoyen
 2009:

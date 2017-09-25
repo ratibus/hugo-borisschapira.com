@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-03'
 slug: la-greve
 section: papa
 2016:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-01-09'
 slug: piquer
 section: papa
 2017:

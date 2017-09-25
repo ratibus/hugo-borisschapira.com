@@ -6,6 +6,7 @@ categories:
 date: '2007-05-19'
 lang: fr
 type: post
+publishDate: '2007-05-19'
 slug: un-petit-coin-de-paradis
 section: default
 2007:

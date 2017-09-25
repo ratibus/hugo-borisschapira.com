@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-11-13'
 slug: les-activites-des-grands
 section: papa
 2015:

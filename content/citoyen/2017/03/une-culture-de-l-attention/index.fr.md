@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-03-11'
 slug: une-culture-de-l-attention
 section: citoyen
 2017:

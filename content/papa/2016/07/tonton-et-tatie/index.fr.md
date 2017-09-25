@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-10'
 slug: tonton-et-tatie
 section: papa
 2016:

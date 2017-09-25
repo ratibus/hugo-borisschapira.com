@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-14'
 slug: moss-2007-certifie-par-la-defense-americaine
 section: default
 2007:

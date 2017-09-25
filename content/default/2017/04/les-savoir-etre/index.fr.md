@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-04-26'
 slug: les-savoir-etre
 section: default
 2017:

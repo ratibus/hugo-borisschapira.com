@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-10-05'
 slug: cest-ta-vie
 section: papa
 2014:

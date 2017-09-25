@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-02-20'
 slug: gendarme
 section: papa
 2014:

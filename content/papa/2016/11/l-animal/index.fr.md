@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-04'
 slug: l-animal
 section: papa
 2016:

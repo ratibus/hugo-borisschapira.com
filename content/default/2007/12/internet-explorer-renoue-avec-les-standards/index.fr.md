@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-12-21'
 slug: internet-explorer-renoue-avec-les-standards
 section: default
 2007:

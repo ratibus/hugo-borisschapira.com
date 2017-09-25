@@ -11,6 +11,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-16'
 slug: 2013-en-direct-de-la-fourgonnette
 section: default
 2009:

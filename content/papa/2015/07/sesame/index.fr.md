@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-07-10'
 slug: sesame
 section: papa
 2015:

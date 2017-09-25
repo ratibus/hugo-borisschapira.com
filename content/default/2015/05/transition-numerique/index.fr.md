@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-05-05'
 slug: transition-numerique
 section: default
 2015:

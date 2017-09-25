@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-20'
 slug: je-vois-maintenant
 section: papa
 2015:

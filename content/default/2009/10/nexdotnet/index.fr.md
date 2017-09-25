@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-10-01'
 slug: nexdotnet
 section: default
 2009:

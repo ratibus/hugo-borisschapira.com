@@ -6,6 +6,7 @@ categories:
 date: '2007-10-03'
 lang: fr
 type: post
+publishDate: '2007-10-03'
 slug: rejoignez-sur-facebook-la-cause-rformer-le-rgime-de-retraite-des-lus
 section: default
 2007:

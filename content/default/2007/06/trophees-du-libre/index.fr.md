@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-23'
 slug: trophees-du-libre
 section: default
 2007:

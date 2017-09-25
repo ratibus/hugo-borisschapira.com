@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-11-14'
 slug: chaque-jour
 section: citoyen
 2014:

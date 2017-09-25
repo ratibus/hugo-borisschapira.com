@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-03-19'
 slug: knight-industry-three-thousand
 section: default
 2008:

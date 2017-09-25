@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-22'
 slug: partout-chez-lui
 section: papa
 2015:

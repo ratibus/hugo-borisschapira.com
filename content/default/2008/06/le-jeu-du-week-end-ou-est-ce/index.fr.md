@@ -6,6 +6,7 @@ categories:
 date: '2008-06-11'
 lang: fr
 type: post
+publishDate: '2008-06-11'
 slug: le-jeu-du-week-end-ou-est-ce
 section: default
 2008:

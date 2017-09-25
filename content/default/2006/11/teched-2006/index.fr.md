@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2006-11-08'
 slug: teched-2006
 section: default
 2006:

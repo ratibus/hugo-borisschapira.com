@@ -5,6 +5,7 @@ categories:
 date: '2007-09-13'
 lang: fr
 type: post
+publishDate: '2007-09-13'
 slug: souvenirs-dune-taupe
 section: default
 2007:

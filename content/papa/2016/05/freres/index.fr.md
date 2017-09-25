@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-12'
 slug: freres
 section: papa
 2016:

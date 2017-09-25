@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-14'
 slug: journee-nationale-du-sommeil
 section: papa
 2015:

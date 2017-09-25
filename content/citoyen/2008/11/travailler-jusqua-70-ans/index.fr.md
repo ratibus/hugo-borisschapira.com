@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-11-14'
 slug: travailler-jusqua-70-ans
 section: citoyen
 2008:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-10-28'
 slug: noel-approche
 section: papa
 2016:

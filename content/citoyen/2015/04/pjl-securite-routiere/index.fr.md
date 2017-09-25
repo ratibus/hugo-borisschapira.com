@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-04-13'
 slug: pjl-securite-routiere
 section: citoyen
 2015:

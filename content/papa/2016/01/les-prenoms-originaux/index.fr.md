@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-04'
 slug: les-prenoms-originaux
 section: papa
 2016:

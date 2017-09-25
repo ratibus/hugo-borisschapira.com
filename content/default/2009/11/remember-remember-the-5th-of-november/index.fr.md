@@ -6,6 +6,7 @@ categories:
 date: '2009-11-05'
 lang: fr
 type: post
+publishDate: '2009-11-05'
 slug: remember-remember-the-5th-of-november
 section: default
 2009:

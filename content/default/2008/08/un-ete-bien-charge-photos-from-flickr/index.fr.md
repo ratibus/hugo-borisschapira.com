@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-08-24'
 slug: un-ete-bien-charge-photos-from-flickr
 section: default
 2008:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-15'
 slug: team-tornado
 section: papa
 2015:

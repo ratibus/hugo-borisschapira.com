@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-05-26'
 slug: une-grosse-journee-de-commando
 section: default
 2008:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-07'
 slug: hum-cest-pas-les-miens
 section: papa
 2014:

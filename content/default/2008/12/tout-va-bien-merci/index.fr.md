@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-07'
 slug: tout-va-bien-merci
 section: default
 2008:

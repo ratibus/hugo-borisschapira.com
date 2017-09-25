@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-12-23'
 slug: quirks-mode
 section: citoyen
 2015:

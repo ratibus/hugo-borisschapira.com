@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-30'
 slug: la-regle-du-fruit
 section: papa
 2016:

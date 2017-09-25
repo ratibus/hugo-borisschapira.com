@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-11-21'
 slug: reduire-le-suivi
 section: default
 2016:

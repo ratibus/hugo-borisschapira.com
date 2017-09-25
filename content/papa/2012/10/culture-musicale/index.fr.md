@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2012-10-22'
 slug: culture-musicale
 section: papa
 2012:

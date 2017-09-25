@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-06-26'
 slug: personnages-feminins-forts
 section: citoyen
 2016:

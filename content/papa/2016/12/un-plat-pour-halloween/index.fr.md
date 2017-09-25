@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-08'
 slug: un-plat-pour-halloween
 section: papa
 2016:

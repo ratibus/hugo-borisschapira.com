@@ -6,6 +6,7 @@ categories:
 date: '2007-11-09'
 lang: fr
 type: post
+publishDate: '2007-11-09'
 slug: casual-friday
 section: default
 2007:

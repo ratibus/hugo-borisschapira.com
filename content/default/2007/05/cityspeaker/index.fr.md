@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-18'
 slug: cityspeaker
 section: default
 2007:

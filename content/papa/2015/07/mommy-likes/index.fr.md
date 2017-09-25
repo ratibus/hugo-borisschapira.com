@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-07-05'
 slug: mommy-likes
 section: papa
 2015:

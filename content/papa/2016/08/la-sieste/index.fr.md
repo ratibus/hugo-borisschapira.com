@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-31'
 slug: la-sieste
 section: papa
 2016:

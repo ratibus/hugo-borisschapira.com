@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-04'
 slug: cuisine-de-grands
 section: papa
 2015:

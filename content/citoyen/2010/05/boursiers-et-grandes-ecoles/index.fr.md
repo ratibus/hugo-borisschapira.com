@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2010-05-08'
 slug: boursiers-et-grandes-ecoles
 section: citoyen
 2010:

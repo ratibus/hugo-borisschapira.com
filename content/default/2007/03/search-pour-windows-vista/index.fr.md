@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-07'
 slug: search-pour-windows-vista
 section: default
 2007:

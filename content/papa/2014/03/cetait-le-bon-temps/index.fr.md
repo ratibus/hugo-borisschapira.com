@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-03-03'
 slug: cetait-le-bon-temps
 section: papa
 2014:

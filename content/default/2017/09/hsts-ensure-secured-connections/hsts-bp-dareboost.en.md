@@ -10,6 +10,7 @@ categories:
     - default
 tags:
     - 'Performance Web'
+publishDate: '2017-09-18'
 slug: hsts-ensure-secured-connections
 section: default
 2017:

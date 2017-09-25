@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-01-31'
 slug: toi-ti-yarrive
 section: papa
 2017:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-08-29'
 slug: ethique-du-developpement
 section: default
 2011:

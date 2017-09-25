@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-01-22'
 slug: zone-b
 section: default
 2016:

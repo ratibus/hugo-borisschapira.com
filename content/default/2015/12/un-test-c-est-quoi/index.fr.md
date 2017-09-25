@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-12-10'
 slug: un-test-c-est-quoi
 section: default
 2015:

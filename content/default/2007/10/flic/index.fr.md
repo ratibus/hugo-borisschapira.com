@@ -6,6 +6,7 @@ categories:
 date: '2007-10-20'
 lang: fr
 type: post
+publishDate: '2007-10-20'
 slug: flic
 section: default
 2007:

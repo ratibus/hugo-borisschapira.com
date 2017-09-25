@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-09-14'
 slug: envois-postaux-faire-part-remerciement-attention-aux-tarifs
 section: default
 2009:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-12-17'
 slug: regarde
 section: papa
 2015:

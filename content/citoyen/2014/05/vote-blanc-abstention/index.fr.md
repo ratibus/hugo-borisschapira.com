@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-05-03'
 slug: vote-blanc-abstention
 section: citoyen
 2014:

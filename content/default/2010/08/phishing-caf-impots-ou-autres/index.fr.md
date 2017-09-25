@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-08-31'
 slug: phishing-caf-impots-ou-autres
 section: default
 2010:

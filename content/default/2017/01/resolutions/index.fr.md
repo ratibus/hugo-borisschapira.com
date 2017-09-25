@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-01-24'
 slug: resolutions
 section: default
 2017:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-03-10'
 slug: on-vaut-mieux-que-ca
 section: citoyen
 2016:

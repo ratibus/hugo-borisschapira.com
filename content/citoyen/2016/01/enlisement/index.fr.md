@@ -6,6 +6,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-01-12'
 slug: enlisement
 section: citoyen
 2016:

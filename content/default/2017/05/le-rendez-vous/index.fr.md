@@ -7,6 +7,7 @@ categories:
     - default
 tags:
     - anecdotes
+publishDate: '2017-05-15'
 slug: le-rendez-vous
 section: default
 2017:

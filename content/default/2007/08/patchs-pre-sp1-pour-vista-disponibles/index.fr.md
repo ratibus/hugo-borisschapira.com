@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-08'
 slug: patchs-pre-sp1-pour-vista-disponibles
 section: default
 2007:

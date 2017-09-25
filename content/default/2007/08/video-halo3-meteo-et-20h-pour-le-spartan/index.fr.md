@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-27'
 slug: video-halo3-meteo-et-20h-pour-le-spartan
 section: default
 2007:

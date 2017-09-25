@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-29'
 slug: amoureux
 section: papa
 2017:

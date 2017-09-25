@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-21'
 slug: en-attendant-limmunite
 section: papa
 2015:

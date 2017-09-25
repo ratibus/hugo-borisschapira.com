@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-07-22'
 slug: septembre-sera-chaud
 section: citoyen
 2009:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-16'
 slug: silverlight-nouveau-nom-de-wpfe
 section: default
 2007:

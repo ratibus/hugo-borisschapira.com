@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-11-23'
 slug: infobesite-et-rebellion
 section: citoyen
 2016:

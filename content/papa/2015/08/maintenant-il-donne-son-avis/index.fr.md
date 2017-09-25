@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-08-19'
 slug: maintenant-il-donne-son-avis
 section: papa
 2015:

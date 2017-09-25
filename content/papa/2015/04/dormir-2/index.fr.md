@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-04-24'
 slug: dormir-2
 section: papa
 2015:

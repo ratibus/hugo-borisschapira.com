@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-11-08'
 slug: moments-frustrants
 section: default
 2014:

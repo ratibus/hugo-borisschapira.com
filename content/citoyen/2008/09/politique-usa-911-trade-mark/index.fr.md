@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-09-29'
 slug: politique-usa-911-trade-mark
 section: citoyen
 2008:

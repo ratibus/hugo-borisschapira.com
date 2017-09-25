@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-03'
 slug: net-ouvre-son-code
 section: default
 2007:

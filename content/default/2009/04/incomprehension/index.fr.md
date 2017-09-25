@@ -6,6 +6,7 @@ categories:
 date: '2009-04-08'
 lang: fr
 type: post
+publishDate: '2009-04-08'
 slug: incomprehension
 section: default
 2009:

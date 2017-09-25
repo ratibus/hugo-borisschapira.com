@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-11-04'
 slug: attitude-dhomme-blanc
 section: default
 2014:

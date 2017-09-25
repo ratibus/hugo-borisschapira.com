@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-20'
 slug: faut-il-croire-au-web-20
 section: default
 2007:

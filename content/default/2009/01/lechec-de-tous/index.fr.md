@@ -6,6 +6,7 @@ categories:
 date: '2009-01-21'
 lang: fr
 type: post
+publishDate: '2009-01-21'
 slug: lechec-de-tous
 section: default
 2009:

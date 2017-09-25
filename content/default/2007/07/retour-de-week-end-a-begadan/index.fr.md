@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-09'
 slug: retour-de-week-end-a-begadan
 section: default
 2007:

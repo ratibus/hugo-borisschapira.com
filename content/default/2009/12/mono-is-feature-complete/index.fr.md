@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-12-14'
 slug: mono-is-feature-complete
 section: default
 2009:

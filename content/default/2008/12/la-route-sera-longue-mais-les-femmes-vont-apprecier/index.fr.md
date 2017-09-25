@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-17'
 slug: la-route-sera-longue-mais-les-femmes-vont-apprecier
 section: default
 2008:

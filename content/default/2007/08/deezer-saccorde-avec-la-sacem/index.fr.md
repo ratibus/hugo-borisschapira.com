@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-22'
 slug: deezer-saccorde-avec-la-sacem
 section: default
 2007:

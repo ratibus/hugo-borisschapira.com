@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-03-20'
 slug: debats-premier-tour
 section: citoyen
 2017:

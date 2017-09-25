@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-08'
 slug: useless-iphone-of-kant
 section: default
 2008:

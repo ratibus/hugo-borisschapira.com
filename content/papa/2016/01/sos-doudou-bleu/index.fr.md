@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-26'
 slug: sos-doudou-bleu
 section: papa
 2016:

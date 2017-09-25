@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-06-18'
 slug: ressemblance-2
 section: papa
 2015:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-08-10'
 slug: le-sommeil-cest-surfait
 section: papa
 2013:

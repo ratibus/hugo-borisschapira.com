@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-05-02'
 slug: quels-couteurs-choisir-a-votre-avis
 section: default
 2008:

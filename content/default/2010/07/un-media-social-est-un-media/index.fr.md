@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-07-26'
 slug: un-media-social-est-un-media
 section: default
 2010:

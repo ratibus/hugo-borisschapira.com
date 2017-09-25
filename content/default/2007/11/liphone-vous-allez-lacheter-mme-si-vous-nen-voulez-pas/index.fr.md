@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-03'
 slug: liphone-vous-allez-lacheter-mme-si-vous-nen-voulez-pas
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-01-28'
 slug: cest-pas-tres-coordonne-tout-ca
 section: papa
 2011:

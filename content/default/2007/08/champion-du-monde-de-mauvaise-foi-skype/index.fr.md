@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-21'
 slug: champion-du-monde-de-mauvaise-foi-skype
 section: default
 2007:

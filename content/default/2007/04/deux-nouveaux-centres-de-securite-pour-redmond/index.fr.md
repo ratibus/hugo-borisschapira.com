@@ -6,6 +6,7 @@ categories:
 date: '2007-04-27'
 lang: fr
 type: post
+publishDate: '2007-04-27'
 slug: deux-nouveaux-centres-de-securite-pour-redmond
 section: default
 2007:

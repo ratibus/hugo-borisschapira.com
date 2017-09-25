@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2018-10-01'
 slug: retro-il-y-a-dix-ans-e2-80-a6-octobre-2008
 section: citoyen
 2018:

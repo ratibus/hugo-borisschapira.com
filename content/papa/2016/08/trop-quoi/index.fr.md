@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-31'
 slug: trop-quoi
 section: papa
 2016:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-14'
 slug: oh-oh-oh
 section: papa
 2015:

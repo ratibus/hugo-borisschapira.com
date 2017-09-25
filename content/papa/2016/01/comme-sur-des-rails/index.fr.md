@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-17'
 slug: comme-sur-des-rails
 section: papa
 2016:

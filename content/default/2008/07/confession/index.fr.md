@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-07-10'
 slug: confession
 section: default
 2008:

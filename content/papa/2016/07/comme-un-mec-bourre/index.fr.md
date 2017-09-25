@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-31'
 slug: comme-un-mec-bourre
 section: papa
 2016:

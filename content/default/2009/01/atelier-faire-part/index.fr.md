@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-01-06'
 slug: atelier-faire-part
 section: default
 2009:

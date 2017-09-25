@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-20'
 slug: le-debat
 section: papa
 2017:

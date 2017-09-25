@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-05'
 slug: rencontre-avec-sbastien-bourdais
 section: default
 2007:

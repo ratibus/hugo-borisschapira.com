@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-08-25'
 slug: cupidon-du-cracra
 section: papa
 2011:

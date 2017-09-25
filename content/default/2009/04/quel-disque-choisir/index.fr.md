@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-04-22'
 slug: quel-disque-choisir
 section: default
 2009:

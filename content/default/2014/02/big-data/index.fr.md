@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-02-04'
 slug: big-data
 section: default
 2014:

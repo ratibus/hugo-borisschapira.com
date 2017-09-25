@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-10-07'
 slug: craquage
 section: papa
 2016:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-01-31'
 slug: favorables
 section: citoyen
 2016:

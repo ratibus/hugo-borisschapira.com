@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-13'
 slug: encore-marge
 section: default
 2014:

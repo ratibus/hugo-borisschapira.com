@@ -6,6 +6,7 @@ categories:
 date: '2008-07-01'
 lang: fr
 type: post
+publishDate: '2008-07-01'
 slug: reflexe-politique
 section: default
 2008:

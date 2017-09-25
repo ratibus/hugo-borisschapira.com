@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-10-30'
 slug: presque
 section: papa
 2015:

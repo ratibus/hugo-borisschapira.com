@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-12-05'
 slug: et-pourquoi-pas-youtube
 section: default
 2014:

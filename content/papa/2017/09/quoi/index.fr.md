@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-09-12'
 slug: quoi
 section: papa
 2017:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-09'
 slug: skype
 section: papa
 2016:

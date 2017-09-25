@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-02-14'
 slug: rappels-javascript-js-ftw
 section: default
 2014:

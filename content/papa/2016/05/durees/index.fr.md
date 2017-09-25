@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-01'
 slug: durees
 section: papa
 2016:

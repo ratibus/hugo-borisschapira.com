@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-02-16'
 slug: windows-phone-7-ou-sont-les-applications
 section: default
 2010:

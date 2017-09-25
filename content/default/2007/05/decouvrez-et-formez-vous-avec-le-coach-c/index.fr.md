@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-07'
 slug: decouvrez-et-formez-vous-avec-le-coach-c
 section: default
 2007:

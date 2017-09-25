@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-09'
 slug: le-mythe-de-la-giga-communaute-open-source
 section: default
 2007:

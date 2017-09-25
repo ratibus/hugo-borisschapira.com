@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-04-09'
 slug: le-paradoxe-du-smartphone
 section: default
 2010:

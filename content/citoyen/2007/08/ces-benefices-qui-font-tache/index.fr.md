@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-08-20'
 slug: ces-benefices-qui-font-tache
 section: citoyen
 2007:

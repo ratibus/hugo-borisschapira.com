@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-16'
 slug: bon-sens
 section: papa
 2016:

@@ -8,6 +8,7 @@ lang: en
 type: post
 categories:
     - default
+publishDate: '2016-08-09'
 slug: death-the-trivial-way
 section: default
 2016:

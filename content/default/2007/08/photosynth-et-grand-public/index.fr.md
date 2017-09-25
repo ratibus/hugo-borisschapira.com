@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-08'
 slug: photosynth-et-grand-public
 section: default
 2007:

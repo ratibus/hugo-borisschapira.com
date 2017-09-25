@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-02-01'
 slug: stage-dveloppeur-7-conseils-pour-amliorer-votre-cv
 section: default
 2008:

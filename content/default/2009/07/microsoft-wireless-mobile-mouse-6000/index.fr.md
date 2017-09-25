@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-07-27'
 slug: microsoft-wireless-mobile-mouse-6000
 section: default
 2009:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-05-19'
 slug: a-propos-deducation
 section: citoyen
 2008:

@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-13'
 slug: ie6-arrive-a-un-certain-etat
 section: default
 2009:

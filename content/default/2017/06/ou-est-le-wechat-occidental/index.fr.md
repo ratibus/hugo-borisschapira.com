@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-06-20'
 slug: ou-est-le-wechat-occidental
 section: default
 2017:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-06-24'
 slug: twitter-commencez-maintenant
 section: default
 2009:

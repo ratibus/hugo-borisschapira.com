@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-08-29'
 slug: salaires
 section: citoyen
 2016:

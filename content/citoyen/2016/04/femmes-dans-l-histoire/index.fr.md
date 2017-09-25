@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-04-20'
 slug: femmes-dans-l-histoire
 section: citoyen
 2016:

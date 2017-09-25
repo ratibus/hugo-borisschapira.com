@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-11-04'
 slug: utilisabilite-logiciel-libre-firefox
 section: default
 2014:

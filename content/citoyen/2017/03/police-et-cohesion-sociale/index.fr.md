@@ -7,6 +7,7 @@ categories:
     - citoyen
 tags:
     - police
+publishDate: '2017-03-28'
 slug: police-et-cohesion-sociale
 section: citoyen
 2017:

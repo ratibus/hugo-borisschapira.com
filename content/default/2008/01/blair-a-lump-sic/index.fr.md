@@ -6,6 +6,7 @@ categories:
 date: '2008-01-15'
 lang: fr
 type: post
+publishDate: '2008-01-15'
 slug: blair-a-lump-sic
 section: default
 2008:

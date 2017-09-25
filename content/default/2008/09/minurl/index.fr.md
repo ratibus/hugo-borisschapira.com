@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-09-02'
 slug: minurl
 section: default
 2008:

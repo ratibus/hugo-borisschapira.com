@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-12-15'
 slug: mamie-fait-des-trucs-avec-un-barbu
 section: papa
 2013:

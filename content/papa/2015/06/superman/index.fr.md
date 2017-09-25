@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-06-28'
 slug: superman
 section: papa
 2015:

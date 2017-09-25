@@ -14,6 +14,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-02'
 slug: 3-grosses-news-sur-silverlight
 section: default
 2007:

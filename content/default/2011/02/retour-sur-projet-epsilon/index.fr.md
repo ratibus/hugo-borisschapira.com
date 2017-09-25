@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-02-20'
 slug: retour-sur-projet-epsilon
 section: default
 2011:

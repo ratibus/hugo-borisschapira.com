@@ -6,6 +6,7 @@ categories:
 date: '2007-05-31'
 lang: fr
 type: post
+publishDate: '2007-05-31'
 slug: microsoft-pour-les-tudiants
 section: default
 2007:

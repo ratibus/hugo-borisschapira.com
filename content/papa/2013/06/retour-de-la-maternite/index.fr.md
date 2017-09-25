@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-06-22'
 slug: retour-de-la-maternite
 section: papa
 2013:

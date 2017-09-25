@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-01-23'
 slug: appartement-cest-plus-possible
 section: default
 2009:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-16'
 slug: 8-facons-de-me-faire-fuir
 section: default
 2007:

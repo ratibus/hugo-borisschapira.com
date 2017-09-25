@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-09-29'
 slug: sur-la-porte-bordel
 section: papa
 2013:

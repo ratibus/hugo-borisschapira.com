@@ -7,6 +7,7 @@ canonical: 'https://blog.clever-age.com/en/2017/07/07/web-apps-there-is-no-silve
 type: post
 categories:
     - default
+publishDate: '2017-02-01'
 slug: apps-vs-webapps-no-silver-bullet
 section: default
 2017:

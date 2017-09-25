@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-19'
 slug: comme-papa
 section: papa
 2016:

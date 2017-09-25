@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-02-10'
 slug: pas-prepares
 section: papa
 2015:

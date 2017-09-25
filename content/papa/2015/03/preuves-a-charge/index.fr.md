@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-12'
 slug: preuves-a-charge
 section: papa
 2015:

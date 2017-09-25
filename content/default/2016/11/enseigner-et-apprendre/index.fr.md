@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-11-26'
 slug: enseigner-et-apprendre
 section: default
 2016:

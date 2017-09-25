@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-07-03'
 slug: productivite
 section: papa
 2013:

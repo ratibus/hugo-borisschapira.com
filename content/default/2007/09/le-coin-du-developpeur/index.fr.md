@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-02'
 slug: le-coin-du-developpeur
 section: default
 2007:

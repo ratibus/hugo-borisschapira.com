@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-01-31'
 slug: powershell-disponible
 section: default
 2007:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-05'
 slug: presentation-eisti-merci
 section: default
 2009:

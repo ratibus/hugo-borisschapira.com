@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-09-02'
 slug: vs2010-productivity-power-tools
 section: default
 2010:

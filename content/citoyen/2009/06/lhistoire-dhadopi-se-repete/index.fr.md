@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-06-30'
 slug: lhistoire-dhadopi-se-repete
 section: citoyen
 2009:

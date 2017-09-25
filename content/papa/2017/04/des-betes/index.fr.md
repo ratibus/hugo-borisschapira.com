@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-04-28'
 slug: des-betes
 section: papa
 2017:

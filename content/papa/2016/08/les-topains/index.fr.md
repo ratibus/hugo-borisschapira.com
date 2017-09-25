@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-02'
 slug: les-topains
 section: papa
 2016:

@@ -6,6 +6,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-01-24'
 slug: appauvrissement-et-marginalisation
 section: citoyen
 2015:

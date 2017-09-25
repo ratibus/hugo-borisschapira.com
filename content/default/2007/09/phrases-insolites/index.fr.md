@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-25'
 slug: phrases-insolites
 section: default
 2007:

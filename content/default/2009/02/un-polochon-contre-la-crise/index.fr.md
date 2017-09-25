@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-17'
 slug: un-polochon-contre-la-crise
 section: default
 2009:

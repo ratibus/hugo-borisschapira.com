@@ -9,6 +9,7 @@ tags:
     - police
     - armée
     - 'État d''Urgence'
+publishDate: '2017-04-03'
 slug: le-piege-de-loperation-sentinelle
 section: citoyen
 2017:

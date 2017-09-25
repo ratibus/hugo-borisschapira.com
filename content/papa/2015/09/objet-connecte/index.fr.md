@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-17'
 slug: objet-connecte
 section: papa
 2015:

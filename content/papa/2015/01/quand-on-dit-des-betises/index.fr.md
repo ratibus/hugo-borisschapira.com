@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-01-22'
 slug: quand-on-dit-des-betises
 section: papa
 2015:

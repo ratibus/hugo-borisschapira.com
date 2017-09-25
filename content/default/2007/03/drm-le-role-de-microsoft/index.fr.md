@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-14'
 slug: drm-le-role-de-microsoft
 section: default
 2007:

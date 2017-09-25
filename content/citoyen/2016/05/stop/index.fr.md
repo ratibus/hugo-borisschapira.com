@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-05-18'
 slug: stop
 section: citoyen
 2016:

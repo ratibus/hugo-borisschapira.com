@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-09-17'
 slug: desirs-avenirs
 section: citoyen
 2009:

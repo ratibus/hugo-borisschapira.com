@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-11-04'
 slug: monsieur-vous-devez-resilier-bye-bye-free-23
 section: default
 2008:

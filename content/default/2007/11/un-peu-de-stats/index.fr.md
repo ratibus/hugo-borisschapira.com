@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-03'
 slug: un-peu-de-stats
 section: default
 2007:

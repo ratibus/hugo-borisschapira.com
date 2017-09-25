@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-11-28'
 slug: scripts-tiers-ne-lache-rien
 section: default
 2013:

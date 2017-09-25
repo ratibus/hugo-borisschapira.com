@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-02'
 slug: histoire
 section: papa
 2016:

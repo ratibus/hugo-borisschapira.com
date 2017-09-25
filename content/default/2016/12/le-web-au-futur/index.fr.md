@@ -7,6 +7,7 @@ categories:
     - default
 tags:
     - nowwwel
+publishDate: '2016-12-22'
 slug: le-web-au-futur
 section: default
 2016:

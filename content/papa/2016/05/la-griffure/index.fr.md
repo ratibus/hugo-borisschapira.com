@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-24'
 slug: la-griffure
 section: papa
 2016:

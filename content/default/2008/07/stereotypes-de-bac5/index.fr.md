@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-07-07'
 slug: stereotypes-de-bac5
 section: default
 2008:

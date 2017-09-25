@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-04-02'
 slug: scrumbut-cargo-cult
 section: default
 2017:

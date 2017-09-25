@@ -6,6 +6,7 @@ categories:
 date: '2009-01-22'
 lang: fr
 type: post
+publishDate: '2009-01-22'
 slug: et-ce-qui-devait-arriver-arriva
 section: default
 2009:

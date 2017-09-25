@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-25'
 slug: le-tact-incarne
 section: papa
 2016:

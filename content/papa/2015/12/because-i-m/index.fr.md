@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-12-14'
 slug: because-i-m
 section: papa
 2015:

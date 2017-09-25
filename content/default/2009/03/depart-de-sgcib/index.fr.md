@@ -11,6 +11,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-03-31'
 slug: depart-de-sgcib
 section: default
 2009:

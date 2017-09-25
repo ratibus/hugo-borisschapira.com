@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-02-26'
 slug: twitter-ce-megaphone
 section: default
 2009:

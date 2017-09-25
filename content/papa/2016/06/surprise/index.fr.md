@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-06-19'
 slug: surprise
 section: papa
 2016:

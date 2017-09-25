@@ -5,6 +5,7 @@ categories:
 date: '2008-02-22'
 lang: fr
 type: post
+publishDate: '2008-02-22'
 slug: ligne-1-lart-de-detendre-ses-usagers
 section: default
 2008:

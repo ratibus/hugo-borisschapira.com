@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-18'
 slug: papy-fache
 section: papa
 2016:

@@ -6,6 +6,7 @@ categories:
 date: '2007-11-27'
 lang: fr
 type: post
+publishDate: '2007-11-27'
 slug: quand-jtais-petit-la-chine-tait-une-dictature
 section: default
 2007:

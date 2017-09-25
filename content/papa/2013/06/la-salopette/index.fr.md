@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-06-13'
 slug: la-salopette
 section: papa
 2013:

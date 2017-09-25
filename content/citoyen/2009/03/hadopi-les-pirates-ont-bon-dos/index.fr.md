@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-18'
 slug: hadopi-les-pirates-ont-bon-dos
 section: citoyen
 2009:

@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-09-11'
 slug: rester-sous-windows-phone
 section: default
 2013:

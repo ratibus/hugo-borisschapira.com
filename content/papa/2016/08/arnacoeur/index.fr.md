@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-08-31'
 slug: arnacoeur
 section: papa
 2016:

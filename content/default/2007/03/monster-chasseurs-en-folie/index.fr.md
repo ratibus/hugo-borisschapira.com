@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-09'
 slug: monster-chasseurs-en-folie
 section: default
 2007:

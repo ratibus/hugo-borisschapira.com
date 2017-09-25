@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-25'
 slug: limagine-cup-soffre-une-soiree-virtuelle
 section: default
 2007:

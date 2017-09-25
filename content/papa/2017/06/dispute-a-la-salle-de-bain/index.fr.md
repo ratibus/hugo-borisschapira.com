@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-17'
 slug: dispute-a-la-salle-de-bain
 section: papa
 2017:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-04-08'
 slug: hadopi-en-commission-mixte-paritaire
 section: citoyen
 2009:

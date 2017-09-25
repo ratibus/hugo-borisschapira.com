@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-12-09'
 slug: nicolas-sarkozy-le-monde-et-les-musulmans
 section: citoyen
 2009:

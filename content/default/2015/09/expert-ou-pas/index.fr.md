@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-09-23'
 slug: expert-ou-pas
 section: default
 2015:

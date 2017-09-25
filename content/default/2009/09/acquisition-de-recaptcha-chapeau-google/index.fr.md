@@ -6,6 +6,7 @@ categories:
 date: '2009-09-22'
 lang: fr
 type: post
+publishDate: '2009-09-22'
 slug: acquisition-de-recaptcha-chapeau-google
 section: default
 2009:

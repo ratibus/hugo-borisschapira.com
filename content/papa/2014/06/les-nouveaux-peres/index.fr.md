@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-06-15'
 slug: les-nouveaux-peres
 section: papa
 2014:

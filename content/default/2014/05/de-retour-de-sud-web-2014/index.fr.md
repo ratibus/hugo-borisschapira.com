@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-17'
 slug: de-retour-de-sud-web-2014
 section: default
 2014:

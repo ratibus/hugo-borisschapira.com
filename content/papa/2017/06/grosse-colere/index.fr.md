@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-01'
 slug: grosse-colere
 section: papa
 2017:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-03-01'
 slug: personnages-de-dessins-animes
 section: papa
 2015:

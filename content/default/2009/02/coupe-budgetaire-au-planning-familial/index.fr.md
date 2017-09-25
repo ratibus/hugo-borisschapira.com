@@ -6,6 +6,7 @@ categories:
 date: '2009-02-04'
 lang: fr
 type: post
+publishDate: '2009-02-04'
 slug: coupe-budgetaire-au-planning-familial
 section: default
 2009:

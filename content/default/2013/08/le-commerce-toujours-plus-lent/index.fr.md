@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2013-08-06'
 slug: le-commerce-toujours-plus-lent
 section: default
 2013:

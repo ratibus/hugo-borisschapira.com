@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-15'
 slug: tout-est-relatif-quil-disait
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 published: false
 categories:
     - default
+publishDate: '2017-09-14'
 slug: nouveau-depart
 section: default
 2017:

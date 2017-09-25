@@ -6,6 +6,7 @@ categories:
 date: '2008-12-22'
 lang: fr
 type: post
+publishDate: '2008-12-22'
 slug: les-entretiens-de-lamf-2008-23-regulation-des-produits-traites-de-gre-a-gre
 section: default
 2008:

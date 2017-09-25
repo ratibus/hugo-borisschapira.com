@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-12-21'
 slug: trois-lois
 section: default
 2015:

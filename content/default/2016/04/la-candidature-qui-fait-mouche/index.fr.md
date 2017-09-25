@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-04-06'
 slug: la-candidature-qui-fait-mouche
 section: default
 2016:

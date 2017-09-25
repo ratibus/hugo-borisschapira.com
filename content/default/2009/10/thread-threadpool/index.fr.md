@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-10-06'
 slug: thread-threadpool
 section: default
 2009:

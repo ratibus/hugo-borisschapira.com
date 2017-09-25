@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-09-06'
 slug: github-communique-sur-son-monitoring-de-la-performance
 section: default
 2012:

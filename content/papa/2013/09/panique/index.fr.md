@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-09-10'
 slug: panique
 section: papa
 2013:

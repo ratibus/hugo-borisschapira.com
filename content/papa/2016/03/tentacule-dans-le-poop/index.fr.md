@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-03-09'
 slug: tentacule-dans-le-poop
 section: papa
 2016:

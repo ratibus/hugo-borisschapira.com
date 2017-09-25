@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-07-29'
 slug: facebook-a-dit-il-va-bien
 section: citoyen
 2009:

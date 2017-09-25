@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-03-18'
 slug: grand-mchant-capital
 section: citoyen
 2008:

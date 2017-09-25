@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-30'
 slug: le-parlement-europeen-narretera-pas-hadopi
 section: citoyen
 2009:

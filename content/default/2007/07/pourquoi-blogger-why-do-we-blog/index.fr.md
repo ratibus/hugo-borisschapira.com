@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-13'
 slug: pourquoi-blogger-why-do-we-blog
 section: default
 2007:

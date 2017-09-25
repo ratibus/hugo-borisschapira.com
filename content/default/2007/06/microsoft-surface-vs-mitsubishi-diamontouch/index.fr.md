@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-04'
 slug: microsoft-surface-vs-mitsubishi-diamontouch
 section: default
 2007:

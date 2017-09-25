@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-04-12'
 slug: cinq-mois
 section: citoyen
 2016:

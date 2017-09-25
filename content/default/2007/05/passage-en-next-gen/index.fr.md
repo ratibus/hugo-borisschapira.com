@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-14'
 slug: passage-en-next-gen
 section: default
 2007:

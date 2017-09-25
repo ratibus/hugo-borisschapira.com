@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-24'
 slug: entrees-distinctes-et-datatable
 section: default
 2009:

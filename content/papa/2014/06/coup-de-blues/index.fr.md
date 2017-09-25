@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-06-14'
 slug: coup-de-blues
 section: papa
 2014:

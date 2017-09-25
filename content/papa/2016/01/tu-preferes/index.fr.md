@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-16'
 slug: tu-preferes
 section: papa
 2016:

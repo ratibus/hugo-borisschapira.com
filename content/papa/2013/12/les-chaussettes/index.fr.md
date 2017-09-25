@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-12-14'
 slug: les-chaussettes
 section: papa
 2013:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-16'
 slug: juste-un-papa
 section: papa
 2016:

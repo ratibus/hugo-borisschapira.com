@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-19'
 slug: 8-choses-que-vous-ne-savez-pas-sur-mme-schapira
 section: default
 2009:

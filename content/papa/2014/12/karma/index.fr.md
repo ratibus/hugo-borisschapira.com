@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-12-15'
 slug: karma
 section: papa
 2014:

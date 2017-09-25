@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-12'
 slug: bang-plus-rien
 section: citoyen
 2009:

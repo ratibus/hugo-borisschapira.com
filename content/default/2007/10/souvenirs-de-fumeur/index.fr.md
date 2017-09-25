@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-24'
 slug: souvenirs-de-fumeur
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-17'
 slug: sortir-mamie
 section: papa
 2016:

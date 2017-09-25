@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-03-06'
 slug: emploi-precarite-stages-et-auto-reve
 section: default
 2010:

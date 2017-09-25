@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-04-20'
 slug: dd
 section: papa
 2014:

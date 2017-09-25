@@ -6,6 +6,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-25'
 slug: preuve-fees-existent
 section: papa
 2016:

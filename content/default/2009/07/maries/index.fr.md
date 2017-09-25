@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-07-17'
 slug: maries
 section: default
 2009:

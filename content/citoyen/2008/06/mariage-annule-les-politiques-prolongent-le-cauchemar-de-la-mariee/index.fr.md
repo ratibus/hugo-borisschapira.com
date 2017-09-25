@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-06-03'
 slug: mariage-annule-les-politiques-prolongent-le-cauchemar-de-la-mariee
 section: citoyen
 2008:

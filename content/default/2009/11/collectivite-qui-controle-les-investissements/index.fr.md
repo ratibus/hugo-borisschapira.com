@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-12'
 slug: collectivite-qui-controle-les-investissements
 section: default
 2009:

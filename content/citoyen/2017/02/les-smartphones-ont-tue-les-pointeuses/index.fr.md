@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-02-25'
 slug: les-smartphones-ont-tue-les-pointeuses
 section: citoyen
 2017:

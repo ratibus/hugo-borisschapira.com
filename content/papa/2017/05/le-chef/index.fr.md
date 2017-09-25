@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-05-04'
 slug: le-chef
 section: papa
 2017:

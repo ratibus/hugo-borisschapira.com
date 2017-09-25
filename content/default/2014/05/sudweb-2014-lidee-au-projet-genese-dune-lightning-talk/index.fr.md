@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-05-16'
 slug: sudweb-2014-lidee-au-projet-genese-dune-lightning-talk
 section: default
 2014:

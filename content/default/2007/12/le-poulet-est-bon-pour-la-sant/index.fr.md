@@ -6,6 +6,7 @@ categories:
 date: '2007-12-18'
 lang: fr
 type: post
+publishDate: '2007-12-18'
 slug: le-poulet-est-bon-pour-la-sant
 section: default
 2007:

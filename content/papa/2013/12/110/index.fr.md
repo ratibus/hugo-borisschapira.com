@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-12-02'
 slug: '110'
 section: papa
 2013:

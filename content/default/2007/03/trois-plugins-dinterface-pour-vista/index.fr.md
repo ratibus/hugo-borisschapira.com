@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-03-28'
 slug: trois-plugins-dinterface-pour-vista
 section: default
 2007:

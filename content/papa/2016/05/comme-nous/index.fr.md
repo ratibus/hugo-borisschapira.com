@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-31'
 slug: comme-nous
 section: papa
 2016:

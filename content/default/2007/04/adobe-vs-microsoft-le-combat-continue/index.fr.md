@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-24'
 slug: adobe-vs-microsoft-le-combat-continue
 section: default
 2007:

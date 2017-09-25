@@ -15,6 +15,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-09'
 slug: les-dernieres-technos-ms-un-enjeu-de-civilization
 section: default
 2007:

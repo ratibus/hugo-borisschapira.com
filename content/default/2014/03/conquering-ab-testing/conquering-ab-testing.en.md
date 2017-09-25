@@ -8,6 +8,7 @@ lang: en
 type: post
 categories:
     - default
+publishDate: '2014-03-13'
 slug: conquering-ab-testing
 section: default
 2014:

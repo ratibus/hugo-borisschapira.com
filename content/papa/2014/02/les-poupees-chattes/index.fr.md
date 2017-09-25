@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-02-21'
 slug: les-poupees-chattes
 section: papa
 2014:

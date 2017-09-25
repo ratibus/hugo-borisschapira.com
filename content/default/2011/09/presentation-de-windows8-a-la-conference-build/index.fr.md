@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-09-14'
 slug: presentation-de-windows8-a-la-conference-build
 section: default
 2011:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-08'
 slug: comme-des-chiens
 section: papa
 2016:

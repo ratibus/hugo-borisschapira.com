@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-12-21'
 slug: envahis-par-des-lutins
 section: default
 2007:

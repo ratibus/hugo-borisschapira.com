@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-06-22'
 slug: remerciements
 section: papa
 2013:

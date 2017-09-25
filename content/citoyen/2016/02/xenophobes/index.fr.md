@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-02-01'
 slug: xenophobes
 section: citoyen
 2016:

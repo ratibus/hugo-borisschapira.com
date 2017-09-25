@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-07-17'
 slug: retour-vers-le-futur
 section: default
 2007:

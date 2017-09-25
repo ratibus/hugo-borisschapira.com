@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-30'
 slug: hiro-plus-fort-que-baudelaire
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-24'
 slug: je-les-vois-pas
 section: papa
 2016:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-02-07'
 slug: un-peu-dactu-politique-et-financiere
 section: citoyen
 2008:

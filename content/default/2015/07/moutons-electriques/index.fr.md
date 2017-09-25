@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-07-27'
 slug: moutons-electriques
 section: default
 2015:

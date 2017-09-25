@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-02-28'
 slug: aspirateurs-a-valeurs
 section: citoyen
 2017:

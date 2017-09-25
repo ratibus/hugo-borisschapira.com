@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-19'
 slug: justicier-des-ferias
 section: papa
 2016:

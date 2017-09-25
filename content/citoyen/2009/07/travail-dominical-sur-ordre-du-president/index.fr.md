@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-07-01'
 slug: travail-dominical-sur-ordre-du-president
 section: citoyen
 2009:

@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-28'
 slug: sharepoint-et-interoperabilite
 section: default
 2007:

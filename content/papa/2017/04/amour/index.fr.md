@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-04-14'
 slug: amour
 section: papa
 2017:

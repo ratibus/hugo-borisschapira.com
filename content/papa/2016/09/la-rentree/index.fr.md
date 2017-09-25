@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-03'
 slug: la-rentree
 section: papa
 2016:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-19'
 slug: jeu-de-cartes
 section: papa
 2017:

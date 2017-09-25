@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-05-17'
 slug: comptines
 section: papa
 2014:

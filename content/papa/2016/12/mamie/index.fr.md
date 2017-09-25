@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-12-06'
 slug: mamie
 section: papa
 2016:

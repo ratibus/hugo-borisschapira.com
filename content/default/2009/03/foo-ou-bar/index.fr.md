@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-03-05'
 slug: foo-ou-bar
 section: default
 2009:

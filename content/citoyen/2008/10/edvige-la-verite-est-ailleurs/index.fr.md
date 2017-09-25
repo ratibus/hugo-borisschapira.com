@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-10-10'
 slug: edvige-la-verite-est-ailleurs
 section: citoyen
 2008:

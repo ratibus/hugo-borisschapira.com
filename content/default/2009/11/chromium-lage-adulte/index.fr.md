@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-11-09'
 slug: chromium-lage-adulte
 section: default
 2009:

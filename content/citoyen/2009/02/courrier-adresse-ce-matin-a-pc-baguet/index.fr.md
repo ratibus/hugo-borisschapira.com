@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-02-27'
 slug: courrier-adresse-ce-matin-a-pc-baguet
 section: citoyen
 2009:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-29'
 slug: vista-sp1-premier-trimestre-2008
 section: default
 2007:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-29'
 slug: impressionnant-traitement-dimages
 section: default
 2007:

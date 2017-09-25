@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-13'
 slug: urgent-recherche-dun-developpeur-xna
 section: default
 2007:

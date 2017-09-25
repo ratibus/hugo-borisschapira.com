@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2008-12-24'
 slug: combien-faudra-t-il-de-morts-pour-censurer-internet
 section: citoyen
 2008:

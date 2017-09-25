@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-08-10'
 slug: chapcheup
 section: papa
 2014:

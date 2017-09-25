@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-08'
 slug: drole-de-coincidence
 section: default
 2007:

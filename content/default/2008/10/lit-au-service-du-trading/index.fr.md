@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-10-21'
 slug: lit-au-service-du-trading
 section: default
 2008:

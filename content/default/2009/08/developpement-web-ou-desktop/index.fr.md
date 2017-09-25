@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-08-17'
 slug: developpement-web-ou-desktop
 section: default
 2009:

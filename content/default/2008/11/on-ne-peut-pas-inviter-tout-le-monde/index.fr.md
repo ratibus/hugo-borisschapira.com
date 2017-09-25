@@ -5,6 +5,7 @@ categories:
 date: '2008-11-23'
 lang: fr
 type: post
+publishDate: '2008-11-23'
 slug: on-ne-peut-pas-inviter-tout-le-monde
 section: default
 2008:

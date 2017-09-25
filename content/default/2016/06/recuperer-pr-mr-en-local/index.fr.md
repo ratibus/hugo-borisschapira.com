@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-06-17'
 slug: recuperer-pr-mr-en-local
 section: default
 2016:

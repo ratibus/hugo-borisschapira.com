@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-08-10'
 slug: une-application-net-sur-iphone
 section: default
 2009:

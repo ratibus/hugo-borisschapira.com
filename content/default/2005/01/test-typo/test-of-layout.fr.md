@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2005-01-01'
 slug: test-typo
 section: default
 2005:

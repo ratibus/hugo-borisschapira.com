@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-01'
 slug: un-poisson-lanterne-pour-naviguer
 section: default
 2007:

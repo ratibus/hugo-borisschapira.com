@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-02-14'
 slug: guide-de-survie-aux-discussions
 section: citoyen
 2017:

@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2006-08-30'
 slug: petits-utilitaires-du-quotidien-sous-xp
 section: default
 2006:

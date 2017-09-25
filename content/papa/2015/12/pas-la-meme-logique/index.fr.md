@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-12-06'
 slug: pas-la-meme-logique
 section: papa
 2015:

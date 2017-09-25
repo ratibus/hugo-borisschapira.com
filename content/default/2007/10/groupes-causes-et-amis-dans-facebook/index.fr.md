@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-10-22'
 slug: groupes-causes-et-amis-dans-facebook
 section: default
 2007:

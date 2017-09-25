@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-18'
 slug: attribut-de-grand
 section: papa
 2014:

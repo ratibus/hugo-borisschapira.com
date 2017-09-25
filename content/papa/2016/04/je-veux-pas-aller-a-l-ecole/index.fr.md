@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-04-25'
 slug: je-veux-pas-aller-a-l-ecole
 section: papa
 2016:

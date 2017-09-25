@@ -6,6 +6,7 @@ categories:
 date: '2009-01-22'
 lang: fr
 type: post
+publishDate: '2009-01-22'
 slug: comme-chaque-annee-le-rapport-ces-dolivier-ezratty
 section: default
 2009:

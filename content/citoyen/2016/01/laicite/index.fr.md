@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-01-06'
 slug: laicite
 section: citoyen
 2016:

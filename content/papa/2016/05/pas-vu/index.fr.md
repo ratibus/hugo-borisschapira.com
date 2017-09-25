@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-05-02'
 slug: pas-vu
 section: papa
 2016:

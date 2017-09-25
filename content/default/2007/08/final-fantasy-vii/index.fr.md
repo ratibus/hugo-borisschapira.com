@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-16'
 slug: final-fantasy-vii
 section: default
 2007:

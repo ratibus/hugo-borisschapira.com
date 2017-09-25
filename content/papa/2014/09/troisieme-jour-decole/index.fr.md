@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-09-04'
 slug: troisieme-jour-decole
 section: papa
 2014:

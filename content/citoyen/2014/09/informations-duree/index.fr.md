@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2014-09-15'
 slug: informations-duree
 section: citoyen
 2014:

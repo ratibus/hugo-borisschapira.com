@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-05-16'
 slug: un-retour-sur-opquast-certified
 section: default
 2016:

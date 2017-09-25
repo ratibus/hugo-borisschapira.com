@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-09-23'
 slug: l-enigme-de-la-meche-coupee
 section: papa
 2016:

@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2007-11-10'
 slug: ras-la-tronche-des-sondages
 section: citoyen
 2007:

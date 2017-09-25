@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-29'
 slug: pipiak
 section: papa
 2014:

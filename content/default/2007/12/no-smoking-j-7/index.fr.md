@@ -6,6 +6,7 @@ categories:
 date: '2007-12-25'
 lang: fr
 type: post
+publishDate: '2007-12-25'
 slug: no-smoking-j-7
 section: default
 2007:

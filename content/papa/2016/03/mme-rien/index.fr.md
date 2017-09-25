@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-03-17'
 slug: mme-rien
 section: papa
 2016:

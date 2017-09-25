@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-30'
 slug: une-journee-de-boulot-ordinaire-chez-microsoft-france-ou-alors-pas-du-tout
 section: default
 2007:

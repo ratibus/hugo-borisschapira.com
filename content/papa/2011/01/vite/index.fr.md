@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-01-31'
 slug: vite
 section: papa
 2011:

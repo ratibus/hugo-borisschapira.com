@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-11-18'
 slug: le-cousin
 section: citoyen
 2015:

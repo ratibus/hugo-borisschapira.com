@@ -11,6 +11,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-05-15'
 slug: definition-codeplex
 section: default
 2007:

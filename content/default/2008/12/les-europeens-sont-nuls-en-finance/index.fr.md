@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-12-05'
 slug: les-europeens-sont-nuls-en-finance
 section: default
 2008:

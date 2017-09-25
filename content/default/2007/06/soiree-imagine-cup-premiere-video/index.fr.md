@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-13'
 slug: soiree-imagine-cup-premiere-video
 section: default
 2007:

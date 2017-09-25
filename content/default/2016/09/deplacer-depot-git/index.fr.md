@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-09-10'
 slug: deplacer-depot-git
 section: default
 2016:

@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-15'
 slug: definition-rss
 section: default
 2007:

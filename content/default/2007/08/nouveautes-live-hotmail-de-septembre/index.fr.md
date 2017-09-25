@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-08-27'
 slug: nouveautes-live-hotmail-de-septembre
 section: default
 2007:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-10-23'
 slug: relativite
 section: papa
 2015:

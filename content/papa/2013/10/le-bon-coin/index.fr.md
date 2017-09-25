@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-10-04'
 slug: le-bon-coin
 section: papa
 2013:

@@ -6,6 +6,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2015-11-17'
 slug: denoncer-sous-occupation
 section: citoyen
 2015:

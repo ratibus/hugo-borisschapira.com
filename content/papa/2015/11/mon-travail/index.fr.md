@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-11-24'
 slug: mon-travail
 section: papa
 2015:

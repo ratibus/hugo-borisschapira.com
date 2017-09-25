@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-11-13'
 slug: dans-la-peau
 section: papa
 2016:

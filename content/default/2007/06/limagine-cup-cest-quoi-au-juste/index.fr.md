@@ -10,6 +10,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-01'
 slug: limagine-cup-cest-quoi-au-juste
 section: default
 2007:

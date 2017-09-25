@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-09'
 slug: la-reine-des
 section: papa
 2016:

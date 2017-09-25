@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-05-03'
 slug: html5-barre-laterale
 section: default
 2010:

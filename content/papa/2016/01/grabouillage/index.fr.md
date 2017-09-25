@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-25'
 slug: grabouillage
 section: papa
 2016:

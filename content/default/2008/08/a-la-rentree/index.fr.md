@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-08-22'
 slug: a-la-rentree
 section: default
 2008:

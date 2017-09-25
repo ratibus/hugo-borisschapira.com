@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-06-06'
 slug: fils-de-patissiere
 section: papa
 2017:

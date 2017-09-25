@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-18'
 slug: quand-les-it-se-moquent-des-it-cest-complexit
 section: default
 2007:

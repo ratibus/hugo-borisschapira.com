@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2016-09-16'
 slug: les-anti-burkinis-5eme-colonne-de-letat-islamique
 section: citoyen
 2016:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2011-12-11'
 slug: faut-comprendre
 section: papa
 2011:

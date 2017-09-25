@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-12-20'
 slug: chacun-sa-cuillere
 section: papa
 2014:

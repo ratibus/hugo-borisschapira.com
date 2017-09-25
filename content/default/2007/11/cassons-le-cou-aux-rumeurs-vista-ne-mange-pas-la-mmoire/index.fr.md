@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-11-04'
 slug: cassons-le-cou-aux-rumeurs-vista-ne-mange-pas-la-mmoire
 section: default
 2007:

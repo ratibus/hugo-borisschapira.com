@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2016-05-06'
 slug: trouver-une-alternance
 section: default
 2016:

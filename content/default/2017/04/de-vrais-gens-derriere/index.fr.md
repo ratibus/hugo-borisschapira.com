@@ -7,6 +7,7 @@ categories:
     - default
 tags:
     - anecdotes
+publishDate: '2017-04-15'
 slug: de-vrais-gens-derriere
 section: default
 2017:

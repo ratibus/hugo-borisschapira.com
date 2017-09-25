@@ -6,6 +6,7 @@ categories:
 date: '2008-02-19'
 lang: fr
 type: post
+publishDate: '2008-02-19'
 slug: zazie-jtais-l
 section: default
 2008:

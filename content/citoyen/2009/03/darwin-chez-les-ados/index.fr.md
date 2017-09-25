@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-03-05'
 slug: darwin-chez-les-ados
 section: citoyen
 2009:

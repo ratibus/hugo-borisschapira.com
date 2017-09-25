@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-03-06'
 slug: ecriture
 section: papa
 2016:

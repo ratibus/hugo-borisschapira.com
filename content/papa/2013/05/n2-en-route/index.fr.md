@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-05-07'
 slug: n2-en-route
 section: papa
 2013:

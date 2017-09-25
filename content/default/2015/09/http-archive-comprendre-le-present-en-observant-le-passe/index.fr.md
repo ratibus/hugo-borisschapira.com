@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2015-09-04'
 slug: http-archive-comprendre-le-present-en-observant-le-passe
 section: default
 2015:

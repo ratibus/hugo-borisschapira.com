@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-18'
 slug: microsoft-et-la-cej
 section: default
 2007:

@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-12-28'
 slug: xbrl-pour-lechange-de-donnees-financieres
 section: default
 2009:

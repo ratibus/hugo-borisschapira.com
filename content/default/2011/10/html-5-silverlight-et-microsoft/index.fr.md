@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-10-02'
 slug: html-5-silverlight-et-microsoft
 section: default
 2011:

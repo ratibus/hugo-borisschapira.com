@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2008-05-31'
 slug: le-vilain-mechant-investisseur-et-le-trader-fou
 section: default
 2008:

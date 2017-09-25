@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-09-13'
 slug: la-vraie-raison
 section: papa
 2014:

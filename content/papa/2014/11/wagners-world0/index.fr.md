@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-11-08'
 slug: wagners-world0
 section: papa
 2014:

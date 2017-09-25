@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-10-08'
 slug: os-5-0-0-190-sur-mon-bold-9000
 section: default
 2009:

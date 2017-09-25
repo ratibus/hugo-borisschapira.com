@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-07-05'
 slug: matinaux
 section: papa
 2014:

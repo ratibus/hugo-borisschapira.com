@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2012-10-25'
 slug: plugnplay
 section: papa
 2012:

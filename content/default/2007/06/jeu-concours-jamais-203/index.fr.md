@@ -13,6 +13,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-06-11'
 slug: jeu-concours-jamais-203
 section: default
 2007:

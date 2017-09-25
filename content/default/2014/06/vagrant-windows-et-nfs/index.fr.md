@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2014-06-23'
 slug: vagrant-windows-et-nfs
 section: default
 2014:

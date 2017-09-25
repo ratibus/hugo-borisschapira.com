@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2017-02-08'
 slug: revenu-de-base
 section: citoyen
 2017:

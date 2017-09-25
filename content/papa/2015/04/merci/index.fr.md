@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-04-17'
 slug: merci
 section: papa
 2015:

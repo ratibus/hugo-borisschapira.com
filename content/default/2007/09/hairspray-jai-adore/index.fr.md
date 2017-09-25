@@ -6,6 +6,7 @@ categories:
 date: '2007-09-01'
 lang: fr
 type: post
+publishDate: '2007-09-01'
 slug: hairspray-jai-adore
 section: default
 2007:

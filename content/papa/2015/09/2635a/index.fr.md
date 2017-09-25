@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-09-15'
 slug: 2635a
 section: papa
 2015:

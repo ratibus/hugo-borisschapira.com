@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-01-24'
 slug: au-reveil
 section: papa
 2016:

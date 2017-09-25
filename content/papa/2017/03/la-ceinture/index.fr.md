@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-26'
 slug: la-ceinture
 section: papa
 2017:

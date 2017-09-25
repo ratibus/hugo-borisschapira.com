@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2011-01-06'
 slug: societe-recherche-stagiaire-experimente
 section: default
 2011:

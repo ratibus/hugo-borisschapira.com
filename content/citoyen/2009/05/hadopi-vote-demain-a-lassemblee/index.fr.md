@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-05-11'
 slug: hadopi-vote-demain-a-lassemblee
 section: citoyen
 2009:

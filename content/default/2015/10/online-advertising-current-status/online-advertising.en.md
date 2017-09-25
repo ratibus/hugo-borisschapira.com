@@ -12,6 +12,7 @@ lang: en
 type: post
 categories:
     - default
+publishDate: '2015-10-22'
 slug: online-advertising-current-status
 section: default
 2015:

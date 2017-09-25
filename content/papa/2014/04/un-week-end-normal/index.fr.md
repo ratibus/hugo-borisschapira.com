@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2014-04-13'
 slug: un-week-end-normal
 section: papa
 2014:

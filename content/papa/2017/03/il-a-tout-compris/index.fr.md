@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-28'
 slug: il-a-tout-compris
 section: papa
 2017:

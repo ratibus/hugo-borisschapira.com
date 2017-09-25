@@ -8,6 +8,7 @@ tags:
     - 'Performance Web'
 categories:
     - default
+publishDate: '2014-12-05'
 slug: pourquoi-la-performance-web
 section: default
 2014:

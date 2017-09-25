@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-01'
 slug: esperanto
 section: papa
 2016:

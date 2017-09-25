@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-10'
 slug: dinosaures
 section: papa
 2016:

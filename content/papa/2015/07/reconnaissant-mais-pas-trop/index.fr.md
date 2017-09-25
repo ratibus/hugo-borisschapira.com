@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2015-07-19'
 slug: reconnaissant-mais-pas-trop
 section: papa
 2015:

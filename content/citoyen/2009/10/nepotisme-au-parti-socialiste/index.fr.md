@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2009-10-15'
 slug: nepotisme-au-parti-socialiste
 section: citoyen
 2009:

@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2017-03-18'
 slug: digital
 section: default
 2017:

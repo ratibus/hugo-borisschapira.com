@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2013-09-08'
 slug: camping
 section: papa
 2013:

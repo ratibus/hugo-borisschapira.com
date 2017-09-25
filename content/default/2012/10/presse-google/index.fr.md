@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2012-10-23'
 slug: presse-google
 section: default
 2012:

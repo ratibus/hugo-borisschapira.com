@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2010-12-27'
 slug: un-an-deja
 section: default
 2010:

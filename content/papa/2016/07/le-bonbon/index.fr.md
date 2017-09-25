@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-07-16'
 slug: le-bonbon
 section: papa
 2016:

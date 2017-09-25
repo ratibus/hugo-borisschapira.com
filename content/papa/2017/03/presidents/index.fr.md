@@ -5,6 +5,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2017-03-21'
 slug: presidents
 section: papa
 2017:

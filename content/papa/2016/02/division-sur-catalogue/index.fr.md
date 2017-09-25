@@ -9,6 +9,7 @@ lang: fr
 type: post
 categories:
     - papa
+publishDate: '2016-02-15'
 slug: division-sur-catalogue
 section: papa
 2016:

@@ -6,6 +6,7 @@ categories:
 date: '2008-09-28'
 lang: fr
 type: post
+publishDate: '2008-09-28'
 slug: politique-royal-fait-son-show
 section: default
 2008:

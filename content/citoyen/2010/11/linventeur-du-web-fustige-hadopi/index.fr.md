@@ -7,6 +7,7 @@ lang: fr
 type: post
 categories:
     - citoyen
+publishDate: '2010-11-26'
 slug: linventeur-du-web-fustige-hadopi
 section: citoyen
 2010:

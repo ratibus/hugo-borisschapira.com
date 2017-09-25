@@ -12,6 +12,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-09-20'
 slug: devenez-pro-dun-web-plus-net
 section: default
 2007:

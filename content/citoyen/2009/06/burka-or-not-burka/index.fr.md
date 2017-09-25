@@ -6,6 +6,7 @@ categories:
 date: '2009-06-19'
 lang: fr
 type: post
+publishDate: '2009-06-19'
 slug: burka-or-not-burka
 section: citoyen
 2009:

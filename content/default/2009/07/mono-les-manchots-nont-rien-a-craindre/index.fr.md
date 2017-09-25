@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2009-07-07'
 slug: mono-les-manchots-nont-rien-a-craindre
 section: default
 2009:

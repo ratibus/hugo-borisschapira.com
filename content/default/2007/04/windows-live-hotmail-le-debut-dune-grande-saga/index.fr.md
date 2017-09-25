@@ -8,6 +8,7 @@ lang: fr
 type: post
 categories:
     - default
+publishDate: '2007-04-17'
 slug: windows-live-hotmail-le-debut-dune-grande-saga
 section: default
 2007:
