@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-01-03'
+locale: fr_FR
 slug: carriere-s
 section: papa
 2017:

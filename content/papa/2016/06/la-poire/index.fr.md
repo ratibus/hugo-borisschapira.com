@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-06-05'
+locale: fr_FR
 slug: la-poire
 section: papa
 2016:

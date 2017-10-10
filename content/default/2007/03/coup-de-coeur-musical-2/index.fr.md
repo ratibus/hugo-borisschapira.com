@@ -8,6 +8,7 @@ date: '2007-03-27'
 lang: fr
 type: post
 publishDate: '2007-03-27'
+locale: fr_FR
 slug: coup-de-coeur-musical-2
 section: default
 2007:

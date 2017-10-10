@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-01-14'
+locale: fr_FR
 slug: lancement-presse-de-limagine-cup-2007
 section: default
 2007:

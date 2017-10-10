@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-07-24'
+locale: fr_FR
 slug: mon-petit-bordelais
 section: papa
 2016:

@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2009-11-10'
+locale: fr_FR
 slug: vecu-avant-le-decollage
 section: default
 2009:

@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-06-30'
+locale: fr_FR
 slug: urgence-ou-pensee
 section: citoyen
 2016:

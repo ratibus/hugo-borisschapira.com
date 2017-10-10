@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2015-03-25'
+locale: fr_FR
 slug: maitrise-et-expertise
 section: default
 2015:

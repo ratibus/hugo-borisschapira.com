@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-08-20'
+locale: fr_FR
 slug: manuel
 section: papa
 2016:

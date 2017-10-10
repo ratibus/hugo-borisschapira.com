@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-02-01'
+locale: fr_FR
 slug: securite-et-controle-au-coeur-de-windows-vista
 section: default
 2007:

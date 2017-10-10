@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-03-05'
+locale: fr_FR
 slug: la-stenaltite
 section: papa
 2017:

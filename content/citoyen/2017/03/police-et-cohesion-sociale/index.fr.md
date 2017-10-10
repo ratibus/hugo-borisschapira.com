@@ -8,6 +8,7 @@ categories:
 tags:
     - police
 publishDate: '2017-03-28'
+locale: fr_FR
 slug: police-et-cohesion-sociale
 section: citoyen
 2017:

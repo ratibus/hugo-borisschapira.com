@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-05-31'
+locale: fr_FR
 slug: vive-la-technologie
 section: papa
 2014:

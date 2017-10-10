@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-06-18'
+locale: fr_FR
 slug: agenda-de-ministre
 section: papa
 2014:

@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-11-17'
+locale: fr_FR
 slug: twitter-or-not-twitter-that-is-the-blogger-question
 section: default
 2007:

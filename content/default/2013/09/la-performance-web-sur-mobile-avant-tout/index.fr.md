@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2013-09-25'
+locale: fr_FR
 slug: la-performance-web-sur-mobile-avant-tout
 section: default
 2013:

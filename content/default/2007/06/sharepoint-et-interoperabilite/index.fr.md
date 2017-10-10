@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-28'
+locale: fr_FR
 slug: sharepoint-et-interoperabilite
 section: default
 2007:

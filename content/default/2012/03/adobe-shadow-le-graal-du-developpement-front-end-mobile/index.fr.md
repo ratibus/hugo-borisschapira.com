@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2012-03-09'
+locale: fr_FR
 slug: adobe-shadow-le-graal-du-developpement-front-end-mobile
 section: default
 2012:

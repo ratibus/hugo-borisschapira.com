@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-10-18'
+locale: fr_FR
 slug: chouchou
 section: papa
 2014:

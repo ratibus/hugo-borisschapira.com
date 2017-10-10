@@ -7,6 +7,7 @@ date: '2009-01-16'
 lang: fr
 type: post
 publishDate: '2009-01-16'
+locale: fr_FR
 slug: la-nomination-de-nkm-nest-pas-forcement-une-bonne-nouvelle
 section: default
 2009:

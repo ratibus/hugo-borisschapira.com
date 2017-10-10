@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-25'
+locale: fr_FR
 slug: dangers-du-net-les-logiciels-espions
 section: default
 2007:

@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-26'
+locale: fr_FR
 slug: community-pack-pour-sharepoint-vers-le-20-pour-lusine-ecm-de-microsoft
 section: default
 2007:

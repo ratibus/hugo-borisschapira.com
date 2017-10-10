@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-10-14'
+locale: fr_FR
 slug: net-ria-silverlight-20
 section: default
 2008:

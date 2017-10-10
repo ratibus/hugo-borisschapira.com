@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-04-05'
+locale: fr_FR
 slug: projet-de-loi-relatif-au-renseignement
 section: citoyen
 2015:

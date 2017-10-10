@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-29'
+locale: fr_FR
 slug: boris-roule-les-mecaniques
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-02-22'
+locale: fr_FR
 slug: juste-pour-verifier
 section: papa
 2015:

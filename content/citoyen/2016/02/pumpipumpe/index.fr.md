@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-11'
+locale: fr_FR
 slug: pumpipumpe
 section: citoyen
 2016:

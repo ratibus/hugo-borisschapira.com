@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-07-03'
+locale: fr_FR
 slug: productivite
 section: papa
 2013:

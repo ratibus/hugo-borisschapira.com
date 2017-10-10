@@ -7,6 +7,7 @@ date: '2009-01-17'
 lang: fr
 type: post
 publishDate: '2009-01-17'
+locale: fr_FR
 slug: un-article-cite-sur-lemondefr
 section: default
 2009:

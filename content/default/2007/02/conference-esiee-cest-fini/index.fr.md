@@ -13,6 +13,7 @@ type: post
 categories:
     - default
 publishDate: '2007-02-02'
+locale: fr_FR
 slug: conference-esiee-cest-fini
 section: default
 2007:

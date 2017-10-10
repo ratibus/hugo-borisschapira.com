@@ -6,6 +6,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-15'
+locale: fr_FR
 slug: degout
 section: citoyen
 2016:

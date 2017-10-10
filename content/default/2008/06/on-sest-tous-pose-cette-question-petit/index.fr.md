@@ -7,6 +7,7 @@ date: '2008-06-12'
 lang: fr
 type: post
 publishDate: '2008-06-12'
+locale: fr_FR
 slug: on-sest-tous-pose-cette-question-petit
 section: default
 2008:

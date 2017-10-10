@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2008-10-21'
+locale: fr_FR
 slug: lit-au-service-du-trading
 section: default
 2008:

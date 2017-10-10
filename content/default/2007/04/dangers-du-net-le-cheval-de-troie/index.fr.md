@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-11'
+locale: fr_FR
 slug: dangers-du-net-le-cheval-de-troie
 section: default
 2007:

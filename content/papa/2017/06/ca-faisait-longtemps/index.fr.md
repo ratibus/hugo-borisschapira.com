@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-06-20'
+locale: fr_FR
 slug: ca-faisait-longtemps
 section: papa
 2017:

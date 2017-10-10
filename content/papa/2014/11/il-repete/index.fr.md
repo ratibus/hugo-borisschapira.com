@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-11-29'
+locale: fr_FR
 slug: il-repete
 section: papa
 2014:

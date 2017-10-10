@@ -11,6 +11,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-11-02'
+locale: fr_FR
 slug: je-ne-sais-pas-vous-mais-moi
 section: citoyen
 2009:

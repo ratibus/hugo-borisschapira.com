@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2016-01-20'
+locale: fr_FR
 slug: salaires-femmes-inegalites
 section: default
 2016:

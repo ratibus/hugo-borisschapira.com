@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-02-09'
+locale: fr_FR
 slug: droits-et-devoirs
 section: citoyen
 2015:

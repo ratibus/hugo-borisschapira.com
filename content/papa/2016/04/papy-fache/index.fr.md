@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-04-18'
+locale: fr_FR
 slug: papy-fache
 section: papa
 2016:

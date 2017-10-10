@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-12-24'
+locale: fr_FR
 slug: nous-les-racoleurs-de-luxe
 section: default
 2007:

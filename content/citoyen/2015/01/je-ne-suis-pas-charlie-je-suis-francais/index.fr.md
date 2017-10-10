@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-01-09'
+locale: fr_FR
 slug: je-ne-suis-pas-charlie-je-suis-francais
 section: citoyen
 2015:

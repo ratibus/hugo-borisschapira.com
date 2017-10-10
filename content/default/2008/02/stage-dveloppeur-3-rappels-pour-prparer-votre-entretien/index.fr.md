@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-02-27'
+locale: fr_FR
 slug: stage-dveloppeur-3-rappels-pour-prparer-votre-entretien
 section: default
 2008:

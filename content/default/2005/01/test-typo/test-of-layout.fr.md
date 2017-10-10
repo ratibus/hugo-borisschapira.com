@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2005-01-01'
+locale: fr_FR
 slug: test-typo
 section: default
 2005:

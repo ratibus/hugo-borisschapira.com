@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-10-02'
+locale: fr_FR
 slug: linqpad
 section: default
 2009:

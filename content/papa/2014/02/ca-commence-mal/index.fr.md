@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-02-20'
+locale: fr_FR
 slug: ca-commence-mal
 section: papa
 2014:

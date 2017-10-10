@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2010-05-19'
+locale: fr_FR
 slug: tour-dhorizon-de-windows-phone-7
 section: default
 2010:

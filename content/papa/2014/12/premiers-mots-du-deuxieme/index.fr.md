@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-12-11'
+locale: fr_FR
 slug: premiers-mots-du-deuxieme
 section: papa
 2014:

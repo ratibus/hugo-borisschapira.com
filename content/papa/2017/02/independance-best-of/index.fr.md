@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-02-05'
+locale: fr_FR
 slug: independance-best-of
 section: papa
 2017:

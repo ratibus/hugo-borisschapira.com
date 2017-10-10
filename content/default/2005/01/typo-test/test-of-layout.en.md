@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2005-01-01'
+locale: en_US
 slug: typo-test
 section: default
 2005:

@@ -7,6 +7,7 @@ date: '2009-02-18'
 lang: fr
 type: post
 publishDate: '2009-02-18'
+locale: fr_FR
 slug: antilles-francaises
 section: default
 2009:

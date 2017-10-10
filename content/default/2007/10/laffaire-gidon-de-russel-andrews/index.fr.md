@@ -7,6 +7,7 @@ date: '2007-10-10'
 lang: fr
 type: post
 publishDate: '2007-10-10'
+locale: fr_FR
 slug: laffaire-gidon-de-russel-andrews
 section: default
 2007:

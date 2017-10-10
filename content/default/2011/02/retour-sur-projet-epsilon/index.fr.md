@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-02-20'
+locale: fr_FR
 slug: retour-sur-projet-epsilon
 section: default
 2011:

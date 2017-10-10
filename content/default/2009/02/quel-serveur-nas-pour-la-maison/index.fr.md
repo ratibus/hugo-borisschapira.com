@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-02-16'
+locale: fr_FR
 slug: quel-serveur-nas-pour-la-maison
 section: default
 2009:

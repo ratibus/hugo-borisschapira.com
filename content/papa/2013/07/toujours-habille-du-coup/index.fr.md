@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-07-06'
+locale: fr_FR
 slug: toujours-habille-du-coup
 section: papa
 2013:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-11-21'
+locale: fr_FR
 slug: son-choix
 section: papa
 2015:

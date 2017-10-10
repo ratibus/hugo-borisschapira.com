@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2015-08-14'
+locale: fr_FR
 slug: de-windows-a-mac
 section: default
 2015:

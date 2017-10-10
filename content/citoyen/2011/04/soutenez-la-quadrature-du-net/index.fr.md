@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2011-04-04'
+locale: fr_FR
 slug: soutenez-la-quadrature-du-net
 section: citoyen
 2011:

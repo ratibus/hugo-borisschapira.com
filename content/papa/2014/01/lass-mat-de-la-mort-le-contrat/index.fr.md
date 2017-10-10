@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-01-27'
+locale: fr_FR
 slug: lass-mat-de-la-mort-le-contrat
 section: papa
 2014:

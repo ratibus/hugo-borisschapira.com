@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-11-23'
+locale: fr_FR
 slug: infobesite-et-rebellion
 section: citoyen
 2016:

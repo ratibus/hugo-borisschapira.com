@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2016-03-24'
+locale: fr_FR
 slug: vous-n-avez-pas-besoin-un-site-web
 section: default
 2016:

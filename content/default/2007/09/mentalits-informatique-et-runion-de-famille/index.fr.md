@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-09-23'
+locale: fr_FR
 slug: mentalits-informatique-et-runion-de-famille
 section: default
 2007:

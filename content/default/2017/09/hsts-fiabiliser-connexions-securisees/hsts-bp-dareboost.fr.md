@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Performance Web'
 publishDate: '2017-09-18'
+locale: fr_FR
 slug: hsts-fiabiliser-connexions-securisees
 section: default
 2017:

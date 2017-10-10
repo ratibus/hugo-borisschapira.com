@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-09-04'
+locale: fr_FR
 slug: troisieme-jour-decole
 section: papa
 2014:

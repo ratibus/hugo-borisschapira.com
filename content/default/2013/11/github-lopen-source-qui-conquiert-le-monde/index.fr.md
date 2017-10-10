@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2013-11-14'
+locale: fr_FR
 slug: github-lopen-source-qui-conquiert-le-monde
 section: default
 2013:

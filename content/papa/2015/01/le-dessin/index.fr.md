@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-01-03'
+locale: fr_FR
 slug: le-dessin
 section: papa
 2015:

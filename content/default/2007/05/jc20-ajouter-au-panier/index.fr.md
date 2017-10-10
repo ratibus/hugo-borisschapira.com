@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-05-12'
+locale: fr_FR
 slug: jc20-ajouter-au-panier
 section: default
 2007:

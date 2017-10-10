@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-04-14'
+locale: fr_FR
 slug: amour
 section: papa
 2017:

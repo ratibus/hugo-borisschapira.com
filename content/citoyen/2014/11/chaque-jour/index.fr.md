@@ -11,6 +11,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2014-11-14'
+locale: fr_FR
 slug: chaque-jour
 section: citoyen
 2014:

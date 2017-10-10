@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-04-11'
+locale: fr_FR
 slug: tous-aussi-fort
 section: papa
 2014:

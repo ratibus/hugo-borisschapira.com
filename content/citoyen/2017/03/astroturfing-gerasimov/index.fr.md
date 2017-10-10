@@ -6,6 +6,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2017-03-21'
+locale: fr_FR
 slug: astroturfing-gerasimov
 section: citoyen
 2017:

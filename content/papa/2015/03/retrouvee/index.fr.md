@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-03-08'
+locale: fr_FR
 slug: retrouvee
 section: papa
 2015:

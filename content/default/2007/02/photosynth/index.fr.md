@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-02-26'
+locale: fr_FR
 slug: photosynth
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-13'
+locale: fr_FR
 slug: dans-la-peau
 section: papa
 2016:

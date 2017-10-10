@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2009-04-02'
+locale: fr_FR
 slug: g20-et-regulation
 section: default
 2009:

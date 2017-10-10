@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-06-05'
+locale: fr_FR
 slug: deus-ex-human-revolution-trailer
 section: default
 2010:

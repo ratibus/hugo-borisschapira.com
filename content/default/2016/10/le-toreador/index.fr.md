@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-10-09'
+locale: fr_FR
 slug: le-toreador
 section: default
 2016:

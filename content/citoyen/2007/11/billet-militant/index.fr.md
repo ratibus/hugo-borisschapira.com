@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-11-14'
+locale: fr_FR
 slug: billet-militant
 section: citoyen
 2007:

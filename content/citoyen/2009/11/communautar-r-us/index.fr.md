@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-11-23'
+locale: fr_FR
 slug: communautar-r-us
 section: citoyen
 2009:

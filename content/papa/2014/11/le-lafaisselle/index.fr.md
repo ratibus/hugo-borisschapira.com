@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-11-08'
+locale: fr_FR
 slug: le-lafaisselle
 section: papa
 2014:

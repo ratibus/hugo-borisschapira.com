@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-08-21'
+locale: fr_FR
 slug: windows-server-2008-et-windows-vista-verifieront-ils-les-criteres-communs
 section: default
 2007:

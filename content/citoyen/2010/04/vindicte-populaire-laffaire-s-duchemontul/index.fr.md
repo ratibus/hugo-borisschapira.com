@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2010-04-28'
+locale: fr_FR
 slug: vindicte-populaire-laffaire-s-duchemontul
 section: citoyen
 2010:

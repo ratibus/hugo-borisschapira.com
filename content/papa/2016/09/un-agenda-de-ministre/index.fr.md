@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-08'
+locale: fr_FR
 slug: un-agenda-de-ministre
 section: papa
 2016:

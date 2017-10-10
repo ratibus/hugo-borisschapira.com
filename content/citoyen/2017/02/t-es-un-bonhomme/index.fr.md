@@ -6,6 +6,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2017-02-12'
+locale: fr_FR
 slug: t-es-un-bonhomme
 section: citoyen
 2017:

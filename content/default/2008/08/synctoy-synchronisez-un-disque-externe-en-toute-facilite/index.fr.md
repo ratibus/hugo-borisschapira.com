@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-08-29'
+locale: fr_FR
 slug: synctoy-synchronisez-un-disque-externe-en-toute-facilite
 section: default
 2008:

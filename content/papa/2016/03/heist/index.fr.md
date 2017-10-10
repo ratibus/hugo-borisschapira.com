@@ -7,6 +7,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-03-26'
+locale: fr_FR
 slug: heist
 section: papa
 2016:

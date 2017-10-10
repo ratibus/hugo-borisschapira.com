@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Performance Web'
 publishDate: '2017-09-18'
+locale: en_US
 slug: hsts-ensure-secured-connections
 section: default
 2017:

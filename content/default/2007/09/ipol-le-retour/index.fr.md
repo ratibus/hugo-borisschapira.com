@@ -7,6 +7,7 @@ date: '2007-09-30'
 lang: fr
 type: post
 publishDate: '2007-09-30'
+locale: fr_FR
 slug: ipol-le-retour
 section: default
 2007:

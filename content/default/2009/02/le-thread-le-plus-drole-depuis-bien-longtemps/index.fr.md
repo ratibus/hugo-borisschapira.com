@@ -7,6 +7,7 @@ date: '2009-02-23'
 lang: fr
 type: post
 publishDate: '2009-02-23'
+locale: fr_FR
 slug: le-thread-le-plus-drole-depuis-bien-longtemps
 section: default
 2009:

@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-11-25'
+locale: fr_FR
 slug: eduquons-nos-garcons
 section: citoyen
 2016:

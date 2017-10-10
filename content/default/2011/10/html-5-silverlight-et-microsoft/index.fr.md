@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-10-02'
+locale: fr_FR
 slug: html-5-silverlight-et-microsoft
 section: default
 2011:

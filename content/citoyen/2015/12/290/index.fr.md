@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-12-10'
+locale: fr_FR
 slug: '290'
 section: citoyen
 2015:

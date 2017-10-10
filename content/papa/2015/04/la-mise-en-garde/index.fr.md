@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-04-02'
+locale: fr_FR
 slug: la-mise-en-garde
 section: papa
 2015:

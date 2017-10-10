@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2017-01-24'
+locale: fr_FR
 slug: resolutions
 section: default
 2017:

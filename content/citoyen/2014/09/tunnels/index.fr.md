@@ -7,6 +7,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2014-09-17'
+locale: fr_FR
 slug: tunnels
 section: citoyen
 2014:

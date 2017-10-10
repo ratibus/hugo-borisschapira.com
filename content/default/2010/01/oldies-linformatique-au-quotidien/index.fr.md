@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-01-31'
+locale: fr_FR
 slug: oldies-linformatique-au-quotidien
 section: default
 2010:

@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2016-05-16'
+locale: fr_FR
 slug: un-retour-sur-opquast-certified
 section: default
 2016:

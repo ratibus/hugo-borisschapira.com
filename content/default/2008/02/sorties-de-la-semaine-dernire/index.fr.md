@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2008-02-08'
+locale: fr_FR
 slug: sorties-de-la-semaine-dernire
 section: default
 2008:

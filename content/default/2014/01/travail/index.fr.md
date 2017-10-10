@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2014-01-03'
+locale: fr_FR
 slug: travail
 section: default
 2014:

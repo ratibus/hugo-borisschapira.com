@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2014-06-17'
+locale: fr_FR
 slug: le-code-a-change
 section: default
 2014:

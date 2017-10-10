@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-08-21'
+locale: fr_FR
 slug: photosynth-est-desormais-ouvert-au-public
 section: default
 2008:

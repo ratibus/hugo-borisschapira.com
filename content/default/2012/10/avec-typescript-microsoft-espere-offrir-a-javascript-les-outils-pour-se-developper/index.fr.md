@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2012-10-03'
+locale: fr_FR
 slug: avec-typescript-microsoft-espere-offrir-a-javascript-les-outils-pour-se-developper
 section: default
 2012:

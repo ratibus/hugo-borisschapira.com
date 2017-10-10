@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-08-26'
+locale: fr_FR
 slug: les-10-defis-du-blogueurs
 section: default
 2008:

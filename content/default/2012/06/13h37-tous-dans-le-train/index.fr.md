@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2012-06-19'
+locale: fr_FR
 slug: 13h37-tous-dans-le-train
 section: default
 2012:

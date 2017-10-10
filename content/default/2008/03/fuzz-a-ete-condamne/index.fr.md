@@ -12,6 +12,7 @@ type: post
 categories:
     - default
 publishDate: '2008-03-27'
+locale: fr_FR
 slug: fuzz-a-ete-condamne
 section: default
 2008:

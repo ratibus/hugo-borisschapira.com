@@ -7,6 +7,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-25'
+locale: fr_FR
 slug: jekyll-codeship
 section: default
 2016:

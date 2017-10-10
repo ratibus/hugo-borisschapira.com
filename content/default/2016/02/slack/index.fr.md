@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-01'
+locale: fr_FR
 slug: slack
 section: default
 2016:

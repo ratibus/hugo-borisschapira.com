@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-12-17'
+locale: fr_FR
 slug: regarde
 section: papa
 2015:

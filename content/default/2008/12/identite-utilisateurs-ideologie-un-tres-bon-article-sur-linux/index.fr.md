@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-12-30'
+locale: fr_FR
 slug: identite-utilisateurs-ideologie-un-tres-bon-article-sur-linux
 section: default
 2008:

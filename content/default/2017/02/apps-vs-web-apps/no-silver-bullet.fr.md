@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2017-02-01'
+locale: fr_FR
 slug: apps-vs-web-apps
 section: default
 2017:

@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2009-02-11'
+locale: fr_FR
 slug: techdays-les-nouveautes-de-la-pleniere-2
 section: default
 2009:

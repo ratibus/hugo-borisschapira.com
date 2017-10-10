@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-08-18'
+locale: fr_FR
 slug: le-meme-a-la-maison
 section: papa
 2015:

@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-25'
+locale: fr_FR
 slug: revenu-de-base
 section: citoyen
 2016:

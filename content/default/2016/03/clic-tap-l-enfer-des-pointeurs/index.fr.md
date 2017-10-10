@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-03-24'
+locale: fr_FR
 slug: clic-tap-l-enfer-des-pointeurs
 section: default
 2016:

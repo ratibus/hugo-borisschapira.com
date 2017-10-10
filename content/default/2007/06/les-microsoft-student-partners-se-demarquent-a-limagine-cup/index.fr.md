@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-21'
+locale: fr_FR
 slug: les-microsoft-student-partners-se-demarquent-a-limagine-cup
 section: default
 2007:

@@ -7,6 +7,7 @@ date: '2016-06-26'
 lang: fr
 type: post
 publishDate: '2016-06-26'
+locale: fr_FR
 slug: la-blockchain-expliquee-a-un-enfant-de-cinq-ans
 section: papa
 2016:

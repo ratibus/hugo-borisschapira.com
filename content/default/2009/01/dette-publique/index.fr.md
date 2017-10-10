@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2009-01-05'
+locale: fr_FR
 slug: dette-publique
 section: default
 2009:

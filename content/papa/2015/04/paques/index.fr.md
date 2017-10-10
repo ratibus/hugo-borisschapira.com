@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-04-05'
+locale: fr_FR
 slug: paques
 section: papa
 2015:

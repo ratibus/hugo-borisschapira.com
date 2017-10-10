@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-05-14'
+locale: fr_FR
 slug: lepidemie-continue
 section: default
 2009:

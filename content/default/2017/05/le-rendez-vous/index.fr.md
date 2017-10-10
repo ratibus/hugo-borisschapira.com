@@ -8,6 +8,7 @@ categories:
 tags:
     - anecdotes
 publishDate: '2017-05-15'
+locale: fr_FR
 slug: le-rendez-vous
 section: default
 2017:

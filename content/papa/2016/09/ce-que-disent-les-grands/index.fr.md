@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-05'
+locale: fr_FR
 slug: ce-que-disent-les-grands
 section: papa
 2016:

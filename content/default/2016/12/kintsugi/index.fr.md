@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-12-26'
+locale: fr_FR
 slug: kintsugi
 section: default
 2016:

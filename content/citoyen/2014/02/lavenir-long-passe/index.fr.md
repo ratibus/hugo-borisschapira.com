@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2014-02-06'
+locale: fr_FR
 slug: lavenir-long-passe
 section: citoyen
 2014:

@@ -7,6 +7,7 @@ date: '2008-09-28'
 lang: fr
 type: post
 publishDate: '2008-09-28'
+locale: fr_FR
 slug: politique-royal-fait-son-show
 section: default
 2008:

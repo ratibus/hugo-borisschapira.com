@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-08-27'
+locale: fr_FR
 slug: nouveautes-live-hotmail-de-septembre
 section: default
 2007:

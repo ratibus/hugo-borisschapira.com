@@ -7,6 +7,7 @@ date: '2008-11-21'
 lang: fr
 type: post
 publishDate: '2008-11-21'
+locale: fr_FR
 slug: les-entretiens-de-lamf-2008-13-regulation-de-la-gestion-dactifs
 section: default
 2008:

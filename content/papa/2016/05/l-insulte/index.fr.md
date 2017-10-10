@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-05-08'
+locale: fr_FR
 slug: l-insulte
 section: papa
 2016:

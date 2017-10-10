@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-25'
+locale: fr_FR
 slug: le-cadeau-de-noel
 section: papa
 2016:

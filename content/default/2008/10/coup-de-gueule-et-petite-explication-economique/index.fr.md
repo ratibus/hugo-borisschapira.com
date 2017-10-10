@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-10-23'
+locale: fr_FR
 slug: coup-de-gueule-et-petite-explication-economique
 section: default
 2008:

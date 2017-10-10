@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2012-10-23'
+locale: fr_FR
 slug: ou-pas
 section: papa
 2012:

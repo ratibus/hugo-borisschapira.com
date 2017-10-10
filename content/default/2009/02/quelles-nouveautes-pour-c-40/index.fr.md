@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2009-02-11'
+locale: fr_FR
 slug: quelles-nouveautes-pour-c-40
 section: default
 2009:

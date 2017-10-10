@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-09-01'
+locale: fr_FR
 slug: etude-de-propagation-du-buzz-par-le-cnrs-happy-flu
 section: default
 2008:

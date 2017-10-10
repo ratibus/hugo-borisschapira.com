@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-01-15'
+locale: fr_FR
 slug: derapages-du-langage
 section: citoyen
 2015:

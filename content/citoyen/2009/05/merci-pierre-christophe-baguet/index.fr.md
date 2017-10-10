@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-05-12'
+locale: fr_FR
 slug: merci-pierre-christophe-baguet
 section: citoyen
 2009:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-06-05'
+locale: fr_FR
 slug: problem-steps-recorder-psr-outil-de-support-sous-windows-seven
 section: default
 2009:

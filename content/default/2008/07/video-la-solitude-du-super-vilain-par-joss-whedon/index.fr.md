@@ -9,6 +9,7 @@ date: '2008-07-19'
 lang: fr
 type: post
 publishDate: '2008-07-19'
+locale: fr_FR
 slug: video-la-solitude-du-super-vilain-par-joss-whedon
 section: default
 2008:

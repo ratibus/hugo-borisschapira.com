@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-02-29'
+locale: fr_FR
 slug: stage-dveloppeur-5-faons-de-mieux-russir-votre-entretien
 section: default
 2008:

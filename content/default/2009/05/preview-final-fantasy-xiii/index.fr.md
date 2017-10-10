@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-05-18'
+locale: fr_FR
 slug: preview-final-fantasy-xiii
 section: default
 2009:

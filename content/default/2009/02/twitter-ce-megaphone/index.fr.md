@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-02-26'
+locale: fr_FR
 slug: twitter-ce-megaphone
 section: default
 2009:

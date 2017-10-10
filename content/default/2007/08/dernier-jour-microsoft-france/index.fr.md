@@ -6,6 +6,7 @@ date: '2007-08-31'
 lang: fr
 type: post
 publishDate: '2007-08-31'
+locale: fr_FR
 slug: dernier-jour-microsoft-france
 section: default
 2007:

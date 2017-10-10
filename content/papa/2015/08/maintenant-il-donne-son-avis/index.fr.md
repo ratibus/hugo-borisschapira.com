@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-08-19'
+locale: fr_FR
 slug: maintenant-il-donne-son-avis
 section: papa
 2015:

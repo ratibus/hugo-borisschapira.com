@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-02-25'
+locale: fr_FR
 slug: moto
 section: papa
 2015:

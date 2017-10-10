@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-06-06'
+locale: fr_FR
 slug: ni-ni
 section: papa
 2016:

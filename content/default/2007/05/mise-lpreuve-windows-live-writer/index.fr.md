@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-05-29'
+locale: fr_FR
 slug: mise-lpreuve-windows-live-writer
 section: default
 2007:

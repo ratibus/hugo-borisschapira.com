@@ -8,6 +8,7 @@ date: '2007-08-24'
 lang: fr
 type: post
 publishDate: '2007-08-24'
+locale: fr_FR
 slug: alerte-enlevement
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-01-02'
+locale: fr_FR
 slug: histoire
 section: papa
 2016:

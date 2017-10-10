@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-26'
+locale: fr_FR
 slug: jesus
 section: papa
 2016:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-24'
+locale: fr_FR
 slug: pic-nic
 section: papa
 2016:

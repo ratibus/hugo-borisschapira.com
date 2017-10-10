@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-04-19'
+locale: fr_FR
 slug: le-stage-cdd-deguise
 section: default
 2011:

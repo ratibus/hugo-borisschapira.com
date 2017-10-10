@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2008-12-31'
+locale: fr_FR
 slug: voeux-2009-enfin-presque
 section: default
 2008:

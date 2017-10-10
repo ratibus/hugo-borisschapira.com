@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2008-11-25'
+locale: fr_FR
 slug: bonjour-neuf-bye-bye-free-33
 section: default
 2008:

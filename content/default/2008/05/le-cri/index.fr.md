@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2008-05-22'
+locale: fr_FR
 slug: le-cri
 section: default
 2008:

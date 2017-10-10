@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-16'
+locale: fr_FR
 slug: mort
 section: papa
 2016:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-18'
+locale: fr_FR
 slug: winterland-a-la-cigale-dimanche-dernier
 section: default
 2007:

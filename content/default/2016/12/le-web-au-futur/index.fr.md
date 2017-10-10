@@ -8,6 +8,7 @@ categories:
 tags:
     - nowwwel
 publishDate: '2016-12-22'
+locale: fr_FR
 slug: le-web-au-futur
 section: default
 2016:

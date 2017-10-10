@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2013-10-17'
+locale: fr_FR
 slug: donnees-personnelles-enjeu-davenir
 section: default
 2013:

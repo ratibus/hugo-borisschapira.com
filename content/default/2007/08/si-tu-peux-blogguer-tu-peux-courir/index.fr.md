@@ -6,6 +6,7 @@ date: '2007-08-27'
 lang: fr
 type: post
 publishDate: '2007-08-27'
+locale: fr_FR
 slug: si-tu-peux-blogguer-tu-peux-courir
 section: default
 2007:

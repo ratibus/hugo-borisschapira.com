@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-12-25'
+locale: fr_FR
 slug: noel
 section: papa
 2015:

@@ -11,6 +11,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-03-09'
+locale: fr_FR
 slug: heforshe-dans-le-secondaire-aussi
 section: citoyen
 2015:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-07-06'
+locale: fr_FR
 slug: au-revoir
 section: papa
 2015:

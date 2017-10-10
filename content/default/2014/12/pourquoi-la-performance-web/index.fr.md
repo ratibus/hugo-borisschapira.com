@@ -9,6 +9,7 @@ tags:
 categories:
     - default
 publishDate: '2014-12-05'
+locale: fr_FR
 slug: pourquoi-la-performance-web
 section: default
 2014:

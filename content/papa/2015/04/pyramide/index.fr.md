@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-04-26'
+locale: fr_FR
 slug: pyramide
 section: papa
 2015:

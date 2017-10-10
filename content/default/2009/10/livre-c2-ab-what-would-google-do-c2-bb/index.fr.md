@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2009-10-20'
+locale: fr_FR
 slug: livre-c2-ab-what-would-google-do-c2-bb
 section: default
 2009:

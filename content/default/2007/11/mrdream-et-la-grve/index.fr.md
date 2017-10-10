@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-11-17'
+locale: fr_FR
 slug: mrdream-et-la-grve
 section: default
 2007:

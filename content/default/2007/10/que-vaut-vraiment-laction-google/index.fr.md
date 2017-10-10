@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-10-09'
+locale: fr_FR
 slug: que-vaut-vraiment-laction-google
 section: default
 2007:

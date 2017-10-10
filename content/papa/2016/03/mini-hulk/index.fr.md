@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-03-05'
+locale: fr_FR
 slug: mini-hulk
 section: papa
 2016:

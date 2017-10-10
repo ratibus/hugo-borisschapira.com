@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2015-01-05'
+locale: fr_FR
 slug: gestion-des-marque-pages-quel-outil
 section: default
 2015:

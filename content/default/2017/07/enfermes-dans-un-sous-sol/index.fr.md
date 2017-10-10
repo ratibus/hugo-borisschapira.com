@@ -8,6 +8,7 @@ categories:
 tags:
     - anecdotes
 publishDate: '2017-07-11'
+locale: fr_FR
 slug: enfermes-dans-un-sous-sol
 section: default
 2017:

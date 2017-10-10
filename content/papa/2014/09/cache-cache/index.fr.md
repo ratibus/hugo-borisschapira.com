@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-09-30'
+locale: fr_FR
 slug: cache-cache
 section: papa
 2014:

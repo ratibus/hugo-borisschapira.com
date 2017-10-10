@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2016-08-09'
+locale: fr_FR
 slug: une-mort-triviale
 section: default
 2016:

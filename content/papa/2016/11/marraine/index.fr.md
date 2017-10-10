@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-15'
+locale: fr_FR
 slug: marraine
 section: papa
 2016:

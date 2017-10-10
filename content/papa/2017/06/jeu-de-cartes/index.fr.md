@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-06-19'
+locale: fr_FR
 slug: jeu-de-cartes
 section: papa
 2017:

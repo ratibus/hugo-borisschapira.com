@@ -13,6 +13,7 @@ type: post
 categories:
     - default
 publishDate: '2014-05-20'
+locale: fr_FR
 slug: un-outil-pour-enseigner-le-web-front-end
 section: default
 2014:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-05-11'
+locale: fr_FR
 slug: le-baton
 section: papa
 2016:

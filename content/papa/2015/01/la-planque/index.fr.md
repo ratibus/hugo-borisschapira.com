@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-01-17'
+locale: fr_FR
 slug: la-planque
 section: papa
 2015:

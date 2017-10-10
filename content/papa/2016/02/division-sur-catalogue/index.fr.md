@@ -10,6 +10,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-02-15'
+locale: fr_FR
 slug: division-sur-catalogue
 section: papa
 2016:

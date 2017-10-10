@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2011-01-31'
+locale: fr_FR
 slug: vite
 section: papa
 2011:

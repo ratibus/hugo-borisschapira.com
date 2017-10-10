@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2017-01-25'
+locale: fr_FR
 slug: gagnants
 section: default
 2017:

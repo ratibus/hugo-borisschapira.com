@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-12-08'
+locale: fr_FR
 slug: useless-iphone-of-kant
 section: default
 2008:

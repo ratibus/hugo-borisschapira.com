@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-09-13'
+locale: fr_FR
 slug: la-vraie-raison
 section: papa
 2014:

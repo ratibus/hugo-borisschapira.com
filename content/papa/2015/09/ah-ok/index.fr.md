@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-09-01'
+locale: fr_FR
 slug: ah-ok
 section: papa
 2015:

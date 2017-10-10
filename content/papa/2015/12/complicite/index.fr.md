@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-12-14'
+locale: fr_FR
 slug: complicite
 section: papa
 2015:

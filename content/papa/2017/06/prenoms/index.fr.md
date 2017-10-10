@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-06-15'
+locale: fr_FR
 slug: prenoms
 section: papa
 2017:

@@ -7,6 +7,7 @@ date: '2009-06-19'
 lang: fr
 type: post
 publishDate: '2009-06-19'
+locale: fr_FR
 slug: burka-or-not-burka
 section: citoyen
 2009:

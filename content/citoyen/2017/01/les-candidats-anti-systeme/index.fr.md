@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2017-01-31'
+locale: fr_FR
 slug: les-candidats-anti-systeme
 section: citoyen
 2017:

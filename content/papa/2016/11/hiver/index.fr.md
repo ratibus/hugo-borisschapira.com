@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-17'
+locale: fr_FR
 slug: hiver
 section: papa
 2016:

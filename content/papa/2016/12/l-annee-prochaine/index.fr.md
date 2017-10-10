@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-12-25'
+locale: fr_FR
 slug: l-annee-prochaine
 section: papa
 2016:

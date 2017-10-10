@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-08-22'
+locale: fr_FR
 slug: a-la-rentree
 section: default
 2008:

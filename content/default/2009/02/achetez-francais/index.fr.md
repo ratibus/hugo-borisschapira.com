@@ -8,6 +8,7 @@ date: '2009-02-06'
 lang: fr
 type: post
 publishDate: '2009-02-06'
+locale: fr_FR
 slug: achetez-francais
 section: default
 2009:

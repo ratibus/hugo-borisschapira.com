@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-06-23'
+locale: fr_FR
 slug: allocution-de-notre-president
 section: citoyen
 2009:

@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-03-30'
+locale: fr_FR
 slug: jaime-les-artistes-nouveau-bulletin-de-larmee-ditalie
 section: citoyen
 2009:

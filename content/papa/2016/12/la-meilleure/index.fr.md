@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-12-24'
+locale: fr_FR
 slug: la-meilleure
 section: papa
 2016:

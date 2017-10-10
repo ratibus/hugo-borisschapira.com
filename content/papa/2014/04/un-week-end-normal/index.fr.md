@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-04-13'
+locale: fr_FR
 slug: un-week-end-normal
 section: papa
 2014:

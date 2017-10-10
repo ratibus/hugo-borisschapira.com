@@ -7,6 +7,7 @@ type: post
 categories:
     - default
 publishDate: '2017-05-31'
+locale: fr_FR
 slug: a-l-aventure
 section: default
 2017:

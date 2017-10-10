@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-03-31'
+locale: fr_FR
 slug: la-peinture
 section: papa
 2017:

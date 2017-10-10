@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2014-03-13'
+locale: fr_FR
 slug: a-la-conquete-des-tests-a-b
 section: default
 2014:

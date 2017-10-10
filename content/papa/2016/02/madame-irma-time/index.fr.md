@@ -7,6 +7,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-02-19'
+locale: fr_FR
 slug: madame-irma-time
 section: papa
 2016:

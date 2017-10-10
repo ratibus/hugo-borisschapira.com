@@ -7,6 +7,7 @@ date: '2007-08-15'
 lang: fr
 type: post
 publishDate: '2007-08-15'
+locale: fr_FR
 slug: probleme-sur-le-blog-avec-firefox
 section: default
 2007:

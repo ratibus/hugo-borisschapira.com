@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-07-22'
+locale: fr_FR
 slug: conseil-itfinance-que-voulez-vous-savoir
 section: default
 2009:

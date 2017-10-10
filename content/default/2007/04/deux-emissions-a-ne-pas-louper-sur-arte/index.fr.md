@@ -12,6 +12,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-20'
+locale: fr_FR
 slug: deux-emissions-a-ne-pas-louper-sur-arte
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-03-01'
+locale: fr_FR
 slug: accessibilite
 section: papa
 2014:

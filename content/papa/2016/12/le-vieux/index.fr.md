@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-12-20'
+locale: fr_FR
 slug: le-vieux
 section: papa
 2016:

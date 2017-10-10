@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-05-01'
+locale: fr_FR
 slug: durees
 section: papa
 2016:

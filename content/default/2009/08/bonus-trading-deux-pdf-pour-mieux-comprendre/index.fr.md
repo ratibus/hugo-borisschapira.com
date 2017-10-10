@@ -7,6 +7,7 @@ date: '2009-08-07'
 lang: fr
 type: post
 publishDate: '2009-08-07'
+locale: fr_FR
 slug: bonus-trading-deux-pdf-pour-mieux-comprendre
 section: default
 2009:

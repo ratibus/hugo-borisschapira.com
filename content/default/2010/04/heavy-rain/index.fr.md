@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-04-04'
+locale: fr_FR
 slug: heavy-rain
 section: default
 2010:

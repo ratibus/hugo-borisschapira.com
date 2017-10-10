@@ -10,6 +10,7 @@ tags:
     - armée
     - 'État d''Urgence'
 publishDate: '2017-04-03'
+locale: fr_FR
 slug: le-piege-de-loperation-sentinelle
 section: citoyen
 2017:

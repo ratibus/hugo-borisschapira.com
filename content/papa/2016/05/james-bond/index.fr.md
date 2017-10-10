@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-05-22'
+locale: fr_FR
 slug: james-bond
 section: papa
 2016:

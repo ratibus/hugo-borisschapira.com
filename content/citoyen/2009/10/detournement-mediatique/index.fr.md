@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-10-23'
+locale: fr_FR
 slug: detournement-mediatique
 section: citoyen
 2009:

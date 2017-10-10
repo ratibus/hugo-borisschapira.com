@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-06-05'
+locale: fr_FR
 slug: les-bonnes-proportions
 section: papa
 2015:

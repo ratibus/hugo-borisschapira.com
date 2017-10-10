@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-06-26'
+locale: fr_FR
 slug: la-bague
 section: papa
 2016:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-10-31'
+locale: fr_FR
 slug: phrases-insolites-3
 section: default
 2007:

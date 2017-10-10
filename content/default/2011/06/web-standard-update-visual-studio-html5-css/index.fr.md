@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-06-16'
+locale: fr_FR
 slug: web-standard-update-visual-studio-html5-css
 section: default
 2011:

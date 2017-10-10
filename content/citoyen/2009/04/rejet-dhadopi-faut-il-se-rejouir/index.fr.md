@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-04-09'
+locale: fr_FR
 slug: rejet-dhadopi-faut-il-se-rejouir
 section: citoyen
 2009:

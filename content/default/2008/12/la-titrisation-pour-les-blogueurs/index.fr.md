@@ -8,6 +8,7 @@ date: '2008-12-10'
 lang: fr
 type: post
 publishDate: '2008-12-10'
+locale: fr_FR
 slug: la-titrisation-pour-les-blogueurs
 section: default
 2008:

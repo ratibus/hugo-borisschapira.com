@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-10'
+locale: fr_FR
 slug: drm-lautorite-independante-est-mise-en-place
 section: default
 2007:

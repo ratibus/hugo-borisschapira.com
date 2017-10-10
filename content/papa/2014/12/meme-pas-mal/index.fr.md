@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-12-25'
+locale: fr_FR
 slug: meme-pas-mal
 section: papa
 2014:

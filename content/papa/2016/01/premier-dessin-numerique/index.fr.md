@@ -7,6 +7,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-01-27'
+locale: fr_FR
 slug: premier-dessin-numerique
 section: papa
 2016:

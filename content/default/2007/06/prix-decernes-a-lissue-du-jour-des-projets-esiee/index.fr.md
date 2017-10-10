@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-27'
+locale: fr_FR
 slug: prix-decernes-a-lissue-du-jour-des-projets-esiee
 section: default
 2007:

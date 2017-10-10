@@ -12,6 +12,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-09-09'
+locale: fr_FR
 slug: convenances-et-bonnes-manieres
 section: citoyen
 2008:

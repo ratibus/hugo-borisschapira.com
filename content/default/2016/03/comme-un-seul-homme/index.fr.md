@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2016-03-22'
+locale: fr_FR
 slug: comme-un-seul-homme
 section: default
 2016:

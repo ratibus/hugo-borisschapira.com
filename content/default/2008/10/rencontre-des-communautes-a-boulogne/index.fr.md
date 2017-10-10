@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-10-05'
+locale: fr_FR
 slug: rencontre-des-communautes-a-boulogne
 section: default
 2008:

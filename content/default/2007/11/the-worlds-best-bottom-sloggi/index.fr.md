@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-11-02'
+locale: fr_FR
 slug: the-worlds-best-bottom-sloggi
 section: default
 2007:

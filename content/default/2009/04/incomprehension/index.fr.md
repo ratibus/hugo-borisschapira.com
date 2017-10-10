@@ -7,6 +7,7 @@ date: '2009-04-08'
 lang: fr
 type: post
 publishDate: '2009-04-08'
+locale: fr_FR
 slug: incomprehension
 section: default
 2009:

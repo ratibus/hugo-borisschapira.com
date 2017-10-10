@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-06-01'
+locale: fr_FR
 slug: les-photographes
 section: default
 2009:

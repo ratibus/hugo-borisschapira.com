@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-10-07'
+locale: fr_FR
 slug: le-docteur
 section: papa
 2016:

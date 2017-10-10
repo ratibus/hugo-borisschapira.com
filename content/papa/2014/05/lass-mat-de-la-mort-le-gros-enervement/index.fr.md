@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-05-25'
+locale: fr_FR
 slug: lass-mat-de-la-mort-le-gros-enervement
 section: papa
 2014:

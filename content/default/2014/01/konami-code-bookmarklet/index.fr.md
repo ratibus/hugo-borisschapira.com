@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2014-01-22'
+locale: fr_FR
 slug: konami-code-bookmarklet
 section: default
 2014:

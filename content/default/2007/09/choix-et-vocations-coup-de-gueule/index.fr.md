@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-09-25'
+locale: fr_FR
 slug: choix-et-vocations-coup-de-gueule
 section: default
 2007:

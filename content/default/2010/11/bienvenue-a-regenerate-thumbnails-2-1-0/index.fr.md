@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2010-11-21'
+locale: fr_FR
 slug: bienvenue-a-regenerate-thumbnails-2-1-0
 section: default
 2010:

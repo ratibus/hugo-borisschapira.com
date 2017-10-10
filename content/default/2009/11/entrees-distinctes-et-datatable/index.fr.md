@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-11-24'
+locale: fr_FR
 slug: entrees-distinctes-et-datatable
 section: default
 2009:

@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-12-05'
+locale: fr_FR
 slug: les-europeens-sont-nuls-en-finance
 section: default
 2008:

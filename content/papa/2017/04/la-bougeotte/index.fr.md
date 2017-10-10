@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-04-08'
+locale: fr_FR
 slug: la-bougeotte
 section: papa
 2017:

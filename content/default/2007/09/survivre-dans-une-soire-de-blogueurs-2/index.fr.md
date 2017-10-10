@@ -6,6 +6,7 @@ date: '2007-09-14'
 lang: fr
 type: post
 publishDate: '2007-09-14'
+locale: fr_FR
 slug: survivre-dans-une-soire-de-blogueurs-2
 section: default
 2007:

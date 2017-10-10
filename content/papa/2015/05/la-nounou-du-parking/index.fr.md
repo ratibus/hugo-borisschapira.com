@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-05-12'
+locale: fr_FR
 slug: la-nounou-du-parking
 section: papa
 2015:

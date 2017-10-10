@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2009-09-28'
+locale: fr_FR
 slug: budget-2010-et-litanie-sur-la-dette-publique
 section: default
 2009:

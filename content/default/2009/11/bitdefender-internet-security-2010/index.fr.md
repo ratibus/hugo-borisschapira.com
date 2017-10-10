@@ -7,6 +7,7 @@ date: '2009-11-29'
 lang: fr
 type: post
 publishDate: '2009-11-29'
+locale: fr_FR
 slug: bitdefender-internet-security-2010
 section: default
 2009:

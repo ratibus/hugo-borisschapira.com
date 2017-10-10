@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-02-14'
+locale: fr_FR
 slug: tente-par-la-finance-de-marche
 section: default
 2008:

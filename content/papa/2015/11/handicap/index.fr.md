@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-11-07'
+locale: fr_FR
 slug: handicap
 section: papa
 2015:

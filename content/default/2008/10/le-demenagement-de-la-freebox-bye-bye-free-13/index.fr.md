@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2008-10-30'
+locale: fr_FR
 slug: le-demenagement-de-la-freebox-bye-bye-free-13
 section: default
 2008:

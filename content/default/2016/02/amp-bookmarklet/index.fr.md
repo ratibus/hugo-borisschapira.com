@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-25'
+locale: fr_FR
 slug: amp-bookmarklet
 section: default
 2016:

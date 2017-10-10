@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-03-24'
+locale: fr_FR
 slug: livre-metronome
 section: default
 2010:

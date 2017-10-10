@@ -11,6 +11,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-03-08'
+locale: fr_FR
 slug: journee-internationale-des-droits-de-la-femme
 section: citoyen
 2015:

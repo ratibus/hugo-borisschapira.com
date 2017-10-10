@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-09-12'
+locale: fr_FR
 slug: quoi
 section: papa
 2017:

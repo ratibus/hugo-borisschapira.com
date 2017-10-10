@@ -7,6 +7,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2010-10-18'
+locale: fr_FR
 slug: grevistes-arretez-de-bloquer-le-pays
 section: citoyen
 2010:

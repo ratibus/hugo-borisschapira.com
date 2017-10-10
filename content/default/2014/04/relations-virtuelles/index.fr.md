@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2014-04-17'
+locale: fr_FR
 slug: relations-virtuelles
 section: default
 2014:

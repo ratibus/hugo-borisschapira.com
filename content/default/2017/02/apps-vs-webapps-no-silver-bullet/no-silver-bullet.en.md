@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2017-02-01'
+locale: en_US
 slug: apps-vs-webapps-no-silver-bullet
 section: default
 2017:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2012-07-31'
+locale: fr_FR
 slug: a-quelle-vitesse-ma-page-se-charge-t-elle
 section: default
 2012:

@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-10'
+locale: fr_FR
 slug: nous
 section: default
 2016:

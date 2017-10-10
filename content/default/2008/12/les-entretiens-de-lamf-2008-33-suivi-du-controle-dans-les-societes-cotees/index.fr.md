@@ -7,6 +7,7 @@ date: '2008-12-29'
 lang: fr
 type: post
 publishDate: '2008-12-29'
+locale: fr_FR
 slug: les-entretiens-de-lamf-2008-33-suivi-du-controle-dans-les-societes-cotees
 section: default
 2008:

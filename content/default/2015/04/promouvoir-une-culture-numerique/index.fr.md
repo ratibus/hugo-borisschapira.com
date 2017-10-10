@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2015-04-10'
+locale: fr_FR
 slug: promouvoir-une-culture-numerique
 section: default
 2015:

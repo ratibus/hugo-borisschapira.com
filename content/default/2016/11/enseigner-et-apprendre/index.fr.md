@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-11-26'
+locale: fr_FR
 slug: enseigner-et-apprendre
 section: default
 2016:

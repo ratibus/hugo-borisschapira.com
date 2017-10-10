@@ -6,6 +6,7 @@ date: '2007-09-13'
 lang: fr
 type: post
 publishDate: '2007-09-13'
+locale: fr_FR
 slug: souvenirs-dune-taupe
 section: default
 2007:

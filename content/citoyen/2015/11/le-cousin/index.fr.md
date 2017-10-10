@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-11-18'
+locale: fr_FR
 slug: le-cousin
 section: citoyen
 2015:

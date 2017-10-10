@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2010-06-11'
+locale: fr_FR
 slug: windows-phone-7-nouvelle-politique-du-marketplace
 section: default
 2010:

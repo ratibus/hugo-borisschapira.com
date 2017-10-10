@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-01-12'
+locale: fr_FR
 slug: ecouter-et-reflechir
 section: citoyen
 2015:

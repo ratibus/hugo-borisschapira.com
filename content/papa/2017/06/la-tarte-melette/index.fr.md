@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-06-16'
+locale: fr_FR
 slug: la-tarte-melette
 section: papa
 2017:

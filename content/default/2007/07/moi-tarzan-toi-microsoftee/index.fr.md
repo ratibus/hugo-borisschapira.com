@@ -6,6 +6,7 @@ date: '2007-07-10'
 lang: fr
 type: post
 publishDate: '2007-07-10'
+locale: fr_FR
 slug: moi-tarzan-toi-microsoftee
 section: default
 2007:

@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-12-22'
+locale: fr_FR
 slug: demain-cest-nol
 section: default
 2007:

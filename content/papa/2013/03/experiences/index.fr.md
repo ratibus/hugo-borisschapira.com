@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-03-13'
+locale: fr_FR
 slug: experiences
 section: papa
 2013:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-10-02'
+locale: fr_FR
 slug: pourquoi-les-conferences-paris-web-2015
 section: papa
 2015:

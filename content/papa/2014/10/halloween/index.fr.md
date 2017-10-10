@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-10-31'
+locale: fr_FR
 slug: halloween
 section: papa
 2014:

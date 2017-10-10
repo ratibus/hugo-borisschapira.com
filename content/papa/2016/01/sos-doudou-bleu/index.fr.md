@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-01-26'
+locale: fr_FR
 slug: sos-doudou-bleu
 section: papa
 2016:

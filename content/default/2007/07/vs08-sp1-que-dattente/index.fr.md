@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-11'
+locale: fr_FR
 slug: vs08-sp1-que-dattente
 section: default
 2007:

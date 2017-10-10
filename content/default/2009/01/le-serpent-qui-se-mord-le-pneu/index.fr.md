@@ -6,6 +6,7 @@ date: '2009-01-26'
 lang: fr
 type: post
 publishDate: '2009-01-26'
+locale: fr_FR
 slug: le-serpent-qui-se-mord-le-pneu
 section: default
 2009:

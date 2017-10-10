@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-08'
+locale: fr_FR
 slug: l-espace-entre-les-barreaux
 section: citoyen
 2016:

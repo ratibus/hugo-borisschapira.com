@@ -7,6 +7,7 @@ date: '2007-11-09'
 lang: fr
 type: post
 publishDate: '2007-11-09'
+locale: fr_FR
 slug: casual-friday
 section: default
 2007:

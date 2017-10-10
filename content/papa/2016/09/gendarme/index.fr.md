@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-12'
+locale: fr_FR
 slug: gendarme
 section: papa
 2016:

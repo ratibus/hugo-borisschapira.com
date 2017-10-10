@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-12-21'
+locale: fr_FR
 slug: l-adoubement
 section: papa
 2016:

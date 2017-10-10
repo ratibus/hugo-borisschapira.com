@@ -13,6 +13,7 @@ type: post
 categories:
     - default
 publishDate: '2015-10-22'
+locale: fr_FR
 slug: publicite-en-ligne-un-point
 section: default
 2015:

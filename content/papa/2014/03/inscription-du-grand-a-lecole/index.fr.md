@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-03-04'
+locale: fr_FR
 slug: inscription-du-grand-a-lecole
 section: papa
 2014:

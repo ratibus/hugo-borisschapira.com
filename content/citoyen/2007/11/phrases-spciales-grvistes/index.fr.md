@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-11-07'
+locale: fr_FR
 slug: phrases-spciales-grvistes
 section: citoyen
 2007:

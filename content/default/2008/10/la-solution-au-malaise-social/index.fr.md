@@ -7,6 +7,7 @@ date: '2008-10-16'
 lang: fr
 type: post
 publishDate: '2008-10-16'
+locale: fr_FR
 slug: la-solution-au-malaise-social
 section: default
 2008:

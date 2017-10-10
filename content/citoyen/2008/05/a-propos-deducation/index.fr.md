@@ -11,6 +11,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-05-19'
+locale: fr_FR
 slug: a-propos-deducation
 section: citoyen
 2008:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-04-02'
+locale: fr_FR
 slug: la-reunion-dp
 section: papa
 2017:

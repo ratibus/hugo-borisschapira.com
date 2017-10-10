@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-04-28'
+locale: fr_FR
 slug: des-betes
 section: papa
 2017:

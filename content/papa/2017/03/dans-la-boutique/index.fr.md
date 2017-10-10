@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-03-07'
+locale: fr_FR
 slug: dans-la-boutique
 section: papa
 2017:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-14'
+locale: fr_FR
 slug: resolutions
 section: papa
 2016:

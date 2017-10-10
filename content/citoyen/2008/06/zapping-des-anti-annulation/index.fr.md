@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-06-02'
+locale: fr_FR
 slug: zapping-des-anti-annulation
 section: citoyen
 2008:

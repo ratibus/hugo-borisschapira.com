@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2007-09-25'
+locale: fr_FR
 slug: heroes-saison-2-sur-tf1-en-vostfr-enfin-une-raction-utile-face-au-piratage
 section: default
 2007:

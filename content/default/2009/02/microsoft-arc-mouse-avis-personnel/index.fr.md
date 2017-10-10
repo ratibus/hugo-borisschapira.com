@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-02-24'
+locale: fr_FR
 slug: microsoft-arc-mouse-avis-personnel
 section: default
 2009:

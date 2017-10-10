@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-06-12'
+locale: fr_FR
 slug: spiderman-le-pipi
 section: papa
 2016:

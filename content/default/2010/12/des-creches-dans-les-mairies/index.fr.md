@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-12-15'
+locale: fr_FR
 slug: des-creches-dans-les-mairies
 section: default
 2010:

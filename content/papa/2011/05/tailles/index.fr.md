@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2011-05-28'
+locale: fr_FR
 slug: tailles
 section: papa
 2011:

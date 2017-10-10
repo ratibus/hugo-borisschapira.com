@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-08-29'
+locale: fr_FR
 slug: mails-messageries-web-cest-aussi-la-rentree-des-dangers
 section: default
 2007:

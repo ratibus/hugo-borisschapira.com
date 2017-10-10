@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-08-26'
+locale: fr_FR
 slug: open-space-2-0
 section: default
 2009:

@@ -7,6 +7,7 @@ date: '2007-05-18'
 lang: fr
 type: post
 publishDate: '2007-05-18'
+locale: fr_FR
 slug: petites-pensees-politiques-4
 section: default
 2007:

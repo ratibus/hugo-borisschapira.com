@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2013-10-03'
+locale: fr_FR
 slug: reformer-leducation
 section: default
 2013:

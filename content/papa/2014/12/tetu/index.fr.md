@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-12-15'
+locale: fr_FR
 slug: tetu
 section: papa
 2014:

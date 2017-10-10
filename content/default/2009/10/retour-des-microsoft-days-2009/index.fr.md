@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-10-07'
+locale: fr_FR
 slug: retour-des-microsoft-days-2009
 section: default
 2009:

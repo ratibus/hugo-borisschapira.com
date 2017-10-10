@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-27'
+locale: fr_FR
 slug: toujours
 section: papa
 2016:

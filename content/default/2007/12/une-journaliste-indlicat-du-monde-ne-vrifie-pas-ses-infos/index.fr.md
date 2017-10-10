@@ -12,6 +12,7 @@ type: post
 categories:
     - default
 publishDate: '2007-12-19'
+locale: fr_FR
 slug: une-journaliste-indlicat-du-monde-ne-vrifie-pas-ses-infos
 section: default
 2007:

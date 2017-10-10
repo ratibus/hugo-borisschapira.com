@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-03-11'
+locale: fr_FR
 slug: franck-le-gentil-rapporteur-dhadopi
 section: citoyen
 2009:

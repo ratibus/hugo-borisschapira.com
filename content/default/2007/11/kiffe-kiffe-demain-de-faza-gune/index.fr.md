@@ -7,6 +7,7 @@ date: '2007-11-01'
 lang: fr
 type: post
 publishDate: '2007-11-01'
+locale: fr_FR
 slug: kiffe-kiffe-demain-de-faza-gune
 section: default
 2007:

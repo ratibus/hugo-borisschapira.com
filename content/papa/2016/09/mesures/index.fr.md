@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-09'
+locale: fr_FR
 slug: mesures
 section: papa
 2016:

@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-03'
+locale: fr_FR
 slug: my-girlfriend-is-dirt
 section: default
 2007:

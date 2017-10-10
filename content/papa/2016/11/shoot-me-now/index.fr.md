@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-19'
+locale: fr_FR
 slug: shoot-me-now
 section: papa
 2016:

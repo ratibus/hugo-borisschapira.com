@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2014-02-17'
+locale: fr_FR
 slug: brown-bag-lunch-faisons-connaissance
 section: default
 2014:

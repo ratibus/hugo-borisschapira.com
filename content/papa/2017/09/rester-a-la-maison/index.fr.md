@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-09-24'
+locale: fr_FR
 slug: rester-a-la-maison
 section: papa
 2017:

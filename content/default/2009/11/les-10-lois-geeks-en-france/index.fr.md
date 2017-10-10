@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-11-12'
+locale: fr_FR
 slug: les-10-lois-geeks-en-france
 section: default
 2009:

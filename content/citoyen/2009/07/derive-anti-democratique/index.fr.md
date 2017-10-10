@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-07-02'
+locale: fr_FR
 slug: derive-anti-democratique
 section: citoyen
 2009:

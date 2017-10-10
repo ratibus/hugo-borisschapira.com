@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-19'
+locale: fr_FR
 slug: le-telescope
 section: papa
 2016:

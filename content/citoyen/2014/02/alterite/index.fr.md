@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2014-02-03'
+locale: fr_FR
 slug: alterite
 section: citoyen
 2014:

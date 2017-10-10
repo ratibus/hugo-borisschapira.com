@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-08-03'
+locale: fr_FR
 slug: comment-gerer-plusieurs-wordpress
 section: default
 2009:

@@ -7,6 +7,7 @@ date: '2007-09-14'
 lang: fr
 type: post
 publishDate: '2007-09-14'
+locale: fr_FR
 slug: le-sol-cest-sale-la-preuve-par-le-singe
 section: default
 2007:

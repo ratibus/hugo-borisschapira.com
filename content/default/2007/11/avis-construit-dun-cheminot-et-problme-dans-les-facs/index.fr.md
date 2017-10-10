@@ -12,6 +12,7 @@ type: post
 categories:
     - default
 publishDate: '2007-11-15'
+locale: fr_FR
 slug: avis-construit-dun-cheminot-et-problme-dans-les-facs
 section: default
 2007:

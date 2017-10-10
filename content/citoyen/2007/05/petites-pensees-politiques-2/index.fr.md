@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-05-03'
+locale: fr_FR
 slug: petites-pensees-politiques-2
 section: citoyen
 2007:

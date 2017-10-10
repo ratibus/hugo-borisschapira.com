@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-01'
+locale: fr_FR
 slug: monster-ca-continue-pour-les-autres
 section: default
 2007:

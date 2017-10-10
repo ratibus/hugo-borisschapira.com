@@ -7,6 +7,7 @@ date: '2007-09-09'
 lang: fr
 type: post
 publishDate: '2007-09-09'
+locale: fr_FR
 slug: bnp-paribas-ecotv-subprimes-croissance-subprimes-economic-growth
 section: default
 2007:

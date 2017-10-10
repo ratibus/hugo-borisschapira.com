@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-03-27'
+locale: fr_FR
 slug: preparation-au-mariage-religieux
 section: default
 2009:

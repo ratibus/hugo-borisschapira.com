@@ -8,6 +8,7 @@ categories:
 tags:
     - anecdotes
 publishDate: '2017-04-15'
+locale: fr_FR
 slug: de-vrais-gens-derriere
 section: default
 2017:

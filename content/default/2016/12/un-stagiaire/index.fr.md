@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-12-16'
+locale: fr_FR
 slug: un-stagiaire
 section: default
 2016:

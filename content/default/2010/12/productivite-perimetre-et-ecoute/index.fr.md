@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-12-07'
+locale: fr_FR
 slug: productivite-perimetre-et-ecoute
 section: default
 2010:

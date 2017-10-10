@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-02-16'
+locale: fr_FR
 slug: 5-minutes
 section: papa
 2015:

@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-08-24'
+locale: fr_FR
 slug: la-strategie-de-la-mouche
 section: citoyen
 2016:

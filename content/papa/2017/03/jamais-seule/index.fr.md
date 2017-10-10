@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-03-26'
+locale: fr_FR
 slug: jamais-seule
 section: papa
 2017:

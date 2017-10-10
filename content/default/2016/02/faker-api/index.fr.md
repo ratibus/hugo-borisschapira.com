@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-12'
+locale: fr_FR
 slug: faker-api
 section: default
 2016:

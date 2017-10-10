@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2015-12-10'
+locale: fr_FR
 slug: un-test-c-est-quoi
 section: default
 2015:

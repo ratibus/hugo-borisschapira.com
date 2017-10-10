@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-12'
+locale: fr_FR
 slug: en3mots-fait-peau-neuve
 section: default
 2007:

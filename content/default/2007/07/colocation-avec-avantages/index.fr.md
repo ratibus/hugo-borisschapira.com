@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-02'
+locale: fr_FR
 slug: colocation-avec-avantages
 section: default
 2007:

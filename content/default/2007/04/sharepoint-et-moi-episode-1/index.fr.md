@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-25'
+locale: fr_FR
 slug: sharepoint-et-moi-episode-1
 section: default
 2007:

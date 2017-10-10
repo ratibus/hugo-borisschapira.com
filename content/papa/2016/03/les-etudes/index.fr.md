@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-03-21'
+locale: fr_FR
 slug: les-etudes
 section: papa
 2016:

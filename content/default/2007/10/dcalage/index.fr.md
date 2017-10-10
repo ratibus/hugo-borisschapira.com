@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-10-06'
+locale: fr_FR
 slug: dcalage
 section: default
 2007:

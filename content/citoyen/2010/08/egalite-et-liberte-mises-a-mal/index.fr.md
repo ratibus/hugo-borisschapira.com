@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2010-08-02'
+locale: fr_FR
 slug: egalite-et-liberte-mises-a-mal
 section: citoyen
 2010:

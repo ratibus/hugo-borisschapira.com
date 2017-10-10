@@ -7,6 +7,7 @@ date: '2007-09-01'
 lang: fr
 type: post
 publishDate: '2007-09-01'
+locale: fr_FR
 slug: hairspray-jai-adore
 section: default
 2007:

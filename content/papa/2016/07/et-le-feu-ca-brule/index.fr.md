@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-07-09'
+locale: fr_FR
 slug: et-le-feu-ca-brule
 section: papa
 2016:

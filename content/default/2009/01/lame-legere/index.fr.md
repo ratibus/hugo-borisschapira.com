@@ -6,6 +6,7 @@ date: '2009-01-19'
 lang: fr
 type: post
 publishDate: '2009-01-19'
+locale: fr_FR
 slug: lame-legere
 section: default
 2009:

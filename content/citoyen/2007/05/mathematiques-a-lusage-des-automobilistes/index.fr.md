@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-05-24'
+locale: fr_FR
 slug: mathematiques-a-lusage-des-automobilistes
 section: citoyen
 2007:

@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-02-19'
+locale: fr_FR
 slug: premier-jour-chez-microsoft
 section: default
 2007:

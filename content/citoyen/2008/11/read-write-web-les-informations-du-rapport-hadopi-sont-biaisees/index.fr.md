@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-11-19'
+locale: fr_FR
 slug: read-write-web-les-informations-du-rapport-hadopi-sont-biaisees
 section: citoyen
 2008:

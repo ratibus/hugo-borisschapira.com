@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2011-07-31'
+locale: fr_FR
 slug: '215'
 section: papa
 2011:

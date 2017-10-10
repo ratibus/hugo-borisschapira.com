@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-11-23'
+locale: fr_FR
 slug: souvenir-denfance
 section: papa
 2014:

@@ -6,6 +6,7 @@ date: '2007-10-29'
 lang: fr
 type: post
 publishDate: '2007-10-29'
+locale: fr_FR
 slug: le-petit-merdeux-qui-dure-longtemps-longtemps-longtemps
 section: default
 2007:

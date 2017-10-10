@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-10-25'
+locale: fr_FR
 slug: ronron
 section: papa
 2015:

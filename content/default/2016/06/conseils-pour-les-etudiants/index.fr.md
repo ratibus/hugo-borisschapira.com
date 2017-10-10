@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2016-06-15'
+locale: fr_FR
 slug: conseils-pour-les-etudiants
 section: default
 2016:

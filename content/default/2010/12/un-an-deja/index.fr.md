@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-12-27'
+locale: fr_FR
 slug: un-an-deja
 section: default
 2010:

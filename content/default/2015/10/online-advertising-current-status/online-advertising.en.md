@@ -13,6 +13,7 @@ type: post
 categories:
     - default
 publishDate: '2015-10-22'
+locale: en_US
 slug: online-advertising-current-status
 section: default
 2015:

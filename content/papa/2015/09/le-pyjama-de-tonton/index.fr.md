@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-09-16'
+locale: fr_FR
 slug: le-pyjama-de-tonton
 section: papa
 2015:

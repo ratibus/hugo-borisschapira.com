@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-20'
+locale: fr_FR
 slug: marketing-politique
 section: citoyen
 2016:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-05-06'
+locale: fr_FR
 slug: silverlight-pour-mac-moonlight-pour-linux
 section: default
 2009:

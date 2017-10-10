@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-05-30'
+locale: fr_FR
 slug: parfois-mieux-vaut-ne-pas-savoir
 section: papa
 2015:

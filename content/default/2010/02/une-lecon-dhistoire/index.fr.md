@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-02-24'
+locale: fr_FR
 slug: une-lecon-dhistoire
 section: default
 2010:

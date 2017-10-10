@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-09-25'
+locale: fr_FR
 slug: le-tact-incarne-bis
 section: papa
 2016:

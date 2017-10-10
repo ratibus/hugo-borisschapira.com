@@ -7,6 +7,7 @@ date: '2007-08-30'
 lang: fr
 type: post
 publishDate: '2007-08-30'
+locale: fr_FR
 slug: prouvons-a-tour-de-bras
 section: default
 2007:

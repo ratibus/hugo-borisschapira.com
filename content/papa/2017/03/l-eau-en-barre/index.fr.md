@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-03-21'
+locale: fr_FR
 slug: l-eau-en-barre
 section: papa
 2017:

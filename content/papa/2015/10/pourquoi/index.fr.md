@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-10-06'
+locale: fr_FR
 slug: pourquoi
 section: papa
 2015:

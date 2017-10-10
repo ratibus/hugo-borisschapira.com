@@ -6,6 +6,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2017-03-08'
+locale: fr_FR
 slug: educations-sexuelles
 section: citoyen
 2017:

@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2009-10-19'
+locale: fr_FR
 slug: rendez-nous-stargate
 section: default
 2009:

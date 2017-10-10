@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-06-04'
+locale: fr_FR
 slug: et-les-livres-pirates
 section: citoyen
 2009:

@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-03-07'
+locale: fr_FR
 slug: reflexions-autour-de-note2be
 section: citoyen
 2008:

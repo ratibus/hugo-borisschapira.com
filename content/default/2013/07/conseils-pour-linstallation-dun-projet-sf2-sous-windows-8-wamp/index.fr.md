@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2013-07-01'
+locale: fr_FR
 slug: conseils-pour-linstallation-dun-projet-sf2-sous-windows-8-wamp
 section: default
 2013:

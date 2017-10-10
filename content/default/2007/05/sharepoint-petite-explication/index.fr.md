@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-05-13'
+locale: fr_FR
 slug: sharepoint-petite-explication
 section: default
 2007:

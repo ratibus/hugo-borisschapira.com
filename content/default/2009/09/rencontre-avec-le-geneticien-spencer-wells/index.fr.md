@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-09-28'
+locale: fr_FR
 slug: rencontre-avec-le-geneticien-spencer-wells
 section: default
 2009:

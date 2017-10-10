@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-09-03'
+locale: fr_FR
 slug: reformulation
 section: papa
 2014:

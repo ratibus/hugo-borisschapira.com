@@ -6,6 +6,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2017-02-16'
+locale: fr_FR
 slug: impots
 section: citoyen
 2017:

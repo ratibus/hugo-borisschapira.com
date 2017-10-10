@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-08-27'
+locale: fr_FR
 slug: apres-la-plage
 section: papa
 2016:

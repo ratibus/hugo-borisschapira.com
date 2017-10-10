@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-04'
+locale: fr_FR
 slug: dangers-du-net-introduction
 section: default
 2007:

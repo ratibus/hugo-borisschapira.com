@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-10-06'
+locale: fr_FR
 slug: qui-va-a-la-chasse
 section: papa
 2013:

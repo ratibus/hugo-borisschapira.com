@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-01-26'
+locale: fr_FR
 slug: appartement-c-e2-80-99est-plus-possible-2
 section: default
 2009:

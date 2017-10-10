@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2014-02-04'
+locale: fr_FR
 slug: big-data
 section: default
 2014:

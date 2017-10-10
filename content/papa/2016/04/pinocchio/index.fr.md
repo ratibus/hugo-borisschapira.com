@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-04-16'
+locale: fr_FR
 slug: pinocchio
 section: papa
 2016:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2011-12-11'
+locale: fr_FR
 slug: faut-comprendre
 section: papa
 2011:

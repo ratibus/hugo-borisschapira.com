@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-03-02'
+locale: fr_FR
 slug: le-bebe
 section: papa
 2015:

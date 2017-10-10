@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-07-10'
+locale: fr_FR
 slug: rembourse-rembourse-rembourse
 section: default
 2007:

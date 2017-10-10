@@ -7,6 +7,7 @@ date: '2008-08-20'
 lang: fr
 type: post
 publishDate: '2008-08-20'
+locale: fr_FR
 slug: video-de-limportance-dun-bon-swing
 section: default
 2008:

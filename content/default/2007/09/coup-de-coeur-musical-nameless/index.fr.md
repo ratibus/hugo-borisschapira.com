@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-09-17'
+locale: fr_FR
 slug: coup-de-coeur-musical-nameless
 section: default
 2007:

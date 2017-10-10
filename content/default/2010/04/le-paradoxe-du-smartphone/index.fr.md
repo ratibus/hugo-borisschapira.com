@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2010-04-09'
+locale: fr_FR
 slug: le-paradoxe-du-smartphone
 section: default
 2010:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-03-26'
+locale: fr_FR
 slug: en-boucle
 section: papa
 2013:

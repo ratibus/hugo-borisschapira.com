@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-24'
+locale: fr_FR
 slug: boulogne-2-0-boris
 section: default
 2007:

@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-01-10'
+locale: fr_FR
 slug: furtif
 section: papa
 2016:

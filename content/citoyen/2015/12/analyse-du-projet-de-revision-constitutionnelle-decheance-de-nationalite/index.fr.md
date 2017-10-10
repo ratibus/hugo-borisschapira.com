@@ -7,6 +7,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-12-29'
+locale: fr_FR
 slug: analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite
 section: citoyen
 2015:

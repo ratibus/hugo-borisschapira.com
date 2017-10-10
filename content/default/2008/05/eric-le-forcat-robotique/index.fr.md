@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-05-16'
+locale: fr_FR
 slug: eric-le-forcat-robotique
 section: default
 2008:

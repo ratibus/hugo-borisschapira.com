@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-03-12'
+locale: fr_FR
 slug: lhistoire-nest-pas-si-loin
 section: citoyen
 2008:

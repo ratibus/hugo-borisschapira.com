@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2009-09-21'
+locale: fr_FR
 slug: workholics
 section: default
 2009:

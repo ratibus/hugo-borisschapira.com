@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-05-06'
+locale: fr_FR
 slug: oui-forcement
 section: papa
 2015:

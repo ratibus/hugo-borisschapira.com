@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2012-10-23'
+locale: fr_FR
 slug: presse-google
 section: default
 2012:

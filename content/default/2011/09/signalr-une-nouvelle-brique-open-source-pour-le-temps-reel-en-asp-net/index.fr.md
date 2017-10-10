@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-09-22'
+locale: fr_FR
 slug: signalr-une-nouvelle-brique-open-source-pour-le-temps-reel-en-asp-net
 section: default
 2011:

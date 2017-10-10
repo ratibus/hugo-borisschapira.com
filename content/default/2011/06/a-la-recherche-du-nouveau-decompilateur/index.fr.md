@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-06-08'
+locale: fr_FR
 slug: a-la-recherche-du-nouveau-decompilateur
 section: default
 2011:

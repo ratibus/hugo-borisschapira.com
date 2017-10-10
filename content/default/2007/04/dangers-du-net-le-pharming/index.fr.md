@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-04-05'
+locale: fr_FR
 slug: dangers-du-net-le-pharming
 section: default
 2007:

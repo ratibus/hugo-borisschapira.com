@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-09-26'
+locale: fr_FR
 slug: un-gitignore-pour-les-gouverner-tous
 section: default
 2016:

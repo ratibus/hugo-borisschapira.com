@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-03-05'
+locale: fr_FR
 slug: darwin-chez-les-ados
 section: citoyen
 2009:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-05-02'
+locale: fr_FR
 slug: carrington-blog-20-fr
 section: default
 2009:

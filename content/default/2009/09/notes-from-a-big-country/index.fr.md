@@ -8,6 +8,7 @@ date: '2009-09-15'
 lang: fr
 type: post
 publishDate: '2009-09-15'
+locale: fr_FR
 slug: notes-from-a-big-country
 section: default
 2009:

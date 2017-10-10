@@ -7,6 +7,7 @@ date: '2007-08-24'
 lang: fr
 type: post
 publishDate: '2007-08-24'
+locale: fr_FR
 slug: un-peu-de-romantisme
 section: default
 2007:

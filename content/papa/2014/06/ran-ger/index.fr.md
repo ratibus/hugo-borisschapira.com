@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-06-09'
+locale: fr_FR
 slug: ran-ger
 section: papa
 2014:

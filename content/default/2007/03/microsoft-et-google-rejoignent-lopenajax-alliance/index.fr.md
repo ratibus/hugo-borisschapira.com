@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-03-21'
+locale: fr_FR
 slug: microsoft-et-google-rejoignent-lopenajax-alliance
 section: default
 2007:

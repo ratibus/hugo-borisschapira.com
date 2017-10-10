@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-03-07'
+locale: fr_FR
 slug: solidaires
 section: papa
 2015:

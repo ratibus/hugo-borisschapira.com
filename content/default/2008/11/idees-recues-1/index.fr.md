@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-11-17'
+locale: fr_FR
 slug: idees-recues-1
 section: default
 2008:

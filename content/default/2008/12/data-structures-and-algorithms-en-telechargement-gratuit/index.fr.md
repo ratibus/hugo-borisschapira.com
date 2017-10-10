@@ -7,6 +7,7 @@ date: '2008-12-23'
 lang: fr
 type: post
 publishDate: '2008-12-23'
+locale: fr_FR
 slug: data-structures-and-algorithms-en-telechargement-gratuit
 section: default
 2008:

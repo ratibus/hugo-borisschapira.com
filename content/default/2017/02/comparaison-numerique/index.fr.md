@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2017-02-03'
+locale: fr_FR
 slug: comparaison-numerique
 section: default
 2017:

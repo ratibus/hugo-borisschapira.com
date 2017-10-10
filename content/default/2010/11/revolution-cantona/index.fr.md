@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-11-29'
+locale: fr_FR
 slug: revolution-cantona
 section: default
 2010:

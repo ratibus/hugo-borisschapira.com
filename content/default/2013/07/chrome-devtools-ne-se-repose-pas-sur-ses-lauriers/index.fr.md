@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2013-07-15'
+locale: fr_FR
 slug: chrome-devtools-ne-se-repose-pas-sur-ses-lauriers
 section: default
 2013:

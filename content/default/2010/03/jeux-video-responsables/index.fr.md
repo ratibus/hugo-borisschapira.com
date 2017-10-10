@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-03-15'
+locale: fr_FR
 slug: jeux-video-responsables
 section: default
 2010:

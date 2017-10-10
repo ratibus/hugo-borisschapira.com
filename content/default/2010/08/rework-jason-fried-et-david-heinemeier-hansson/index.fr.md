@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-08-24'
+locale: fr_FR
 slug: rework-jason-fried-et-david-heinemeier-hansson
 section: default
 2010:

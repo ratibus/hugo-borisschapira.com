@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-03-01'
+locale: fr_FR
 slug: le-roi-de-la-knacki
 section: citoyen
 2016:

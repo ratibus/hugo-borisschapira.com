@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-04-03'
+locale: fr_FR
 slug: discussion-normale
 section: papa
 2015:

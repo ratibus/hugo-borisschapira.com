@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-05-03'
+locale: fr_FR
 slug: bona
 section: papa
 2016:

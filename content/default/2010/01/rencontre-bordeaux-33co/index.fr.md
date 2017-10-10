@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2010-01-27'
+locale: fr_FR
 slug: rencontre-bordeaux-33co
 section: default
 2010:

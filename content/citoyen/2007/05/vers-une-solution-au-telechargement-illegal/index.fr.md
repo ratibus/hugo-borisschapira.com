@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-05-04'
+locale: fr_FR
 slug: vers-une-solution-au-telechargement-illegal
 section: citoyen
 2007:

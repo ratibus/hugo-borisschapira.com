@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-04-20'
+locale: fr_FR
 slug: note-de-service
 section: default
 2010:

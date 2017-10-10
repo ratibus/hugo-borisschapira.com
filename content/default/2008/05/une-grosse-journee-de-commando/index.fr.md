@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-05-26'
+locale: fr_FR
 slug: une-grosse-journee-de-commando
 section: default
 2008:

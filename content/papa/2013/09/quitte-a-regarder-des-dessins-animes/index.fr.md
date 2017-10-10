@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-09-08'
+locale: fr_FR
 slug: quitte-a-regarder-des-dessins-animes
 section: papa
 2013:

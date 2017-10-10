@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-12-07'
+locale: fr_FR
 slug: protectrice
 section: papa
 2013:

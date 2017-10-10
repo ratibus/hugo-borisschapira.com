@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-03-23'
+locale: fr_FR
 slug: le-mit-offre-ses-cours-au-public
 section: default
 2007:

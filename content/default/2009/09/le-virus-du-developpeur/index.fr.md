@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2009-09-30'
+locale: fr_FR
 slug: le-virus-du-developpeur
 section: default
 2009:

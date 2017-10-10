@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-07-03'
+locale: fr_FR
 slug: tout-vient-a-point
 section: papa
 2014:

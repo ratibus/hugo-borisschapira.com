@@ -10,6 +10,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2007-11-18'
+locale: fr_FR
 slug: france-2-et-facebook
 section: citoyen
 2007:

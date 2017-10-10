@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-11-02'
+locale: fr_FR
 slug: decodeur-requis
 section: papa
 2013:

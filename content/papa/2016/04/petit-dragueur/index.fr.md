@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-04-30'
+locale: fr_FR
 slug: petit-dragueur
 section: papa
 2016:

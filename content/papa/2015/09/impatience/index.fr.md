@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-09-16'
+locale: fr_FR
 slug: impatience
 section: papa
 2015:

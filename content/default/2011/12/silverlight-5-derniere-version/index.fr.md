@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2011-12-12'
+locale: fr_FR
 slug: silverlight-5-derniere-version
 section: default
 2011:

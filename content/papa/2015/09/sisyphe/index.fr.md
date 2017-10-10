@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-09-20'
+locale: fr_FR
 slug: sisyphe
 section: papa
 2015:

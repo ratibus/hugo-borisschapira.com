@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-03-19'
+locale: fr_FR
 slug: bienvenue-au-nouveau-lecteur-des-blogs
 section: citoyen
 2008:

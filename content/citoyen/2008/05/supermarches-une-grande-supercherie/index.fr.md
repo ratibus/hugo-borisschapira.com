@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2008-05-15'
+locale: fr_FR
 slug: supermarches-une-grande-supercherie
 section: citoyen
 2008:

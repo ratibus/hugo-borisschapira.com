@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-11-02'
+locale: fr_FR
 slug: un-hook-de-pre-commit-global-pour-ne-jamais-contribuer-un-var_dump
 section: default
 2016:

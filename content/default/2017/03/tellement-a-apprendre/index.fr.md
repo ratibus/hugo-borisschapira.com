@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2017-03-24'
+locale: fr_FR
 slug: tellement-a-apprendre
 section: default
 2017:

@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2010-06-24'
+locale: fr_FR
 slug: phrases-insolites-e2-80-a6-19-clients-from-hell
 section: default
 2010:

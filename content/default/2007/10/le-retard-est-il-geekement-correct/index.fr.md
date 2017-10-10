@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-10-04'
+locale: fr_FR
 slug: le-retard-est-il-geekement-correct
 section: default
 2007:

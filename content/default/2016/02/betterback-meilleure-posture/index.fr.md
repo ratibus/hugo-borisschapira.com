@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-02-16'
+locale: fr_FR
 slug: betterback-meilleure-posture
 section: default
 2016:

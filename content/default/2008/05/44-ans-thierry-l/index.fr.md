@@ -6,6 +6,7 @@ date: '2008-05-03'
 lang: fr
 type: post
 publishDate: '2008-05-03'
+locale: fr_FR
 slug: 44-ans-thierry-l
 section: default
 2008:

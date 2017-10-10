@@ -6,6 +6,7 @@ date: '2008-02-22'
 lang: fr
 type: post
 publishDate: '2008-02-22'
+locale: fr_FR
 slug: ligne-1-lart-de-detendre-ses-usagers
 section: default
 2008:

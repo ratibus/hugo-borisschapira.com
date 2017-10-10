@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-11-18'
+locale: fr_FR
 slug: recommencer
 section: papa
 2016:

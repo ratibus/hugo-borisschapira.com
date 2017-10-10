@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2014-06-20'
+locale: fr_FR
 slug: un-seul-site-vous-manque-et-tout-le-web-est-casse
 section: default
 2014:

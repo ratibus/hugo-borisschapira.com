@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2016-09-01'
+locale: fr_FR
 slug: qualite-web
 section: default
 2016:

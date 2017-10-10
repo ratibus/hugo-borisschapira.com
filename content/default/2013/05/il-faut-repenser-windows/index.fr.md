@@ -11,6 +11,7 @@ type: post
 categories:
     - default
 publishDate: '2013-05-14'
+locale: fr_FR
 slug: il-faut-repenser-windows
 section: default
 2013:

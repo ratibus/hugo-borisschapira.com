@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-02-15'
+locale: fr_FR
 slug: logique-elementaire
 section: papa
 2015:

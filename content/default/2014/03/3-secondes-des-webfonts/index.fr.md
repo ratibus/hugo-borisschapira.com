@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2014-03-04'
+locale: fr_FR
 slug: 3-secondes-des-webfonts
 section: default
 2014:

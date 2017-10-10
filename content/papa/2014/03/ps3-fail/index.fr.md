@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-03-25'
+locale: fr_FR
 slug: ps3-fail
 section: papa
 2014:

@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2008-11-11'
+locale: fr_FR
 slug: premiere-tache-fixer-la-date
 section: default
 2008:

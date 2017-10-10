@@ -7,6 +7,7 @@ date: '2007-10-21'
 lang: fr
 type: post
 publishDate: '2007-10-21'
+locale: fr_FR
 slug: polmique-autour-de-la-lettre-de-guy-moquet
 section: default
 2007:

@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2007-05-03'
+locale: fr_FR
 slug: astoria-un-live-sql
 section: default
 2007:

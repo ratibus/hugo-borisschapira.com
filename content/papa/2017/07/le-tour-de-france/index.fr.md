@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2017-07-16'
+locale: fr_FR
 slug: le-tour-de-france
 section: papa
 2017:

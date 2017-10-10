@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-02-06'
+locale: fr_FR
 slug: citations
 section: citoyen
 2016:

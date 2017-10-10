@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2012-05-30'
+locale: en_US
 slug: sudweb2012-opera-dragonfly-search-form-is-great
 section: default
 2012:

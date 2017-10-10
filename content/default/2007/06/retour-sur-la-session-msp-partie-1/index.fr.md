@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-06-09'
+locale: fr_FR
 slug: retour-sur-la-session-msp-partie-1
 section: default
 2007:

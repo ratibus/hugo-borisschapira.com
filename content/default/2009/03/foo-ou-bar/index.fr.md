@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2009-03-05'
+locale: fr_FR
 slug: foo-ou-bar
 section: default
 2009:

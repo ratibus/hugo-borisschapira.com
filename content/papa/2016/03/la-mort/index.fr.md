@@ -7,6 +7,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-03-04'
+locale: fr_FR
 slug: la-mort
 section: papa
 2016:

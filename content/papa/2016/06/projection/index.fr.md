@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2016-06-17'
+locale: fr_FR
 slug: projection
 section: papa
 2016:

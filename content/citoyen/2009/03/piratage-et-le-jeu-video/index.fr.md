@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2009-03-06'
+locale: fr_FR
 slug: piratage-et-le-jeu-video
 section: citoyen
 2009:

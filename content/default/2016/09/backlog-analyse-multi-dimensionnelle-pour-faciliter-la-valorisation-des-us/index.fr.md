@@ -6,6 +6,7 @@ type: post
 categories:
     - default
 publishDate: '2016-09-26'
+locale: fr_FR
 slug: backlog-analyse-multi-dimensionnelle-pour-faciliter-la-valorisation-des-us
 section: default
 2016:

@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2015-12-28'
+locale: fr_FR
 slug: analyse-du-projet-de-revision-constitutionnelle-etat-urgence
 section: citoyen
 2015:

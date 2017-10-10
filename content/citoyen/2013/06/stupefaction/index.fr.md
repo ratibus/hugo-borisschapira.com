@@ -9,6 +9,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2013-06-27'
+locale: fr_FR
 slug: stupefaction
 section: citoyen
 2013:

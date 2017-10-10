@@ -8,6 +8,7 @@ type: post
 categories:
     - default
 publishDate: '2007-05-09'
+locale: fr_FR
 slug: etude-vtech-sur-la-frequentation-des-blogs
 section: default
 2007:

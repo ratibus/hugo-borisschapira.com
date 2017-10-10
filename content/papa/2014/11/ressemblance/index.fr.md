@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2014-11-11'
+locale: fr_FR
 slug: ressemblance
 section: papa
 2014:

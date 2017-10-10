@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2015-09-16'
+locale: fr_FR
 slug: l-orage-et-la-mort
 section: papa
 2015:

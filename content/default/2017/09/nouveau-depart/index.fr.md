@@ -7,6 +7,7 @@ published: false
 categories:
     - default
 publishDate: '2017-09-14'
+locale: fr_FR
 slug: nouveau-depart
 section: default
 2017:

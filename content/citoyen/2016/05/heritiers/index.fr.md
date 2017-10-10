@@ -8,6 +8,7 @@ type: post
 categories:
     - citoyen
 publishDate: '2016-05-25'
+locale: fr_FR
 slug: heritiers
 section: citoyen
 2016:

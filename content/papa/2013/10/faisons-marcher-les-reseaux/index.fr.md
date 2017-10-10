@@ -6,6 +6,7 @@ type: post
 categories:
     - papa
 publishDate: '2013-10-01'
+locale: fr_FR
 slug: faisons-marcher-les-reseaux
 section: papa
 2013:

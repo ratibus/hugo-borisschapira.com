@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2012-09-11'
+locale: fr_FR
 slug: chtemele-financer-un-jeu-de-cartes-base-sur-html
 section: default
 2012:

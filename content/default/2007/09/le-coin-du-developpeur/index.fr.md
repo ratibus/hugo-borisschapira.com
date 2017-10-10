@@ -9,6 +9,7 @@ type: post
 categories:
     - default
 publishDate: '2007-09-02'
+locale: fr_FR
 slug: le-coin-du-developpeur
 section: default
 2007:

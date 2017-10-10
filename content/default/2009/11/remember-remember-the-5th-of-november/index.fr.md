@@ -7,6 +7,7 @@ date: '2009-11-05'
 lang: fr
 type: post
 publishDate: '2009-11-05'
+locale: fr_FR
 slug: remember-remember-the-5th-of-november
 section: default
 2009:

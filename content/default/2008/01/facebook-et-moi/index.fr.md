@@ -10,6 +10,7 @@ type: post
 categories:
     - default
 publishDate: '2008-01-07'
+locale: fr_FR
 slug: facebook-et-moi
 section: default
 2008:
