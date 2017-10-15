@@ -31,8 +31,9 @@ Je le vois qui réfléchit. Soudain, il sait :
 
 > L'hiver, il fait trop froid pour faire caca !
 
-<figure>
-  <img src="{{<fileFolder>}}jack.gif" alt="Jack Nicholson, visiblement confus"/>
-  <figcaption>C'est pas comme ça que j'avais défini le truc, moi.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="jack"
+    alt="Jack Nicholson, visiblement confus"
+    caption="C'est pas comme ça que j'avais défini le truc, moi."
+%}
 

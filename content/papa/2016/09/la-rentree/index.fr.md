@@ -25,7 +25,9 @@ Au dîner du soir, ma femme demande donc :
 
 > Non.
 
-<figure>
-  <img src="{{<fileFolder>}}knowing-glance.gif" alt="Le capitaine Kirk et Spock s'échangent un regard complice."/>
-  <figcaption><em lang="en">What happens in Vegas stays in Vegas.</em></figcaption>
-</figure>
+{% capture cap %}<em lang="en">What happens in Vegas stays in Vegas.</em>{% endcapture %}
+{% include video_as_a_gif.html.liquid
+    slug="knowing-glance"
+    alt="Le capitaine Kirk et Spock s'échangent un regard complice."
+    caption=cap
+%}

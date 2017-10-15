@@ -18,8 +18,6 @@ Me voilà donc installé dans ma nouvelle maison, dans une nouvelle ville, avec 
 
 <!--more-->
 
-
-
 ## À propos de la productivité
 
 Oui, il y a des dispersions possibles, liées à la vie personnelle. 

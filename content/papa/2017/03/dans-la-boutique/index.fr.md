@@ -23,7 +23,8 @@ Soudain, mon fils prend la parole, enfin, hurle :
 
 > Madame, elles sont où les caméras ? Moi j'aime bien savoir où elles sont les caméras !
 
-<figure>
-  <img src="{{<fileFolder>}}awkward.gif" alt="Conan O'Brian n'est pas à l'aise"/>
-  <figcaption>J'étais hyper à l'aise.</figcaption>
-</figure>
+{% include video_as_a_gif.html.liquid
+    slug="awkward"
+    alt="Conan O'Brian n'est pas à l'aise"
+    caption="J'étais hyper à l'aise."
+%}
