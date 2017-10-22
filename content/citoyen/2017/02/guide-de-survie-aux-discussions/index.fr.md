@@ -7,6 +7,8 @@ categories:
     - citoyen
 publishDate: '2017-02-14'
 locale: fr_FR
+tags:
+    - guide
 slug: guide-de-survie-aux-discussions
 section: citoyen
 2017:
