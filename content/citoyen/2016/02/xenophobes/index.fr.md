@@ -10,6 +10,7 @@ categories:
     - citoyen
 publishDate: '2016-02-01'
 locale: fr_FR
+loadTwitterWjs: true
 slug: xenophobes
 section: citoyen
 2016:
@@ -25,4 +26,3 @@ Plus troublant : le lien entre faciès et religion. Le sondage parle d'altercati
 J'en viens donc au vrai scandale : qu'un sondage pareil soit réalisé. Comme [celui sur la prolongation de l'État d'Urgence](/2016/01/favorables/ "Favorables ?"), il me semble évident que la question est mal posée. Qui est le pyromane qui, au _JDD_, s'est dit que la réalisation de ce sondage et sa publication, sachant tous les biais qu'il comporte et tous les stéréotypes qu'il véhicule, était une bonne idée ?
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">Hmmm, le beau sondage du <a href="https://twitter.com/leJDD">@leJDD</a>.. <a href="https://t.co/7Rpy7wesBr">pic.twitter.com/7Rpy7wesBr</a></p>&mdash; Xavier Frison (@xfrison) <a href="https://twitter.com/xfrison/status/693766933620113408">31 Janvier 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -8,6 +8,7 @@ categories:
     - citoyen
 publishDate: '2015-12-29'
 locale: fr_FR
+loadTwitterWjs: true
 slug: analyse-du-projet-de-revision-constitutionnelle-decheance-de-nationalite
 section: citoyen
 2015:
@@ -22,4 +23,3 @@ section: citoyen
 Ne nous y trompons pas : la déchéance ne servira pas qu'à lutter contre le terrorisme. En dehors des usages du gouvernement en place (qui, rappelons-le, assigne à résidence des opposants écologistes), elle pourra également servir aux suivants puisqu'elle réintroduit la nationalité comme un domaine indépendant de la Loi. L'extrême droite doit jubiler et salive d'impatience à l'idée de ce qu'elle pourra faire de tout ça pour lutter contre les "invasions migratoires" (pendant ce temps, l'Allemagne a recruté 8 500 enseignants pour apprendre l'allemand aux réfugiés, c'est dire si nous sommes à côté de la plaque).
 
 <blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">.<a href="https://twitter.com/f_philippot">@f_philippot</a> : &quot;Une fois le principe réhabilité, il faudra appliquer la déchéance de nationalité plus largement.&quot; <a href="https://twitter.com/itele">@itele</a></p>&mdash; Front National (@FN_officiel) <a href="https://twitter.com/FN_officiel/status/681377372977926144">28 Décembre 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
