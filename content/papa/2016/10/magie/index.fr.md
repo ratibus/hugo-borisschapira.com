@@ -13,5 +13,5 @@ section: papa
     - '10'
 ---
 
-> – Woaw, Papa, il y avait de l'eau et après, elle a disparu. C'est de la magie !  
-> – Presque, chéri, c'est de la semoule.
+> — Woaw, Papa, il y avait de l'eau et après, elle a disparu. C'est de la magie !  
+> — Presque, chéri, c'est de la semoule.
