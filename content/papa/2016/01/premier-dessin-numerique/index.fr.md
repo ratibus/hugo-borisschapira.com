@@ -14,7 +14,7 @@ section: papa
     - '01'
 ---
 
-Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <em lang="en">trackpad</em> pour dessiner sur l'ordinateur avec GIMP.
+Pendant que le petit faisait sa sieste, j'ai appris au grand à utiliser le <span lang="en">trackpad</span> pour dessiner sur l'ordinateur avec GIMP.
 
 J'ai commencé par lui montrer comment dessiner un petit loup :
 

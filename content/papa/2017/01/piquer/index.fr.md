@@ -13,7 +13,7 @@ section: papa
     - '01'
 ---
 
-Nous avons une règle à la maison : les fruits sont toujours en <em lang="en">open bar</em>. Les enfants ont appris à en manger quand ça leur prend et des fois, on leur en "pique" un morceau et tout le monde rigole.
+Nous avons une règle à la maison : les fruits sont toujours en <span lang="en">open bar</span>. Les enfants ont appris à en manger quand ça leur prend et des fois, on leur en "pique" un morceau et tout le monde rigole.
 
 <!--more-->
 
