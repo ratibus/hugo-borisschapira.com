@@ -6,7 +6,6 @@
       </div>
       <div class="nav-right">
         <nav class="nav-item level is-mobile">
-            <a class="level-item" href="{{ "/" | relLangURL }}">{{ i18n "home" }}</a>
           {{ $currentNode := . }}
           {{ range .Site.Menus.main }}
           {{ if eq .Name "Default" }}
