@@ -2,9 +2,9 @@
 lang: fr
 type: post
 categories:
-    - default
+    - web
 slug: tellement-a-apprendre
-section: default
+section: web
 2017:
     - '03'
 ---
