@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-11-09'
 locale: fr_FR
-published: true
 slug: la-banque-du-parmesan
 section: papa
 2017:

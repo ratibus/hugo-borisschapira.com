@@ -22,7 +22,7 @@ Le format MP4 représente plus de 75 % des vidéos diffusées sur Internet aujou
 
 {% capture img_alt %}Graphique de courbes{% endcapture %}
 {% capture img_caption %}Évolution des usages des différents types de formats video sur le Web. 
-Source: Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
+Source : Données HttpArchive requêtées  via [BigQuery](https://goo.gl/srggsf).{% endcapture %}
 {% include rwd-image.html.liquid 
     path="/assets/images/2018-01-18/0_video_usage.png"
     alt=img_alt
@@ -60,7 +60,7 @@ Par exemple, vous pouvez évaluer le <span lang="en">bitrate</span> nécessaire 
 
 Vous pouvez facilement anticiper le poids d'une vidéo après l'encodage en utilisant soit un <span lang="en">bitrate</span> constant sur l'ensemble de la vidéo, soit un encodage à plusieurs passes pour un [<span lang="en">bitrate</span> variable](https://fr.wikipedia.org/wiki/Variable_bitrate). Voici une comparaison entre un extrait original de 10 secondes d'une séquence du décollage d'Endeavour et un encodage à deux passes avec ffmpeg. La vidéo à gauche pesait 85 Mo, celle de droite pèse 1,2 Mo après optimisation :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Cet exemple montre ce qui peut techniquement être fait pour améliorer le poids d'une vidéo, mais nous pouvons aussi extrapoler des optimisations à partir des objectifs métier de la vidéo. Il est assez courant, par exemple, de visiter des sites dont la page d'accueil affiche une large zone avec un message de bienvenue, occupant l'ensemble de la fenêtre. Parfois, derrière cette zone, qu’on appelle "Hero Container", une vidéo de fond est diffusée. 
 
@@ -76,7 +76,7 @@ L'option `-vf frei0r=iirblur:0.4` indique à ffmpeg de flouter avec un coefficie
 
 Résultat :
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Autre optimisation possible : la piste audio. Si votre vidéo n'est pas destinée à jouer du son, pourquoi garder cette piste ? N'hésitez pas à la retirer :
 
@@ -142,7 +142,7 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 
 **Faites attention à l'<span lang="en">autoplay</span>**. Non seulement son usage est perçu négativement par de nombreux utilisateurs s’il n'est pas utilisé correctement (d’une manière subtile et non-bloquante, derrière un arrière-plan par exemple) mais en plus la lecture de la vidéo consomme toujours une certaine bande passante, ce qui ralentit le téléchargement d'autres ressources.
 
-**Pour jouer des vidéos en Full HD ou maximiser l’UX, utilisez des solutions dédiées.** Il existe une grande variété de solutions <abbr title="Software as a Service" lang="en">SaaS</abbr> ou en déploiement sur site pour gérer, encoder et diffuser du contenu. Ces solutions, qu’elles soient spécialisées dans la diffusion, la fourniture d’une plate-forme vidéo en ligne (<abbr title="Online Video Platform" lang="en">OVP</abbr>) ou la gestion de contenu vidéo d'entreprise (<abbr title="Enterprise Video Content Management" lang="en">ECVM</abbr>), proposent souvent une fonctionnalité appellée <span lang="en">Adaptative Bitrate</span>, ou débit adaptatif. Si vous avez accès à un réseau de qualité : la vidéo est claire et les couleurs sont riches. Si votre réseau perd subitement en capacité, la vidéo s'adapte en sacrifiant un peu de qualité, pour préserver la fluidité de la lecture. Pour réaliser ce tour de force, un script JavaScript détecte la bande passante courante de l'utilisateur et le fait basculer dynamiquement entre plusieurs versions d'une vidéo encodée avec différents <span lang="en">bitrates</span>, assurant une expérience utilisateur optimale dans n'importe quel contexte. Si vous êtes intéressé·e·s, regardez du côté de [Brightcove](https://www.brightcove.com/fr/), [Kaltura](https://fr.corp.kaltura.com/), [Qumu](https://www.qumu.com/), etc.
+**Pour jouer des vidéos en Full HD ou maximiser l’UX, utilisez des solutions dédiées.** Il existe une grande variété de solutions <abbr title="Software as a Service" lang="en">SaaS</abbr> ou en déploiement sur site pour gérer, encoder et diffuser du contenu. Ces solutions, qu’elles soient spécialisées dans la diffusion, la fourniture d’une plate-forme vidéo en ligne (<abbr title="Online Video Platform" lang="en">OVP</abbr>) ou la gestion de contenu vidéo d'entreprise (<abbr title="Enterprise Video Content Management" lang="en">ECVM</abbr>), proposent souvent une fonctionnalité appelée <span lang="en">Adaptative Bitrate</span>, ou débit adaptatif. Si vous avez accès à un réseau de qualité : la vidéo est claire et les couleurs sont riches. Si votre réseau perd subitement en capacité, la vidéo s'adapte en sacrifiant un peu de qualité, pour préserver la fluidité de la lecture. Pour réaliser ce tour de force, un script JavaScript détecte la bande passante courante de l'utilisateur et le fait basculer dynamiquement entre plusieurs versions d'une vidéo encodée avec différents <span lang="en">bitrates</span>, assurant une expérience utilisateur optimale dans n'importe quel contexte. Si vous êtes intéressé·e·s, regardez du côté de [Brightcove](https://www.brightcove.com/fr/), [Kaltura](https://fr.corp.kaltura.com/), [Qumu](https://www.qumu.com/), etc.
 
 **Souvent, la meilleure solution est de retirer la vidéo.** N’ayez pas peur de ne pas afficher vos vidéos dans certaines situations, surtout si elles sont décoratives. Une media-query CSS bien placée protègera vos utilisateurs mobiles d’une mauvaise expérience. Envisagez également de prendre en charge le [Client Hint "Save-Data" (EN)](https://tools.ietf.org/html/draft-ietf-httpbis-client-hints-04#section-3.5), une instruction explicitement donnée par le navigateur au serveur pour que ce dernier lui communique une quantité de données réduite.
 
@@ -152,5 +152,7 @@ ffmpeg -i source.mp4 -c:v libvpx-vp9 -b:v 1M -pass 1 -f webm /dev/null && ffmpeg
 * **Optimisez le streaming** en encodant vos vidéos de manière à servir les métadonnées au plus tôt.
 * **Proposez des alternatives à MP4**, comme WebM, qui peuvent être plus performantes.
 * Faites attention à l'<span lang="en">autoplay</span>, envisagez des solutions dédiées pour le Full HD et n'hésitez pas à ne pas proposer de vidéos quand le contexte le demande.
+
+***
 
 _Merci à [Ravana Renoncé](https://www.linkedin.com/in/ravana/) et [Rick Viscomi](https://twitter.com/rick_viscomi) pour leur aide._

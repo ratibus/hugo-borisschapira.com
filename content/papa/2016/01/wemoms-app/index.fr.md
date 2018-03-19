@@ -17,7 +17,7 @@ J'ai rejoint, il y a peu, la communauté WeMoms (des [applications Android et iP
 
 Récemment, quelqu'un m'a fait remarquer que je n'étais pas une "Maman" (un de ceux qui pensent que [je suis une femme](/2016/01/salaires-femmes-inegalites/)). Je remercie profondément cette personne, je ne m'étais rendu compte de rien et vivait dans le déni depuis des années. Sans elle, je ne sais pas ce que je serais devenu. Plus sérieusement, je ne vois pas pourquoi je devrais en prendre ombrage : les femmes utilisent depuis des années des services qui sont entièrement orientés vers les hommes, avec des pubs destinées aux hommes et des codes très masculins. Alors pourquoi l'inverse serait dégradant ? Ce dont je me rends compte, c'est qu'en revanche certaines femmes publient des questions qui touchent à l'intime et que l'intervention d'un homme peut les gêner : je le respecte et n'interviens que dans les questions parlant de la relation à l'enfant.
 
-Ceci étant, je note quand même certaines choses qui m'attristent dans les messages (mais tout est une question de point de vue, bien sûr, et mon avis ne vaut pas grand chose) :
+Ceci étant, je note quand même certaines choses qui m'attristent dans les messages (mais tout est une question de point de vue, bien sûr, et mon avis ne vaut pas grand-chose) :
 
 * beaucoup de femmes se plaignent de leur homme qui "ne fait rien" mais avouent, parallèlement, qu'elles ne leur laissent rien faire, ou surveillent tout (laissez-les seuls 5 jours avec l'enfant, vous verrez, ça leur fera du bien) ;
 * la surprotection de l'enfant est très valorisée, même dans des âges où l'enfant devrait être encouragé à faire des expériences différentes, considérées parfois comme dangereuses par la mère ;
@@ -25,5 +25,5 @@ Ceci étant, je note quand même certaines choses qui m'attristent dans les mess
 * très peu de mères semblent lire des livres sur l'enfance. Du coup, la plupart des questions concernant la sécurité, l'alimentation et la santé sont assez basiques. Cela souligne la pertinence qu'il pourrait y avoir à proposer des formations à la manière de [l'Atelier du Futur Papa](http://www.atelierdufuturpapa.com/). Vu le nombre de fois où un nez qui coule finit chez le médecin, je suis même certain que même en rendant un tel service public et gratuit, on économiserait quand même sur les frais de Sécurité Sociale…
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TbiIWcOF0JM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TbiIWcOF0JM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

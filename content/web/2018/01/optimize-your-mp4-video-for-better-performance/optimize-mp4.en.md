@@ -31,6 +31,8 @@ Source: HttpArchive through [a BigQuery query](https://goo.gl/srggsf){% endcaptu
 
 <!--more-->
 
+<em class="canonical">**Note&nbsp;:**this post first appeared on the [Dareboost's Blog](https://blog.dareboost.com/en/) in [{{ page.title }}]({{ page.canonical }}).</em>
+
 Whether you are a luxury player wishing to broadcast extremely high-quality videos or a news platform looking for an eye-catching proposal, video has become an essential part of the Web in just a few years. But adding video to a site can be challenging.
 
 The most widely used and supported encoding is undoubtedly H.264, served by an MP4 file. This format is supported by most video manipulation software: [Handbrake](https://handbrake.fr/), [MPEG Streamclip](http://www.squared5.com/), [OpenShot](https://www.openshot.org/)… even [VLC](https://www.videolan.org/)! But few of them offer a dedicated export for the Web.
@@ -59,7 +61,7 @@ For example, it is interesting to evaluate the necessary bitrate according to th
 
 You can easily anticipate the weight of a video after encoding by using either a constant bitrate over the entire video, or a [multi-pass encoding](https://en.wikipedia.org/wiki/Variable_bitrate#Multi-pass_encoding_and_single-pass_encoding). Here is a comparison between an original 10-second extract of a footage from the June 2009 Endeavour liftoff and a two-pass encoding with ffmpeg. Left part weighted 85MB, right video weighted 1,2MB after being optimized:
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M99TPB7qMsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 This example shows what can technically be done to improve the weight of a video, but we can also extrapolate optimizations from the video purpose. It is quite common, for example, to visit web pages containing a large centered content banner with a welcoming message. Sometimes, behind this "Hero Container", a background video is played. 
 
@@ -75,7 +77,7 @@ The `-vf frei0r=iirblur:0.4` option telles ffmpeg to blur, using a 40 % factor, 
 
 Result:
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nwGDXk9eE8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Another possible optimization: the audio track. If your video is not meant to play sound, why keep this track? Don't hesitate to remove it:
 
@@ -151,5 +153,7 @@ From the optimized 1.2MB video of Endeavour Shuttle presented at the beginning o
 * **Optimize streaming** by encoding your videos to serve metadata as soon as possible.
 * **Propose alternatives to MP4**, such as WebM.
 * Be careful with autoplay, consider dedicated solutions for Full HD and don't hesitate to hide videos when needed.
+
+***
 
 *Thanks to [Ravana Renoncé](https://www.linkedin.com/in/ravana/) and [Rick Viscomi](https://twitter.com/rick_viscomi) for their help.*
