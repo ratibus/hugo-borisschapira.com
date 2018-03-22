@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-02-25'
 locale: fr_FR
-published: true
 slug: victime-de-la-mode
 section: papa
 2018:

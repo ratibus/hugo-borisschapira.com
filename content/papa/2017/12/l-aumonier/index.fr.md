@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-08'
 locale: fr_FR
-published: true
 slug: l-aumonier
 section: papa
 2017:

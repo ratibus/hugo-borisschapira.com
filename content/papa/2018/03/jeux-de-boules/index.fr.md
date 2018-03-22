@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-13'
 locale: fr_FR
-published: true
 slug: jeux-de-boules
 section: papa
 2018:

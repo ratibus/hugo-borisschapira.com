@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-15'
 locale: fr_FR
-published: true
 slug: dessin-du-jour
 section: papa
 2018:

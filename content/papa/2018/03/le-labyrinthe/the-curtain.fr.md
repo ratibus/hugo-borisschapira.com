@@ -8,7 +8,6 @@ categories:
     - papa
 publishDate: '2018-03-07'
 locale: fr_FR
-published: true
 slug: le-labyrinthe
 section: papa
 2018:
@@ -25,7 +24,7 @@ Nous étions au Mc Donald's, ils jouaient dans les jeux d'intérieur. Il vint me
 
 {% capture alt_text%}Extrait de Star Wars pendant lequel R2D2 se lance contre un mur.{% endcapture %}
 {% include video_as_a_gif.html.liquid
-    slug="r2d2"
+    url="/assets/images/papa/2018-03-07/r2d2"
     alt=alt_text
 %}
 

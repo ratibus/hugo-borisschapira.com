@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-01'
 locale: fr_FR
-published: true
 slug: la-dame-qui-n-a-pas-de-sexe
 section: papa
 2018:

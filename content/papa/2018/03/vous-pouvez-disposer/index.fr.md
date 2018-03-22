@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-03-03'
 locale: fr_FR
-published: true
 slug: vous-pouvez-disposer
 section: papa
 2018:

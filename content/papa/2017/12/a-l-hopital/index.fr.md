@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-16'
 locale: fr_FR
-published: true
 slug: a-l-hopital
 section: papa
 2017:

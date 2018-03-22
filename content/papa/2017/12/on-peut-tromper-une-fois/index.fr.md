@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-08'
 locale: fr_FR
-published: true
 slug: on-peut-tromper-une-fois
 section: papa
 2017:

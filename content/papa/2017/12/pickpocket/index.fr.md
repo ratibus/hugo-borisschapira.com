@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-11'
 locale: fr_FR
-published: true
 slug: pickpocket
 section: papa
 2017:

@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-12'
 locale: fr_FR
-published: true
 slug: les-nomosessuels
 section: papa
 2018:

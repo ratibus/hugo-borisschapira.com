@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-18'
 locale: fr_FR
-published: true
 slug: journees-enfant-malade
 section: papa
 2017:

@@ -8,14 +8,13 @@ categories:
     - papa
 publishDate: '2018-01-12'
 locale: fr_FR
-published: true
 slug: tic-et-tac
 section: papa
 2018:
     - '01'
 ---
 
-Je viens de trouver une poignée de cacahuètes dans une chaussette cachée derrière un radiateur. J'ai pas des enfants, j'ai des écureuils : ils font des réserve pour l'hiver.
+Je viens de trouver une poignée de cacahuètes dans une chaussette cachée derrière un radiateur. J'ai pas des enfants, j'ai des écureuils : ils font des réserves pour l'hiver.
 
 <!--more-->
 

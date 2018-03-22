@@ -8,7 +8,6 @@ categories:
     - papa
 publishDate: '2018-03-08'
 locale: fr_FR
-published: true
 slug: docteur-des-pas-morts
 section: papa
 2018:

@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-02-11'
 locale: fr_FR
-published: true
 slug: mille-sous
 section: papa
 2018:

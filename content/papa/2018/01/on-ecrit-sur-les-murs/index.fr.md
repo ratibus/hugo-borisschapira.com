@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-18'
 locale: fr_FR
-published: true
 slug: on-ecrit-sur-les-murs
 section: papa
 2018:

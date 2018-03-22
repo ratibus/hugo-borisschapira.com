@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-19'
 locale: fr_FR
-published: true
 slug: du-vin-de-pirates
 section: papa
 2018:

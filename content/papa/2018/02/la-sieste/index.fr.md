@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-02-09'
 locale: fr_FR
-published: true
 slug: la-sieste
 section: papa
 2018:

@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-02-06'
 locale: fr_FR
-published: true
 slug: le-roi
 section: papa
 2018:

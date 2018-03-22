@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-21'
 locale: fr_FR
-published: true
 slug: zazawon
 section: papa
 2017:

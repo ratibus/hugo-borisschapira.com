@@ -8,7 +8,6 @@ categories:
     - papa
 publishDate: '2018-01-16'
 locale: fr_FR
-published: true
 slug: injection-d-independance
 section: papa
 2018:

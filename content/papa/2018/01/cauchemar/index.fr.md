@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-31'
 locale: fr_FR
-published: true
 slug: cauchemar
 section: papa
 2018:

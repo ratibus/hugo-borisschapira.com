@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2017-12-13'
 locale: fr_FR
-published: true
 slug: les-petites-betes
 section: papa
 2017:

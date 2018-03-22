@@ -7,7 +7,6 @@ categories:
     - papa
 publishDate: '2018-01-06'
 locale: fr_FR
-published: true
 slug: les-anbibiotiques
 section: papa
 2018:
