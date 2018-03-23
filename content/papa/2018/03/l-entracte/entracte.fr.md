@@ -14,14 +14,14 @@ section: papa
     - '03'
 ---
 
-Nous emmenons les enfants voir un spectacle. Au milier est proposé un petit entracte. On s’asseoit avec les enfants pour discuter et boire un peu.
+Nous emmenons les enfants voir un spectacle. Au milieu est proposé un petit entracte. On s’asseoit avec les enfants pour discuter et boire un peu.
 
 <!--more-->
 
 Le petit demande :
 
 > – Maman, c’est fini le spectacle ?  
-> – Non y’a ma deuxième partie, là c’était l’entracte.  
+> – Non, il y a une deuxième partie, là c’était l’entracte.  
 > – Ah...  
 > – L’entracte ça veut dire...  
 > – Non mais, je sais ce que c’est Maman l’entracte parce que chez Mamie quand on regarde un dessin animé, on fait l’entracte pour manger des petits bonbons !
